@@ -4,6 +4,9 @@ url: "https://sucesionescordoba.com.ar"
 lang: "es-AR"
 timezone: "America/Argentina/Cordoba"
 
+# Modo construcción: evita indexación hasta que el contenido esté listo
+site_noindex: true
+
 permalink: /:slug/
 
 plugins:
