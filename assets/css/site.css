@@ -55,6 +55,29 @@ a:hover{ opacity: .95; }
   color: var(--legal-primary) !important;
 }
 
+/* Navbar on the masthead (home): keep it readable over dark image */
+.page-home #mainNav:not(.navbar-shrink){
+  background: rgba(11,42,74,.18) !important;
+  backdrop-filter: blur(6px);
+}
+.page-home #mainNav:not(.navbar-shrink) .navbar-brand,
+.page-home #mainNav:not(.navbar-shrink) .navbar-nav .nav-item .nav-link{
+  color: rgba(255,255,255,.92) !important;
+}
+.page-home #mainNav:not(.navbar-shrink) .navbar-nav .nav-item .nav-link:hover{
+  color: #ffffff !important;
+}
+.page-home #mainNav:not(.navbar-shrink) .navbar-toggler{
+  border-color: rgba(255,255,255,.45);
+}
+.page-home #mainNav:not(.navbar-shrink) .navbar-toggler-icon{
+  filter: invert(1);
+}
+
+/* Navbar typography: slightly bigger + more "estudio" */
+#mainNav .navbar-brand{ font-size: 1.15rem; letter-spacing: .2px; }
+#mainNav .navbar-nav .nav-item .nav-link{ font-size: 1.02rem; font-weight: 600; }
+
 /* Divider (Creative uses an orange hardcoded color) */
 hr.divider{
   background-color: var(--legal-primary) !important;
@@ -67,6 +90,20 @@ header.masthead{
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
+  box-shadow: 0 14px 40px rgba(0,0,0,.22);
+}
+
+/* Home: make the section after masthead clearly distinct (less "fundido") */
+.page-home #about.page-section{
+  background: var(--legal-bg) !important;
+}
+.page-home #about .text-white,
+.page-home #about .text-white-75,
+.page-home #about p{
+  color: var(--legal-text) !important;
+}
+.page-home #about .divider-light{
+  background-color: var(--legal-primary) !important;
 }
 
 /* Buttons: less "agency", more professional */

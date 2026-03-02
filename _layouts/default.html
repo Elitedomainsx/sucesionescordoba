@@ -24,7 +24,7 @@
     <!-- Site overrides -->
     <link rel="stylesheet" href="/assets/css/site.css" />
   </head>
-  <body id="page-top" class="{% if page.url != '/' %}page-internal{% endif %}">
+  <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
     {% include nav.html %}
 
     {{ content }}
