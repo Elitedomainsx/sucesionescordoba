@@ -169,6 +169,33 @@ header.masthead{
   border-radius: 16px !important;
 }
 
+/* FAQ accordion (sobrio, legal) */
+.faq-section{ margin-top: 3rem; }
+.faq-accordion .accordion-item{
+  border: 1px solid var(--legal-border);
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: .75rem;
+  background: #fff;
+}
+.faq-accordion .accordion-button{
+  font-weight: 600;
+  color: var(--legal-text);
+  background: #fff;
+}
+.faq-accordion .accordion-button:not(.collapsed){
+  color: var(--legal-primary);
+  background: #F8FAFC;
+  box-shadow: none;
+}
+.faq-accordion .accordion-body{
+  font-size: 1.02rem;
+  line-height: 1.7;
+}
+.faq-accordion .accordion-button:focus{
+  box-shadow: 0 0 0 .2rem rgba(11,42,74,.15);
+}
+
 /* Footer calmer */
 .site-footer{
   background: #0B0F14;
