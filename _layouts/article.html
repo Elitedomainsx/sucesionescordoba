@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="article mx-auto">
+  <header class="mb-3">
+    <h1 class="display-6 fw-semibold">{{ page.h1 | default: page.title }}</h1>
+    {% if page.quick %}
+      <div class="alert alert-primary mt-3">
+        <strong>Respuesta rápida:</strong> {{ page.quick }}
+      </div>
+    {% endif %}
+  </header>
+
+  <div class="article-body">
+    {{ content }}
+  </div>
+
+  <hr class="my-4">
+
+  <div class="p-3 p-md-4 border rounded-3">
+    <div class="fw-semibold">¿Querés que lo evaluemos en tu caso?</div>
+    <div class="small text-muted">Consulta inicial orientativa. La información del sitio es general.</div>
+    <a class="btn btn-success mt-2" href="/contacto/">Contactar</a>
+  </div>
+</article>
