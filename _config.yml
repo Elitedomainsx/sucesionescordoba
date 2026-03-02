@@ -1,6 +1,6 @@
 title: "Sucesiones Córdoba"
 description: "Guía clara sobre sucesiones y declaratoria de herederos en Córdoba. Consulta inicial."
-url: "https://TU_USUARIO.github.io" # luego lo cambiamos a https://sucesionescordoba.com.ar
+url: "https://sucesionescordoba.com.ar"
 lang: "es-AR"
 timezone: "America/Argentina/Cordoba"
 
@@ -8,4 +8,5 @@ permalink: /:slug/
 
 plugins:
   - jekyll-seo-tag
+
   - jekyll-sitemap
