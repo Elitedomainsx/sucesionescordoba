@@ -8,6 +8,11 @@ window.addEventListener('DOMContentLoaded', () => {
   const navbarShrink = () => {
     const navbarCollapsible = document.body.querySelector('#mainNav');
     if (!navbarCollapsible) return;
+    const forceShrink = document.body.classList.contains('page-internal');
+    if (forceShrink) {
+      navbarCollapsible.classList.add('navbar-shrink');
+      return;
+    }
     if (window.scrollY === 0) navbarCollapsible.classList.remove('navbar-shrink');
     else navbarCollapsible.classList.add('navbar-shrink');
   };
