@@ -95,7 +95,10 @@ header.masthead{
 
 /* Home: make the section after masthead clearly distinct (less "fundido") */
 .page-home #about.page-section{
-  background: var(--legal-bg) !important;
+  /* Slightly darker than white so it doesn't blend with the next section */
+  background: #EEF2F7 !important;
+  border-top: 1px solid rgba(255,255,255,.12);
+  border-bottom: 1px solid var(--legal-border);
 }
 .page-home #about .text-white,
 .page-home #about .text-white-75,
@@ -104,6 +107,24 @@ header.masthead{
 }
 .page-home #about .divider-light{
   background-color: var(--legal-primary) !important;
+}
+
+/* Fix: "btn-light" becomes invisible on a light section background */
+.page-home #about .btn.btn-light{
+  background-color: #ffffff !important;
+  border: 1px solid var(--legal-border) !important;
+  color: var(--legal-primary) !important;
+  box-shadow: 0 0.5rem 1.25rem rgba(0,0,0,.06);
+}
+.page-home #about .btn.btn-light:hover{
+  background-color: #F8FAFC !important;
+  border-color: #CBD5E1 !important;
+  color: var(--legal-primary) !important;
+}
+
+/* Add a clear separation for the next section */
+.page-home #services.page-section{
+  background: #ffffff;
 }
 
 /* Buttons: less "agency", more professional */
