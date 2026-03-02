@@ -1,4 +1,8 @@
-<nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+{%- assign nav_classes = "navbar navbar-expand-lg navbar-light fixed-top py-3" -%}
+{%- unless page.url == "/" -%}
+  {%- assign nav_classes = nav_classes | append: " navbar-shrink" -%}
+{%- endunless -%}
+<nav class="{{ nav_classes }}" id="mainNav">
   <div class="container px-4 px-lg-5">
     <a class="navbar-brand" href="/">Sucesiones Córdoba</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
