@@ -1,30 +1,126 @@
-/* Site overrides (legal/editorial) */
+/* Site overrides — Legal reskin for Creative (Bootstrap 5) */
 
-/* Keep article pages readable */
-.article {
-  max-width: 860px;
-}
-.article-body p,
-.article-body li {
-  line-height: 1.75;
-  font-size: 1.05rem;
-}
-.article-body h2 { margin-top: 2rem; }
-.article-body h3 { margin-top: 1.25rem; }
+:root{
+  --legal-primary:#0B2A4A;
+  --legal-primary-rgb:11,42,74;
+  --legal-text:#1F2937;
+  --legal-muted:#6B7280;
+  --legal-bg:#F5F7FA;
+  --legal-border:#E5E7EB;
+  --legal-link:#2563EB;
 
-/* CTA box (subtle) */
-.cta-box {
+  /* Bootstrap variables override */
+  --bs-primary: var(--legal-primary);
+  --bs-primary-rgb: var(--legal-primary-rgb);
+  --bs-link-color: var(--legal-link);
+  --bs-link-hover-color: #1D4ED8;
+  --bs-body-color: var(--legal-text);
+  --bs-body-bg: #ffffff;
+  --bs-border-color: var(--legal-border);
+  --bs-font-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+body{
+  font-family: var(--bs-font-sans-serif);
+  color: var(--legal-text);
   background: #ffffff;
 }
 
-/* Make footer calmer */
-.site-footer {
-  background: #0b0f14;
+/* Headings: more "estudio jurídico" */
+h1,h2,h3,h4,h5,h6,
+.display-6,
+header.masthead h1, header.masthead .h1{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  letter-spacing: .2px;
 }
+
+/* Links */
+a{ color: var(--legal-link); }
+a:hover{ opacity: .95; }
+
+/* Navbar: calm + clear on white pages */
+#mainNav.navbar-shrink{
+  background:#ffffff !important;
+  border-bottom: 1px solid var(--legal-border);
+  box-shadow: 0 0.25rem 0.75rem rgba(0,0,0,.06);
+}
+#mainNav .navbar-brand{
+  color: var(--legal-primary) !important;
+  font-weight: 700;
+}
+#mainNav .navbar-nav .nav-item .nav-link{
+  color: var(--legal-text) !important;
+}
+#mainNav .navbar-nav .nav-item .nav-link:hover{
+  color: var(--legal-primary) !important;
+}
+
+/* Divider (Creative uses an orange hardcoded color) */
+hr.divider{
+  background-color: var(--legal-primary) !important;
+}
+
+/* Masthead overlay: remove warm brown, use navy overlay */
+header.masthead{
+  background: linear-gradient(to bottom, rgba(11,42,74,0.86) 0%, rgba(11,42,74,0.86) 100%),
+              url("/assets/creative/assets/img/bg-masthead.jpg") !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+/* Buttons: less "agency", more professional */
+.btn-primary{
+  background-color: var(--legal-primary) !important;
+  border-color: var(--legal-primary) !important;
+}
+.btn-primary:hover{ filter: brightness(.95); }
+
+.btn-xl{
+  border-radius: 0.85rem !important;
+  text-transform: none !important;
+  letter-spacing: .2px;
+}
+
+/* Alerts: "Respuesta rápida" subtle */
+.alert{
+  border-radius: 12px;
+}
+.alert-primary{
+  background: #EEF4FF !important;
+  border: 1px solid #D6E4FF !important;
+  color: var(--legal-text) !important;
+}
+
+/* Article layout readability */
+.article{
+  max-width: 860px;
+}
+.article-body p,
+.article-body li{
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+.article-body h2{ margin-top: 2rem; }
+.article-body h3{ margin-top: 1.25rem; }
+
+/* CTA box (subtle) */
+.cta-box{
+  background: #ffffff;
+  border-color: var(--legal-border) !important;
+  border-radius: 16px !important;
+}
+
+/* Footer calmer */
+.site-footer{
+  background: #0B0F14;
+}
+.site-footer a{ color: #D1D5DB; }
+.site-footer a:hover{ color:#ffffff; }
 
 /* Small tweak: reduce masthead text width */
 .masthead .masthead-subheading,
-.masthead p {
+.masthead p{
   max-width: 52rem;
   margin-left: auto;
   margin-right: auto;
