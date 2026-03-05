@@ -28,7 +28,6 @@ No hay un “precio único” de sucesión. En la práctica, el costo total se e
 Si querés el panorama completo del trámite (para ubicar dónde entra el tema “costos”), empezá por **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
 
 Si querés que lo veamos aplicado a tu caso: **[consulta con nuestros abogados](/abogado-sucesiones-cordoba/)**.
-
 ---
 
 ## De qué se compone el costo (honorarios + gastos)
