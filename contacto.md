@@ -23,4 +23,4 @@ quick: "Podés escribir por WhatsApp o dejar un mensaje. Para la primera consult
 
 Solo pedimos datos mínimos para responder la consulta: nombre, teléfono/email y ciudad. No solicitamos documentación sensible en el primer contacto.
 
-Para más información: [Política de privacidad](/privacidad/).
+Para más información: [Política de privacidad](/politica-de-privacidad/).
