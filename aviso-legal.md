@@ -29,4 +29,4 @@ Los textos y recursos del sitio son de uso informativo. No está permitida su re
 - Email: **[email]**
 
 👉 Para consultas: [Ir a contacto](/contacto/)  
-👉 Privacidad: [Política de privacidad](/privacidad/)
+👉 Privacidad: [Política de privacidad](/politica-de-privacidad/)
