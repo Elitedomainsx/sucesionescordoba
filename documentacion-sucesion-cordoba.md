@@ -1,119 +1,139 @@
 ---
 layout: article
-title: "Documentación para sucesión en Córdoba"
-h1: "Documentación para sucesión / declaratoria de herederos en Córdoba"
-description: "Checklist claro de papeles para iniciar sucesión en Córdoba: qué juntar, qué cambia según el caso, errores frecuentes y preguntas comunes."
-quick: "La documentación exacta depende del caso, pero casi siempre hay un núcleo común: acta de defunción, partidas para acreditar vínculo y datos básicos de bienes. Acá tenés un checklist práctico para ordenarte sin mandar papeles sensibles por WhatsApp."
+title: "Abogado de sucesiones en Córdoba: consulta inicial"
+h1: "Abogado/a de sucesiones en Córdoba: cómo trabajo y qué necesitás"
+description: "Te explico el proceso y cómo avanzar (Córdoba Capital e interior). Evaluación inicial por WhatsApp, llamada o formulario."
+quick: "Si necesitás iniciar una sucesión o declaratoria en Córdoba, te ayudo a ordenar el caso y avanzar con un plan claro. En la evaluación inicial definimos qué trámite corresponde, dónde conviene iniciarlo, qué documentación es prioritaria y qué variables pueden impactar en tiempos y costos (sin pedir documentación sensible en el primer contacto)."
 faq:
-  - q: "¿Qué necesito sí o sí para empezar?"
-    a: "En la mayoría de los casos: **acta/partida de defunción**, **partidas que acrediten vínculo** (nacimiento/matrimonio según corresponda), **datos de herederos** y **último domicilio del causante**. Si hay bienes, alcanza con datos orientativos (matrícula/dirección, dominio de auto, banco)."
-  - q: "¿Puedo iniciar si todavía no tengo todas las partidas?"
-    a: "Muchas veces se puede, pero **faltantes o inconsistencias** suelen generar observaciones y demoras. Lo ideal es ordenar primero qué falta y en qué orden pedirlo, según tu escenario familiar."
-  - q: "¿Me conviene enviar partidas o DNI por WhatsApp?"
-    a: "Para el primer contacto, **mejor no**. Para evaluar el caso alcanza con datos generales (ciudad, herederos, si hay testamento, bienes). La documentación se comparte después por un canal seguro cuando se coordine."
-  - q: "¿Qué cambia si hay testamento?"
-    a: "Suele requerir **documentación adicional** (por ejemplo, copia y datos del escribano/registro donde se otorgó). El camino exacto depende del caso y de lo que surja del instrumento."
-  - q: "¿Qué pasa si hay menores o personas con apoyos?"
-    a: "Puede requerir recaudos adicionales y controles. Lo importante es detectarlo desde el inicio para armar la estrategia y evitar idas y vueltas."
-  - q: "¿Qué datos de bienes sirven para empezar sin tener todo perfecto?"
-    a: "Inmueble: dirección y/o matrícula si la conocés. Auto: dominio. Cuentas: banco (sin claves). Con eso se puede armar un mapa inicial y luego completar."
-  - q: "¿Qué errores de papeles suelen trabar la sucesión?"
-    a: "Los más comunes: **nombres/apellidos distintos** entre partidas, fechas incongruentes, falta de partidas intermedias (por ejemplo, cuando heredan por representación), y domicilios no claros del causante."
-  - q: "¿Si el causante vivía en el interior de Córdoba cambia algo?"
-    a: "Puede cambiar la **competencia** (dónde se inicia). La documentación base es similar, pero conviene confirmar el **último domicilio** para evitar presentaciones innecesarias."
+  - q: "¿Qué se define en la evaluación inicial?"
+    a: "Qué trámite corresponde, objetivo (regularizar/vender/adjudicar/cobrar), competencia, documentación prioritaria, riesgos del caso y próximos pasos concretos."
+  - q: "¿Tengo que tener todos los papeles para consultar?"
+    a: "No. Con datos mínimos alcanza. Después te indico qué documentación conviene reunir y en qué orden."
+  - q: "¿Atendés interior de Córdoba?"
+    a: "Sí. Muchas veces se puede coordinar gran parte a distancia, con transparencia sobre pasos presenciales inevitables según el caso y el tribunal."
+  - q: "¿La declaratoria es lo mismo que la sucesión?"
+    a: "No. La sucesión es el proceso. La declaratoria es una resolución dentro del proceso que reconoce herederos (en general, cuando no hay testamento)."
+  - q: "¿Cuánto cuesta y cuánto tarda?"
+    a: "No hay un número único. Depende de bienes, herederos, documentación y conflicto. Se puede dar una orientación por componentes y etapas, sin prometer montos ni plazos."
 ---
 
-## Antes de juntar papeles: confirmá 5 datos (te ahorra tiempo y plata)
-1) **Último domicilio del causante** (Córdoba Capital o interior / qué localidad).  
-2) **Quiénes heredan** (hijos, cónyuge/conviviente, padres, hermanos, etc.).  
-3) **¿Hay testamento?** (sí / no / no sé).  
-4) **Bienes** (inmueble, auto, cuentas, otros).  
-5) **Objetivo concreto** (solo declaratoria, transferir/vender, regularizar, cobrar, etc.).
+## Respuesta rápida
+Si necesitás iniciar una **sucesión** o una **declaratoria de herederos** en Córdoba, mi trabajo es ayudarte a **ordenar el caso** y avanzar con un plan claro (Córdoba Capital e interior).
 
-> Para una evaluación inicial, con esto alcanza. Evitá mandar DNI/partidas completas por canales inseguros.
+Para entender el proceso completo, podés ver: **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
+
+> **Disclaimer (YMYL):** esta página es informativa y no reemplaza asesoramiento jurídico personalizado. Cada caso puede cambiar por bienes, herederos, testamento, conflicto y tribunal. No se prometen resultados, plazos ni montos.
 
 ---
 
-## Checklist base (la mayoría de los casos)
-### Del causante
-- ☐ **Acta/partida de defunción**  
-- ☐ Datos del causante (nombre completo, DNI si lo tenés, estado civil)  
-- ☐ **Último domicilio real** (dato clave para competencia)
+## Qué resolvemos en una evaluación inicial
+La evaluación inicial apunta a que salgas con claridad, sin vueltas:
 
-### De cada heredero
-- ☐ DNI (o al menos nombre completo y domicilio)  
-- ☐ **Partida de nacimiento** (para acreditar vínculo cuando corresponda)  
-- ☐ **Partida de matrimonio** si hereda cónyuge / o constancias pertinentes si aplica  
-- ☐ Datos de contacto (teléfono/email)
+- **Qué trámite corresponde** (sucesión / declaratoria / testamento, etc.).
+- **Objetivo real**: regularizar, vender, adjudicar, cobrar fondos, ordenar administración, etc.
+- **Dónde conviene iniciar** (competencia) para evitar idas y vueltas.
+- **Checklist priorizado** (qué es “sí o sí” y qué puede esperar).
+- **Riesgos típicos**: herederos no identificados, inconsistencias en partidas, bienes fuera de Córdoba, herederos en otra jurisdicción/exterior, conflicto, etc.
+- **Plan de pasos**: qué hacemos primero y qué sigue.
 
----
-
-## Checklist según tu escenario familiar (orientativo)
-### A) Heredan hijos
-- ☐ Partidas de nacimiento de cada hijo/a  
-- ☐ Si hay cambios de apellido / rectificaciones: datos para unificar identidad
-
-### B) Hereda cónyuge o conviviente
-- ☐ Partida/acta de matrimonio (si corresponde)  
-- ☐ Si es unión convivencial registrada u otro supuesto: lo vemos caso a caso (sin inventar)
-
-### C) Heredan padres
-- ☐ Partidas que acrediten el vínculo (según el caso)  
-- ☐ En algunos escenarios conviene sumar documentación intermedia (lo definimos al revisar)
-
-### D) Heredan hermanos / sobrinos (por representación u otros supuestos)
-- ☐ Partidas que acrediten el árbol familiar (puede haber “eslabones” intermedios)  
-- ☐ Actas relevantes si un heredero “representa” a otro fallecido (se evalúa caso a caso)
-
-> Si dudás quiénes son herederos, no adivinamos: armamos el árbol y definimos el encuadre correcto.
+Si tu duda principal es la declaratoria, tenés la guía específica: **[trámite de declaratoria: pasos](/declaratoria-de-herederos-cordoba/)**.
 
 ---
 
-## Si hay testamento (qué suele pedirse)
-- ☐ Copia del testamento (si se tiene)  
-- ☐ Datos de escribano/registro donde se otorgó (si se conoce)  
-- ☐ Cualquier constancia vinculada (según el caso)
+## Cómo trabajo (Córdoba Capital / interior / modalidad online)
+Trabajo con clientes de **Córdoba Capital** y del **interior**. En muchos casos se puede coordinar gran parte del trabajo a distancia (reunión, checklist, organización del caso, seguimiento), con transparencia sobre pasos presenciales inevitables según el caso.
+
+- **Córdoba Capital:** existe una organización/mesa/oficina vinculada a procesos sucesorios (suele mencionarse como **OPS**). El circuito operativo concreto puede variar con el tiempo y según el tribunal y el caso.
+- **Interior:** en términos generales, la tramitación se radica ante juzgados con competencia civil/comercial del distrito correspondiente.
+
+Si estás en el interior y querés coordinar remoto: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
-## Si hay bienes: qué datos sirven para empezar
-### Inmuebles
-- ☐ Dirección del inmueble  
-- ☐ Matrícula / nomenclatura / datos registrales (si los tenés)  
-- ☐ Escritura o título (si está disponible)
+## Qué necesito para evaluar tu caso (sin datos sensibles)
+Para el primer contacto **no hace falta** enviar DNI, partidas ni documentación sensible. Con esto alcanza:
 
-### Automotores
-- ☐ Dominio (patente)  
-- ☐ Título/cédula si se tiene
+1) Localidad (Capital / interior)  
+2) Fecha de fallecimiento (aprox.) y último domicilio del causante (si lo sabés)  
+3) Quiénes serían herederos (vínculo y cantidad)  
+4) Si hay testamento (sí/no/no sé)  
+5) Bienes principales (listado simple: inmueble/s, auto, cuentas, otros)  
+6) Si hay conflicto o una urgencia concreta (venta, cobro, regularización, etc.)
 
-### Cuentas, fondos, seguros
-- ☐ Banco/entidad y tipo de producto (sin claves)  
-- ☐ Constancias generales si existen (resúmenes viejos, póliza, etc.)
+Después, si decidís avanzar, organizamos todo con: **[checklist de documentación](/documentacion-sucesion-cordoba/)**.
 
 ---
 
-## Errores comunes (y cómo evitarlos)
-1) **Nombres distintos** entre partidas (tildes, dobles apellidos, orden) → conviene unificar desde el inicio.  
-2) **Fechas o lugares incongruentes** → se detecta antes para no “trabar” el expediente.  
-3) **Faltan partidas intermedias** en árboles familiares más largos → se arma el mapa documental.  
-4) **No aclarar el último domicilio** del causante → puede generar idas y vueltas por competencia.  
-5) **Mandar documentación sensible de entrada** → mejor empezar con datos generales.
+## Paso a paso: cómo avanzamos (orientativo)
+### 1) Reunión inicial y diagnóstico
+Definimos el objetivo y el “mapa” del caso (herederos + bienes + testamento + riesgos).
+
+### 2) Checklist y prioridades
+Te indico qué documentación es prioritaria y qué se puede pedir después (para evitar observaciones y demoras).
+
+### 3) Inicio y seguimiento del expediente
+Se inicia el trámite y se hace el seguimiento ordenado, respondiendo observaciones a tiempo.
+
+### 4) Declaratoria / testamento (según corresponda)
+Si no hay testamento, se apunta a la declaratoria. Si lo hay, se evalúa el camino específico según el caso.
+
+### 5) Bienes y cierre por objetivo
+Luego se trabaja el tramo sobre bienes (registros, bancos, transferencias, acuerdos/partición) según lo que busquen los herederos.
 
 ---
 
-## Casos típicos (hipotéticos)
-- “Somos 2 hermanos, hay un inmueble”: conviene juntar defunción + partidas + datos del inmueble para planificar etapas posteriores.  
-- “Hay auto y cuenta bancaria”: declaratoria + luego gestiones específicas (según organismo).  
-- “No sé si hay testamento”: primero confirmamos esa variable antes de avanzar con supuestos.
+## Costos y tiempos (orientativos, sin promesas)
+No hay un “precio único” ni “plazo garantizado”. Depende de bienes, herederos, documentación, medidas (edictos/informes/oficios) y si hay conflicto.
+
+- Para entender **costos por componentes**: **[honorarios y gastos: cómo se componen](/cuanto-cuesta-sucesion-cordoba/)**.  
+- Para entender **tiempos por etapas y variables**: **[plazos habituales y qué los cambia](/cuanto-tarda-declaratoria-cordoba/)**.
+
+> La mejor forma de evitar demoras y costos indirectos suele ser **orden documental + mapa de bienes + objetivo alineado** entre herederos.
 
 ---
 
-## ¿Querés que te diga exactamente qué falta en tu caso?
-Para una evaluación inicial (sin mandar papeles), respondé:
-- Ciudad (Córdoba Capital o interior, cuál)  
-- Herederos aproximados (cuántos y vínculo)  
-- Bienes (inmueble/auto/cuentas/otros)  
-- Testamento (sí/no/no sé)
+## Errores comunes (que después cuestan meses)
+1) **Partidas con inconsistencias** (nombres/fechas/estado civil) → observaciones y demoras.  
+2) **No identificar bien herederos** o situaciones familiares relevantes.  
+3) **No armar mapa de bienes** desde el inicio → aparecen “tarde” y se amplía el trámite.  
+4) **Confundir declaratoria con transferencia** → después viene el tramo de bienes.  
+5) **Enviar documentación sensible por canales inseguros** → primero se define qué hace falta y el canal adecuado.
 
-👉 **Ver también:** [Declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/)  
-👉 **Costos por etapas:** [Cuánto cuesta una sucesión en Córdoba](/cuanto-cuesta-sucesion-cordoba/)
+---
+
+## Casos típicos (ejemplos hipotéticos)
+- **Inmueble + herederos directos:** estrategia según objetivo (regularizar, vender, adjudicar).  
+- **Auto + cuentas:** se planifica por etapas para no trabarse en requisitos de organismos.  
+- **Herederos en otra provincia / exterior:** coordinación logística (certificaciones/poderes si corresponden).  
+- **Conflicto familiar:** estrategia temprana para evitar escalada y bloqueo del expediente.
+
+---
+
+## Preguntas frecuentes
+### ¿Cuándo conviene consultar?
+Cuanto antes. Aunque no tengas todo, una consulta temprana suele evitar errores típicos.
+
+### ¿Se puede iniciar sin tener todo?
+Muchas veces sí, pero conviene hacerlo con estrategia. Para ordenar faltantes: **[papeles para iniciar la sucesión](/documentacion-sucesion-cordoba/)**.
+
+### ¿La evaluación inicial me obliga a contratar?
+No. La idea es darte claridad y próximos pasos. Si decidís avanzar, coordinamos el plan de trabajo.
+
+### ¿Atendés interior de Córdoba?
+Sí. En muchos casos se puede coordinar gran parte a distancia. Ver: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
+
+---
+
+## Consultá tu caso (evaluación inicial)
+Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible.
+
+👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20indic%C3%A1s%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20necesito%20y%20cu%C3%A1l%20ser%C3%ADa%20el%20primer%20paso%3F)**  
+👉 **[Contacto](/contacto/)**
+
+---
+
+## Señales de confianza (completar con tus datos)
+**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+Atención: Córdoba Capital e interior – modalidad presencial y online.  
+Más info: **[Sobre mí](/sobre-mi/)**  
+Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
