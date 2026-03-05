@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Sucesiones en Córdoba: guía clara para iniciar el trámite"
+title: "Sucesiones en Córdoba: pasos, documentación, costos y tiempos"
 h1: "Sucesiones en Córdoba: guía clara para iniciar el trámite"
 description: "Guía clara: qué es la sucesión, pasos, documentación, tiempos y costos orientativos. Córdoba Capital e interior."
 quick: "Una sucesión es el proceso judicial que permite que los bienes y derechos de una persona fallecida pasen a sus herederos. En Córdoba, el camino concreto depende del caso (herederos, bienes, testamento, conflicto) y del tribunal. Esta guía te ordena: pasos, documentación, tiempos/costos orientativos y errores comunes."
