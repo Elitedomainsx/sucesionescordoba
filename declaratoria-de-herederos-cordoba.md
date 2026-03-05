@@ -152,5 +152,6 @@ Podés escribirme por WhatsApp o completar el formulario (sin enviar documentaci
 ## Señales de confianza (completar con tus datos)
 **Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
-Más info: **[Sobre mí](/sobre-mi/)**  
+Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
