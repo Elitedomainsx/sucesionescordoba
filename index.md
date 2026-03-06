@@ -54,7 +54,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
         <div class="mt-5">
           <div class="mb-2"><i class="bi-person-check fs-1 text-primary"></i></div>
           <h3 class="h4 mb-2">Declaratoria</h3>
-          <p class="text-muted mb-0">Presentación del trámite y seguimiento de las etapas del expediente (según el caso).</p>
+          <p class="text-muted mb-0">Presentación de la demanda y seguimiento de las etapas del expediente (según el caso).</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
