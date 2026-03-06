@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: contact
 title: "Contacto"
 h1: "Contacto"
 quick: "Escribinos por WhatsApp o mail para coordinar una entrevista inicial (presencial u online)."
