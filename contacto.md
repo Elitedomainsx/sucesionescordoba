@@ -2,14 +2,14 @@
 layout: article
 title: "Contacto"
 h1: "Contacto"
-quick: "Podés escribir por WhatsApp o dejar un mensaje. Para la primera consulta, no envíes documentación ni datos sensibles (DNI, partidas) hasta que lo coordinemos."
+quick: "Podés escribir por WhatsApp o dejar un mensaje."
 ---
 
 ## WhatsApp (recomendado)
 
 <a class="btn btn-primary" href="https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20%C2%BFPodemos%20coordinar%20una%20consulta%20inicial%3F" target="_blank" rel="noopener">Escribir por WhatsApp</a>
 
-## Qué datos ayudan en el primer mensaje (sin mandarme papeles)
+## Qué datos ayudan en el primer mensaje 
 
 - Ciudad / localidad (Córdoba Capital o interior).
 - Si hay **testamento** o no.
