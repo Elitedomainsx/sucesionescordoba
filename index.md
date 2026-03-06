@@ -17,7 +17,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
           Atención en Córdoba Capital e interior, con modalidad online cuando sea posible.
         </p>
         <a class="btn btn-primary btn-xl" href="/contacto/">Consultar</a>
-        <a class="btn btn-light btn-xl ms-2" href="/declaratoria-de-herederos-cordoba/">Ver guía</a>
+        <a class="btn btn-light btn-xl ms-2" href="/declaratoria-de-herederos-cordoba/">Qué es la declaratoria</a>
         <div class="text-white-50 small mt-3">Contenido informativo general; no reemplaza asesoramiento legal.</div>
       </div>
     </div>
@@ -29,12 +29,14 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
   <div class="container px-4 px-lg-5">
     <div class="row gx-4 gx-lg-5 justify-content-center">
       <div class="col-lg-9 text-center">
-        <h2 class="text-white mt-0">Qué hacemos en una sucesión (sin vueltas)</h2>
+        <h2 class="text-white mt-0">Sucesión y declaratoria en Córdoba: explicación breve</h2>
         <hr class="divider divider-light" />
         <p class="text-white-75 mb-4">
-          La declaratoria de herederos es una resolución judicial que reconoce quiénes son los herederos.
-          A partir de ahí, según los bienes, pueden venir etapas posteriores (inscripciones, oficios, informes, etc.).
-          Cada caso cambia por testamento, cantidad de herederos, conflictos, bienes y domicilios.
+        En términos simples: la <strong>sucesión</strong> es el proceso judicial que ordena la herencia.
+        Dentro de ese proceso, la <strong>declaratoria de herederos</strong> es la resolución que reconoce quiénes heredan
+        (cuando no hay testamento; si lo hay, el camino puede ser distinto).
+        Después, según los bienes, pueden venir etapas posteriores (inscripciones, oficios, informes y trámites ante registros o entidades).
+        Hay que tener en cuenta que cada caso es distinto y depende de las circunstancias concretas.
         </p>
         <a class="btn btn-light btn-xl" href="/documentacion-sucesion-cordoba/">Ver documentación típica</a>
       </div>
@@ -52,7 +54,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
         <div class="mt-5">
           <div class="mb-2"><i class="bi-person-check fs-1 text-primary"></i></div>
           <h3 class="h4 mb-2">Declaratoria</h3>
-          <p class="text-muted mb-0">Inicio del expediente y armado de la prueba de vínculo (según el caso).</p>
+          <p class="text-muted mb-0">Presentación del trámite y seguimiento de las etapas del expediente (según el caso).</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
