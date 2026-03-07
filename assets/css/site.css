@@ -321,8 +321,19 @@ header.masthead{
   border: 1px solid var(--legal-border);
   box-shadow: 0 .9rem 2rem rgba(15,23,42,.10);
 }
+.page-home .home-attorney-card .team-photo-feature{
+  max-width: 460px;
+  margin: 0 auto;
+}
 .page-home .home-attorney-card .team-photo-wide{
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 16 / 10;
+  max-height: 320px;
+  object-position: center 32%;
+}
+@media (max-width: 991.98px){
+  .page-home .home-attorney-card .team-photo-feature{
+    max-width: 560px;
+  }
 }
 @media (max-width: 767.98px){
   .attorneys-trust-photos-grid,
@@ -332,5 +343,7 @@ header.masthead{
   .team-photo-wide,
   .page-home .home-attorney-card .team-photo-wide{
     aspect-ratio: 4 / 3;
+    max-height: 280px;
+    object-position: center 30%;
   }
 }
