@@ -17,7 +17,7 @@ faq:
     a: "No hay un número único. Depende de bienes, herederos, documentación y conflicto. Se puede dar una orientación por componentes y etapas, sin prometer montos ni plazos."
 ---
 
-## Respuesta rápida
+## Cuándo conviene consultar
 Si necesitás iniciar una **sucesión** o una **declaratoria de herederos** en Córdoba, mi trabajo es ayudarte a **ordenar el caso** y avanzar con un plan claro (Córdoba Capital e interior).
 
 Para entender el proceso completo, podés ver: **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
@@ -109,31 +109,17 @@ No hay un “precio único” ni “plazo garantizado”. Depende de bienes, her
 
 ---
 
-## Preguntas frecuentes
-### ¿Cuándo conviene consultar?
-Cuanto antes. Aunque no tengas todo, una consulta temprana suele evitar errores típicos.
-
-### ¿Se puede iniciar sin tener todo?
-Muchas veces sí, pero conviene hacerlo con estrategia. Para ordenar faltantes: **[papeles para iniciar la sucesión](/documentacion-sucesion-cordoba/)**.
-
-### ¿La evaluación inicial me obliga a contratar?
-No. La idea es darte claridad y próximos pasos. Si decidís avanzar, coordinamos el plan de trabajo.
-
-### ¿Atendés interior de Córdoba?
-Sí. En muchos casos se puede coordinar gran parte a distancia. Ver: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
-
----
-
 ## Consultá tu caso (evaluación inicial)
-Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible.
+Si querés una primera orientación sobre tu sucesión o declaratoria, podés escribir sin enviar documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20indic%C3%A1s%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20necesito%20y%20cu%C3%A1l%20ser%C3%ADa%20el%20primer%20paso%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20indic%C3%A1s%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20necesito%20y%20cu%C3%A1l%20ser%C3%ADa%20el%20primer%20paso%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
 
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

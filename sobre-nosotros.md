@@ -20,12 +20,10 @@ faq:
 ## Quiénes somos
 En **Sucesiones Córdoba** nos enfocamos en **sucesiones y declaratoria de herederos** (Córdoba Capital e interior), con un estilo de trabajo simple: claridad, orden y seguimiento.
 
-**Profesional responsable del servicio**
-- **Abog. [Nombre y Apellido]**
-- Matrícula: **[Nº / Tomo y Folio]**
+**Profesionales responsables del servicio**
+- **Abog. Pablo Jorge Arias Visconti** — M.P. 1-43613
+- **Abog. Gustavo Javier Marchetti** — M.P. 1-43670
 - Base: Córdoba, Argentina.
-
-> Si todavía no querés publicar matrícula/datos completos, dejá los placeholders y los completamos cuando vayamos a indexar.
 
 ---
 

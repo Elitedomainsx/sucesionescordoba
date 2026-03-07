@@ -23,7 +23,7 @@ faq:
     a: "Partidas coherentes (sin inconsistencias), mapa de bienes desde el inicio y datos de herederos completos (domicilio/contacto)."
 ---
 
-## Respuesta rápida
+## Qué conviene reunir al empezar
 Esta es la página para **ordenar papeles** sin perder tiempo. Si querés el panorama completo del trámite, empezá por **[paso a paso de la sucesión en Córdoba](/sucesiones-cordoba/)**.
 
 **Cómo usar este checklist (en 3 pasos):**
@@ -122,24 +122,17 @@ Puede variar el circuito según tribunal y sede:
 
 ---
 
-## Preguntas frecuentes + CTA
-### ¿Qué datos mínimos te paso para evaluar el caso (sin mandar papeles)?
-Localidad (Capital/interior), fecha de fallecimiento, herederos (vínculo y cantidad), si hay testamento y un listado simple de bienes.
+## Consultá tu caso (evaluación inicial)
+Si querés, te orientamos sobre qué documentación conviene priorizar sin que envíes documentación sensible en este primer contacto.
 
-### ¿Cuándo conviene hablar con un abogado/a?
-Cuanto antes. Una consulta temprana evita errores típicos y suele ahorrar tiempo. Podés ver el servicio acá: **[evaluación inicial de tu sucesión](/abogado-sucesiones-cordoba/)**.
-
-### Consultá tu caso (evaluación inicial)
-“Si querés, te ayudo a evaluar tu caso y explicarte los próximos pasos con claridad.  
-Podés escribirme por WhatsApp o completar el formulario (sin enviar documentación sensible en esta primera etapa).”
-
-👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
 
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

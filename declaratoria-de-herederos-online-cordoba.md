@@ -17,7 +17,7 @@ faq:
     a: "No por sí sola. Lo que suele ayudar es el orden: menos observaciones y menos idas y vueltas. No se garantizan plazos ni montos."
 ---
 
-## Respuesta rápida
+## Qué se puede coordinar a distancia
 La “sucesión online” suele significar **coordinación remota**: reunión, estrategia, checklist, armado del caso y seguimiento.  
 Lo importante es la transparencia: **no siempre es 100% online**, porque pueden existir pasos presenciales inevitables (firmas/certificaciones o gestiones puntuales), según el caso, el tribunal y los organismos involucrados.
 
@@ -103,28 +103,17 @@ Si querés encarar esto con un plan claro desde el inicio: **[evaluación inicia
 
 ---
 
-## Preguntas frecuentes
-### ¿La sucesión online significa “no ir nunca”?
-No necesariamente. Muchas etapas se coordinan a distancia, pero según el caso/tribunal/organismos puede haber pasos presenciales inevitables.
-
-### ¿Qué te paso para que me digas si puedo coordinar remoto?
-Localidad, fecha de fallecimiento, herederos (vínculo/cantidad), si hay testamento y un listado simple de bienes. Con eso armamos un plan.
-
-### ¿Cómo arranco sin mandar documentos?
-Con datos mínimos. Después coordinamos el checklist y el canal adecuado para compartir documentación.
-
----
-
 ## Consultá tu caso (evaluación inicial)
-Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible.
+Si estás en el interior o querés coordinar a distancia, podés escribirnos sin enviar documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20estoy%20en%20____%20(C%C3%B3rdoba).%20Quiero%20iniciar%20una%20sucesi%C3%B3n%2Fdeclaratoria%20y%20coordinar%20el%20proceso%20a%20distancia.%20%C2%BFC%C3%B3mo%20trabajamos%20con%20la%20documentaci%C3%B3n%20y%20los%20pasos%20presenciales%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20estoy%20en%20____%20(C%C3%B3rdoba).%20Quiero%20iniciar%20una%20sucesi%C3%B3n%2Fdeclaratoria%20y%20coordinar%20el%20proceso%20a%20distancia.%20%C2%BFC%C3%B3mo%20trabajamos%20con%20la%20documentaci%C3%B3n%20y%20los%20pasos%20presenciales%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
 
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

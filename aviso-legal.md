@@ -23,10 +23,9 @@ El servicio profesional se presta conforme a la normativa y práctica aplicable 
 Los textos y recursos del sitio son de uso informativo. No está permitida su reproducción comercial sin autorización.
 
 ## 6) Contacto profesional
-- Profesional responsable: **Abog. [Nombre y Apellido]**
-- Matrícula: **[Nº / Tomo y Folio]**
-- WhatsApp: **[número]**
-- Email: **[email]**
+- Profesionales responsables: **Abog. Pablo Jorge Arias Visconti (M.P. 1-43613)** y **Abog. Gustavo Javier Marchetti (M.P. 1-43670)**
+- WhatsApp: **3513772921**
+- Email: **info@sucesionescordoba.com.ar**
 
 👉 Para consultas: [Ir a contacto](/contacto/)  
 👉 Privacidad: [Política de privacidad](/politica-de-privacidad/)

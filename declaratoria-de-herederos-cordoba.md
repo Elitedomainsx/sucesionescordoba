@@ -17,7 +17,7 @@ faq:
     a: "Muchas veces sí, con transparencia sobre pasos presenciales inevitables (firmas/certificaciones o gestiones puntuales), según el caso y el tribunal."
 ---
 
-## Respuesta rápida
+## Qué conviene saber al empezar
 La **declaratoria de herederos** es una resolución judicial que **reconoce quiénes son herederos** de una persona fallecida (habitualmente, cuando **no hay testamento**). En la práctica, sirve para luego avanzar con trámites sobre bienes y derechos del causante, según el objetivo.
 
 Si querés el panorama completo del proceso, empezá por **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
@@ -127,30 +127,17 @@ Puede variar el circuito según tribunal y sede:
 
 ---
 
-## Preguntas frecuentes + CTA
-### ¿La declaratoria es lo mismo que “hacer la sucesión”?
-No exactamente. La declaratoria reconoce herederos. Según el objetivo, puede haber etapas posteriores dentro del proceso sucesorio.
+## Consultá tu caso (evaluación inicial)
+Si querés una orientación inicial sobre tu situación, podés escribir sin enviar documentación sensible en esta primera etapa.
 
-### ¿Puedo iniciar si todavía no tengo todas las partidas?
-Muchas veces sí, pero conviene evaluar porque faltantes o inconsistencias suelen generar observaciones. Para ordenar: **[papeles para iniciar la sucesión](/documentacion-sucesion-cordoba/)**.
-
-### ¿Qué pasa si hay conflicto entre herederos?
-Puede complejizar tiempos y pasos. En esos casos es clave diseñar estrategia desde el inicio.
-
-### ¿Cuánto tarda?
-No hay plazo garantizado. Depende de tribunal, edictos, informes y del caso. Ver variables: **[plazos habituales y qué los cambia](/cuanto-tarda-declaratoria-cordoba/)**.
-
-### ¿Querés que lo evaluemos en tu caso?
-**Consultá tu caso (evaluación inicial).** Si querés, te ayudo a evaluar tu caso y explicarte los próximos pasos con claridad.  
-Podés escribirme por WhatsApp o completar el formulario (sin enviar documentación sensible en esta primera etapa).
-
-👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
 
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

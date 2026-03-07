@@ -17,7 +17,7 @@ faq:
     a: "En muchos casos sí, con transparencia sobre pasos presenciales inevitables (firmas/certificaciones o gestiones puntuales), según el caso y el tribunal."
 ---
 
-## Respuesta rápida + disclaimer
+## Antes de mirar plazos
 No hay un plazo único. El tiempo de una declaratoria en Córdoba depende del tribunal, la documentación, los edictos si se ordenan, los informes/oficios y el tipo de bienes, además de si hay observaciones o conflicto.
 
 > **Disclaimer (YMYL):** Esta guía es orientativa y no reemplaza asesoramiento jurídico personalizado. No se prometen plazos ni resultados. El tiempo real se evalúa con datos mínimos del caso.
@@ -103,20 +103,17 @@ Si querés que revise tu caso y te ordene el camino desde el inicio: **[consulta
 
 ---
 
-## Preguntas frecuentes + CTA
-### ¿Se puede “acelerar” sin inventar atajos?
-Lo más efectivo suele ser ordenar documentación y el mapa de bienes desde el inicio. Esta guía ayuda: **[qué documentación conviene reunir](/documentacion-sucesion-cordoba/)**.
+## Consultá tu caso (evaluación inicial)
+Si querés, te orientamos sobre tiempos probables según tu situación concreta, sin pedir documentación sensible en este primer contacto.
 
-### Consultá tu caso (evaluación inicial)
-Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible.
-
-👉 **[Hablar por WhatsApp]([WHATSAPP_LINK]?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFMe%20orient%C3%A1s%20sobre%20tiempos%20estimados%20y%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20reunir%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFMe%20orient%C3%A1s%20sobre%20tiempos%20estimados%20y%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20reunir%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
 
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

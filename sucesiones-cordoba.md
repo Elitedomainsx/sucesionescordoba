@@ -21,7 +21,7 @@ faq:
     a: "Para el **primer contacto**, mejor no. Para evaluar el caso alcanza con datos generales (localidad, herederos, testamento, bienes). La documentación se comparte después por un canal seguro cuando se coordine."
 ---
 
-## Respuesta rápida
+## Panorama general
 Una sucesión es el proceso judicial para **acreditar herederos** y habilitar que los bienes y derechos del causante puedan regularizarse, transferirse o administrarse (según el caso). En muchos trámites, un paso clave es entender **[qué es la declaratoria de herederos](/declaratoria-de-herederos-cordoba/)** (cuando no hay testamento) y luego avanzar con los bienes.
 
 > **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Los pasos concretos pueden variar según tribunal, bienes, herederos y conflictos.
@@ -120,31 +120,17 @@ Puede variar el circuito según tribunal y sede. En la práctica:
 
 ---
 
-## Preguntas frecuentes
-### ¿Cuándo conviene consultar?
-Cuanto antes. Aunque no tengas todo, una consulta temprana evita errores que después cuestan tiempo y dinero. Podés pedir **[consulta con abogado/a de sucesiones](/abogado-sucesiones-cordoba/)**.
+## Consultá tu caso (evaluación inicial)
+Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible en esta primera etapa.
 
-### ¿Se puede hacer a distancia si vivo en el interior?
-Muchas veces se puede coordinar gran parte del trabajo a distancia, con transparencia sobre pasos presenciales inevitables. Ver: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
-
-### ¿Qué datos mínimos te paso para evaluar el caso (sin mandar papeles)?
-- Localidad (Capital/interior)
-- Fecha de fallecimiento (aprox.)
-- Herederos (vínculo y cantidad)
-- Si hay testamento (sí/no/no sé)
-- Bienes: inmueble/auto/cuentas/otros
-- Si hay urgencia concreta (venta, alquiler, impuestos, etc.)
+👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20orient%C3%A1s%20sobre%20los%20primeros%20pasos%3F)**  
+👉 **[Contacto](/contacto/)**
 
 ---
 
-## ¿Querés que lo evaluemos en tu caso?
-Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible.  
-👉 Contactame acá: **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza (completar con tus datos)
-**Abog. [Nombre y Apellido]** – Matrícula: [Nº / Tomo y Folio]  
+## Señales de confianza
+**Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
