@@ -254,3 +254,26 @@ header.masthead{
     height: 150px;
   }
 }
+
+
+/* Home team section: stronger contrast so the trust card doesn't get lost */
+.page-home #equipo.page-section{
+  background: #E9EEF5 !important;
+  border-top: 1px solid var(--legal-border);
+  border-bottom: 1px solid var(--legal-border);
+}
+.page-home .home-attorney-card{
+  background: linear-gradient(180deg, #FFFFFF 0%, #F4F7FB 100%);
+  border: 1px solid #D6DEE8;
+  box-shadow: 0 1rem 2.25rem rgba(15, 23, 42, .10);
+}
+.page-home .home-attorney-card .btn-outline-primary{
+  background: #EEF4FF !important;
+  border-color: #C9DAFF !important;
+  color: var(--legal-primary) !important;
+}
+.page-home .home-attorney-card .btn-outline-primary:hover{
+  background: var(--legal-primary) !important;
+  border-color: var(--legal-primary) !important;
+  color: #fff !important;
+}
