@@ -3,6 +3,7 @@ layout: article
 title: "Sobre nosotros"
 h1: "Sobre nosotros — Sucesiones y declaratoria de herederos en Córdoba"
 description: "Quiénes somos, cómo trabajamos sucesiones/declaratorias en Córdoba (Capital e interior), y qué podés esperar de la consulta inicial."
+hide_attorneys_trust_box: true
 quick: "Somos un estudio con foco en sucesiones y declaratoria de herederos en Córdoba. Trabajamos con un método claro: definir competencia, ordenar documentación y planificar por etapas (declaratoria y lo posterior según bienes), con comunicación transparente y sin promesas de plazos."
 faq:
   - q: "¿Atienden Córdoba Capital e interior?"
@@ -18,6 +19,24 @@ faq:
 ---
 
 ## Quiénes somos
+<div class="attorneys-trust-box border rounded-3 p-3 p-md-4 my-4">
+  <div class="row g-3 g-md-4 align-items-center">
+    <div class="col-12 col-md-auto text-center">
+      <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="220" height="220" />
+    </div>
+    <div class="col-12 col-md">
+      <div class="small text-uppercase text-muted fw-semibold mb-2">Quiénes atienden</div>
+      <h2 class="h4 mb-2">Profesionales responsables de Sucesiones Córdoba</h2>
+      <p class="mb-3">En esta área trabajamos con un enfoque de orden, explicación clara y seguimiento por etapas. El objetivo no es prometer tiempos, sino ayudarte a entender qué corresponde hacer primero, qué documentación conviene reunir y cómo avanzar con un plan razonable según el caso.</p>
+      <ul class="list-unstyled mb-0 attorneys-trust-list">
+        <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
+        <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
+        <li><strong>Atención:</strong> Córdoba Capital e interior, presencial y online según el caso</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 En **Sucesiones Córdoba** nos enfocamos en **sucesiones y declaratoria de herederos** (Córdoba Capital e interior), con un estilo de trabajo simple: claridad, orden y seguimiento.
 
 **Profesionales responsables del servicio**

@@ -13,6 +13,10 @@ layout: default
         {% endif %}
       </header>
 
+      {% unless page.hide_attorneys_trust_box == true %}
+        {% include attorneys-trust-box.html %}
+      {% endunless %}
+
       <div class="article-body">
         {{ content }}
       </div>

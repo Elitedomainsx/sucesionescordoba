@@ -210,3 +210,47 @@ header.masthead{
   margin-left: auto;
   margin-right: auto;
 }
+
+
+/* E-E-A-T / professional identity blocks */
+.attorneys-trust-box{
+  background: linear-gradient(180deg, #ffffff 0%, #F8FAFC 100%);
+  border-color: var(--legal-border) !important;
+  box-shadow: 0 0.9rem 2rem rgba(15, 23, 42, .06);
+}
+.attorneys-trust-photo{
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 20px;
+  border: 1px solid var(--legal-border);
+  box-shadow: 0 .75rem 1.75rem rgba(15, 23, 42, .10);
+}
+.attorneys-trust-list li{
+  margin-bottom: .35rem;
+}
+.btn-outline-primary{
+  border-color: var(--legal-primary) !important;
+  color: var(--legal-primary) !important;
+}
+.btn-outline-primary:hover{
+  background-color: var(--legal-primary) !important;
+  color: #fff !important;
+}
+.home-attorney-card{
+  background: #fff;
+  border: 1px solid var(--legal-border);
+  border-radius: 18px;
+  box-shadow: 0 0.9rem 2rem rgba(15, 23, 42, .06);
+}
+.home-attorney-card .attorneys-trust-photo{
+  width: 200px;
+  height: 200px;
+}
+@media (max-width: 767.98px){
+  .attorneys-trust-photo,
+  .home-attorney-card .attorneys-trust-photo{
+    width: 150px;
+    height: 150px;
+  }
+}
