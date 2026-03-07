@@ -19,21 +19,29 @@ faq:
 ---
 
 ## Quiénes somos
-<div class="attorneys-trust-box border rounded-3 p-3 p-md-4 my-4">
-  <div class="row g-3 g-md-4 align-items-center">
-    <div class="col-12 col-md-auto text-center">
+
+<div class="team-feature-card border rounded-3 p-3 p-md-4 my-4">
+  <figure class="team-photo-feature mb-3">
+    <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
+  </figure>
+  <div class="small text-uppercase text-muted fw-semibold mb-2">Equipo jurídico</div>
+  <h2 class="h4 mb-2">Profesionales responsables de Sucesiones Córdoba</h2>
+  <p class="mb-3">En esta área trabajamos con un enfoque de orden, explicación clara y seguimiento por etapas. El objetivo no es prometer tiempos, sino ayudarte a entender qué corresponde hacer primero, qué documentación conviene reunir y cómo avanzar con un plan razonable según el caso.</p>
+  <div class="team-mini-grid">
+    <figure class="attorney-photo-card mb-0">
       <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="220" height="220" />
-    </div>
-    <div class="col-12 col-md">
-      <div class="small text-uppercase text-muted fw-semibold mb-2">Quiénes atienden</div>
-      <h2 class="h4 mb-2">Profesionales responsables de Sucesiones Córdoba</h2>
-      <p class="mb-3">En esta área trabajamos con un enfoque de orden, explicación clara y seguimiento por etapas. El objetivo no es prometer tiempos, sino ayudarte a entender qué corresponde hacer primero, qué documentación conviene reunir y cómo avanzar con un plan razonable según el caso.</p>
-      <ul class="list-unstyled mb-0 attorneys-trust-list">
-        <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
-        <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
-        <li><strong>Atención:</strong> Córdoba Capital e interior, presencial y online según el caso</li>
-      </ul>
-    </div>
+      <figcaption>
+        <strong>Pablo Jorge Arias Visconti</strong>
+        <span>M.P. 1-43613</span>
+      </figcaption>
+    </figure>
+    <figure class="attorney-photo-card mb-0">
+      <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti.webp" alt="Gustavo Javier Marchetti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="220" height="220" />
+      <figcaption>
+        <strong>Gustavo Javier Marchetti</strong>
+        <span>M.P. 1-43670</span>
+      </figcaption>
+    </figure>
   </div>
 </div>
 

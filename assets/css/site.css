@@ -277,3 +277,60 @@ header.masthead{
   border-color: var(--legal-primary) !important;
   color: #fff !important;
 }
+
+
+.attorneys-trust-photos-grid,
+.team-mini-grid{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap:1rem;
+}
+.attorney-photo-card{
+  background:#fff;
+  border:1px solid var(--legal-border);
+  border-radius:18px;
+  padding:.85rem;
+  box-shadow: 0 .75rem 1.75rem rgba(15, 23, 42, .08);
+  text-align:center;
+}
+.attorney-photo-card figcaption{
+  display:flex;
+  flex-direction:column;
+  gap:.15rem;
+  margin-top:.7rem;
+  font-size:.94rem;
+  color:var(--legal-text);
+}
+.attorney-photo-card figcaption span{
+  color:var(--legal-muted);
+  font-size:.88rem;
+}
+.team-feature-card{
+  background: linear-gradient(180deg, #ffffff 0%, #F8FAFC 100%);
+  border-color: var(--legal-border) !important;
+  box-shadow: 0 0.9rem 2rem rgba(15, 23, 42, .06);
+}
+.team-photo-feature{
+  margin:0;
+}
+.team-photo-wide{
+  width:100%;
+  aspect-ratio: 3 / 2;
+  object-fit:cover;
+  border-radius:20px;
+  border: 1px solid var(--legal-border);
+  box-shadow: 0 .9rem 2rem rgba(15,23,42,.10);
+}
+.page-home .home-attorney-card .team-photo-wide{
+  aspect-ratio: 4 / 3;
+}
+@media (max-width: 767.98px){
+  .attorneys-trust-photos-grid,
+  .team-mini-grid{
+    grid-template-columns: 1fr;
+  }
+  .team-photo-wide,
+  .page-home .home-attorney-card .team-photo-wide{
+    aspect-ratio: 4 / 3;
+  }
+}

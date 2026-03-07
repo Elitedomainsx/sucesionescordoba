@@ -95,10 +95,12 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
       <div class="col-lg-10">
         <div class="home-attorney-card p-4 p-lg-5">
           <div class="row g-4 align-items-center">
-            <div class="col-12 col-md-auto text-center">
-              <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="220" height="220" />
+            <div class="col-12 col-lg-6">
+              <figure class="team-photo-feature mb-0">
+                <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
+              </figure>
             </div>
-            <div class="col">
+            <div class="col-12 col-lg-6">
               <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
               <h2 class="mt-0">Atención profesional en Córdoba Capital e interior</h2>
               <p class="text-muted mb-3">La información del sitio está pensada para ayudarte a entender el trámite, pero cada caso requiere revisar variables concretas. La consulta inicial se orienta a ordenar el escenario, definir la documentación importante y marcar próximos pasos realistas.</p>
