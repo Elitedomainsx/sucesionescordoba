@@ -22,12 +22,12 @@ faq:
 
 <div class="team-feature-card border rounded-3 p-3 p-md-4 my-4">
   <div class="row g-4 align-items-center">
-    <div class="col-12 col-lg-5">
+    <div class="col-12 col-lg-4">
       <figure class="team-photo-feature mb-0">
         <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
       </figure>
     </div>
-    <div class="col-12 col-lg-7">
+    <div class="col-12 col-lg-8">
       <div class="small text-uppercase text-muted fw-semibold mb-2">Equipo jurídico</div>
       <h2 class="h4 mb-2">Profesionales responsables de Sucesiones Córdoba</h2>
       <p class="mb-3">En esta área trabajamos con un enfoque de orden, explicación clara y seguimiento por etapas. El objetivo no es prometer tiempos, sino ayudarte a entender qué corresponde hacer primero, qué documentación conviene reunir y cómo avanzar con un plan razonable según el caso.</p>
