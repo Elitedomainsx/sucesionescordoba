@@ -617,7 +617,7 @@ header.masthead{
 
 /* Fix 2026-03-08b: solo Home, foto del equipo proporcionada */
 .page-home .home-team-photo-balanced{
-  max-width: 360px;
+  max-width: 420px;
   margin: 0 auto;
 }
 .page-home .home-team-photo-balanced__img{
@@ -638,7 +638,7 @@ header.masthead{
 }
 @media (max-width: 767.98px){
   .page-home .home-team-photo-balanced{
-    max-width: 300px;
+    max-width: 320px;
   }
   .page-home .home-team-photo-balanced__img{
     max-height: 360px;
