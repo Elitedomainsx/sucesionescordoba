@@ -94,21 +94,25 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
     <div class="row gx-4 gx-lg-5 justify-content-center">
       <div class="col-lg-10">
         <div class="home-attorney-card p-4 p-lg-5">
-          <figure class="team-photo-feature mb-4">
-            <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
-          </figure>
-          <div class="home-attorney-copy">
-            <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
-            <h2 class="mt-0">Atención profesional en Córdoba Capital e interior</h2>
-            <p class="text-muted mb-3">La información del sitio está pensada para ayudarte a entender el trámite, pero cada caso requiere revisar variables concretas. La consulta inicial se orienta a ordenar el escenario, definir la documentación importante y marcar próximos pasos realistas.</p>
-            <ul class="list-unstyled mb-3">
-              <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
-              <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
-              <li><strong>Atención:</strong> presencial y online, según el caso</li>
-            </ul>
-            <div class="d-flex flex-wrap gap-2">
-              <a class="btn btn-primary btn-xl" href="/contacto/">Coordinar consulta</a>
-              <a class="btn btn-outline-primary btn-xl" href="/sobre-nosotros/">Ver cómo trabajamos</a>
+          <div class="row g-4 align-items-center">
+            <div class="col-12 col-lg-5">
+              <figure class="team-photo-feature mb-0">
+                <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
+              </figure>
+            </div>
+            <div class="col-12 col-lg-7">
+              <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
+              <h2 class="mt-0">Atención profesional en Córdoba Capital e interior</h2>
+              <p class="text-muted mb-3">La información del sitio está pensada para ayudarte a entender el trámite, pero cada caso requiere revisar variables concretas. La consulta inicial se orienta a ordenar el escenario, definir la documentación importante y marcar próximos pasos realistas.</p>
+              <ul class="list-unstyled mb-3">
+                <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
+                <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
+                <li><strong>Atención:</strong> presencial y online, según el caso</li>
+              </ul>
+              <div class="d-flex flex-wrap gap-2">
+                <a class="btn btn-primary btn-xl" href="/contacto/">Coordinar consulta</a>
+                <a class="btn btn-outline-primary btn-xl" href="/sobre-nosotros/">Ver cómo trabajamos</a>
+              </div>
             </div>
           </div>
         </div>
