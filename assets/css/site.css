@@ -471,25 +471,145 @@ header.masthead{
 }
 
 
-/* Fix 2026-03-08: home team block only */
-.page-home #equipo .home-team-photo-left{
-  max-width: 340px;
-  margin: 0 auto 0 0;
-}
-.page-home #equipo .home-team-photo-left-img{
-  display:block;
-  width:100%;
-  height:auto;
-  border-radius: 20px;
+/* Fix 2026-03-08: trust box compacto para páginas internas */
+.attorneys-trust-box{
+  background: linear-gradient(180deg, #FFFFFF 0%, #F7FAFD 100%);
   border: 1px solid var(--legal-border);
-  box-shadow: 0 .9rem 2rem rgba(15,23,42,.10);
+  border-radius: 20px;
+  box-shadow: 0 .9rem 2rem rgba(15, 23, 42, .06);
+  padding: 1.25rem;
 }
-.page-home #equipo .home-attorney-card h2{
-  font-size: clamp(2rem, 3vw, 3rem);
+.attorneys-trust-box .attorneys-trust-title{
+  font-family: var(--bs-font-sans-serif);
+  font-weight: 700;
+  letter-spacing: 0;
 }
+.attorneys-trust-box .attorneys-trust-photos-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .9rem;
+}
+.attorneys-trust-box .attorney-photo-card{
+  background: #fff;
+  border: 1px solid var(--legal-border);
+  border-radius: 16px;
+  padding: .75rem;
+  box-shadow: 0 .6rem 1.4rem rgba(15, 23, 42, .06);
+  text-align: center;
+}
+.attorneys-trust-box .attorneys-trust-photo{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  object-fit: cover;
+  object-position: center 24%;
+  border-radius: 14px;
+  border: 1px solid var(--legal-border);
+  box-shadow: none;
+}
+.attorneys-trust-box .attorney-photo-card figcaption{
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  margin-top: .65rem;
+  line-height: 1.35;
+  font-size: .9rem;
+}
+.attorneys-trust-box .attorney-photo-card figcaption strong{
+  font-size: .9rem;
+}
+.attorneys-trust-box .attorney-photo-card figcaption span{
+  color: var(--legal-muted);
+  font-size: .84rem;
+}
+.attorneys-trust-box .attorneys-trust-list{
+  line-height: 1.6;
+}
+.attorneys-trust-box .attorneys-trust-actions .btn{
+  border-radius: .85rem;
+}
+
+/* Home: foto del equipo solamente */
+.page-home .home-attorney-card .team-photo-feature{
+  max-width: none;
+}
+.page-home .home-attorney-card .team-photo-wide{
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  max-height: none;
+  object-fit: cover;
+  object-position: center 26%;
+  border-radius: 20px;
+}
+
+/* Sobre nosotros: hero de equipo arriba, retratos abajo */
+.team-feature-card{
+  padding: 1.25rem;
+}
+.team-feature-card .team-photo-feature{
+  max-width: none;
+}
+.team-feature-card .team-photo-wide{
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  max-height: 420px;
+  object-fit: cover;
+  object-position: center 28%;
+  border-radius: 20px;
+}
+.team-feature-card .team-intro-copy{
+  max-width: 52rem;
+}
+.team-feature-card .team-mini-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.team-feature-card .team-mini-grid .attorney-photo-card{
+  background: #fff;
+  border: 1px solid var(--legal-border);
+  border-radius: 18px;
+  padding: .85rem;
+  box-shadow: 0 .75rem 1.75rem rgba(15, 23, 42, .08);
+}
+.team-feature-card .team-mini-grid .attorneys-trust-photo{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  height: auto;
+  object-fit: cover;
+  object-position: center 24%;
+  border-radius: 16px;
+}
+
 @media (max-width: 991.98px){
-  .page-home #equipo .home-team-photo-left{
-    max-width: 420px;
-    margin: 0 auto;
+  .attorneys-trust-box{
+    padding: 1rem;
+  }
+  .page-home .home-attorney-card .team-photo-wide{
+    aspect-ratio: 4 / 3;
+    object-position: center 28%;
+  }
+  .team-feature-card .team-photo-wide{
+    aspect-ratio: 4 / 3;
+    max-height: 360px;
+  }
+}
+
+@media (max-width: 767.98px){
+  .attorneys-trust-box .attorneys-trust-photos-grid,
+  .team-feature-card .team-mini-grid{
+    grid-template-columns: 1fr;
+  }
+  .attorneys-trust-box .attorney-photo-card{
+    max-width: 220px;
+    margin-inline: auto;
+  }
+  .attorneys-trust-box .attorneys-trust-actions{
+    gap: .75rem;
+  }
+  .team-feature-card .team-photo-wide,
+  .page-home .home-attorney-card .team-photo-wide{
+    aspect-ratio: 5 / 4;
+    max-height: 300px;
   }
 }
