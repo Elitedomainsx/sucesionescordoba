@@ -644,3 +644,33 @@ header.masthead{
     max-height: 360px;
   }
 }
+
+
+/* Fix 2026-03-08c: solo Home, foto del equipo un poco más presente */
+.page-home .home-team-photo-col{
+  display:flex;
+  justify-content:center;
+}
+.page-home .home-team-copy-col{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+.page-home .home-team-photo-balanced{
+  width:100%;
+  max-width:520px;
+}
+.page-home .home-team-photo-balanced__img{
+  width:100%;
+  height:auto;
+}
+@media (max-width: 991.98px){
+  .page-home .home-team-photo-balanced{
+    max-width:430px;
+  }
+}
+@media (max-width: 767.98px){
+  .page-home .home-team-photo-balanced{
+    max-width:320px;
+  }
+}
