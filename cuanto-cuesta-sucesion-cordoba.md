@@ -98,13 +98,6 @@ Si querés que revise tu caso y te ordene el camino: **[evaluación inicial de t
 
 ---
 
-## Casos típicos (ejemplos hipotéticos para ubicar tu situación)
-- **Caso simple:** 1 inmueble + herederos directos + documentación coherente + acuerdo → menos idas y vueltas.  
-- **Caso intermedio:** inmueble + auto + cuentas → más gestiones por variedad de bienes.  
-- **Caso complejo:** herederos en distintas jurisdicciones, bienes fuera de Córdoba o conflicto → más coordinación y etapas.
-
----
-
 ## Consultá tu caso (evaluación inicial)
 Si querés una orientación sobre cómo se compone el costo según tu caso, podés escribir sin enviar documentación sensible en esta primera etapa.
 
