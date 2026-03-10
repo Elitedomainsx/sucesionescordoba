@@ -35,7 +35,7 @@ Para entender por qué una declaratoria tarda “más o menos”, conviene mirar
 Si al inicio faltan partidas o hay datos inconsistentes (nombres, apellidos, fechas, estado civil), suelen aparecer observaciones. Eso es de lo que más demora.
 
 ### 2) Inicio del expediente y primeras medidas
-Presentado el expediente, según el caso se ordenan medidas (por ejemplo, informes u oficios). La carga de trabajo del tribunal también influye.
+Presentado el expediente, según el caso se ordenan medidas (por ejemplo, informes u oficios), lo cual puede también influir.
 
 ### 3) Citación por edictos en la sucesión intestada
 En la sucesión intestada, la citación por edicto integra el trámite legal. Esto puede impactar en el tiempo total porque suma publicación, acreditación de constancias y el transcurso del plazo correspondiente.
