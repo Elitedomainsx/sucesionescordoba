@@ -70,8 +70,6 @@ Para ejercerlos, puede escribir a **info@sucesionescordoba.com.ar**.
 
 De acuerdo con la Ley 25.326, el derecho de acceso puede ejercerse en forma gratuita a intervalos no inferiores a **seis meses**, salvo que se acredite un interés legítimo al efecto. La solicitud de acceso debe ser respondida dentro de **diez (10) días corridos**, y los pedidos de rectificación, actualización o supresión dentro de **cinco (5) días hábiles**.
 
-Si la respuesta resultara insuficiente o no fuera brindada en plazo, la persona titular puede efectuar la denuncia correspondiente ante la **Agencia de Acceso a la Información Pública (AAIP)**, autoridad de control de la Ley 25.326, sin perjuicio de las acciones judiciales que pudieran corresponder.
-
 ## Cambios en esta política
 
 Esta política puede actualizarse para reflejar cambios normativos, operativos o de funcionamiento del sitio. La versión publicada en esta página será la vigente al momento de la consulta.
