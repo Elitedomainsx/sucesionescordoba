@@ -3,16 +3,16 @@ layout: article
 title: "Abogado de sucesiones en Córdoba: consulta inicial"
 h1: "Abogado/a de sucesiones en Córdoba: cómo trabajo y qué necesitás"
 description: "Te explico el proceso y cómo avanzar (Córdoba Capital e interior). Evaluación inicial por WhatsApp, llamada o formulario."
-quick: "Si necesitás iniciar una sucesión o declaratoria en Córdoba, te ayudo a ordenar el caso y avanzar con un plan claro. En la evaluación inicial definimos qué trámite corresponde, dónde conviene iniciarlo, qué documentación es prioritaria y qué variables pueden impactar en tiempos y costos (sin pedir documentación sensible en el primer contacto)."
+quick: "Si necesitás iniciar una sucesión o declaratoria en Córdoba, te ayudo a ordenar el caso y avanzar con un plan claro. En la evaluación inicial definimos qué trámite corresponde, cuál es el objetivo real, qué juzgado o sede puede resultar competente según el último domicilio del causante, qué documentación es prioritaria y qué variables pueden impactar en tiempos y costos (sin pedir documentación sensible en el primer contacto)."
 faq:
   - q: "¿Qué se define en la evaluación inicial?"
-    a: "Qué trámite corresponde, objetivo (regularizar/vender/adjudicar/cobrar), competencia, documentación prioritaria, riesgos del caso y próximos pasos concretos."
+    a: "Qué trámite corresponde, cuál es el objetivo real del caso (regularizar, vender, adjudicar, cobrar, administrar), qué tribunal o sede puede resultar competente según el último domicilio del causante, qué documentación conviene priorizar, qué riesgos hay y cuáles son los próximos pasos concretos."
   - q: "¿Tengo que tener todos los papeles para consultar?"
     a: "No. Con datos mínimos alcanza. Después te indico qué documentación conviene reunir y en qué orden."
   - q: "¿Atendés interior de Córdoba?"
-    a: "Sí. Muchas veces se puede coordinar gran parte a distancia, con transparencia sobre pasos presenciales inevitables según el caso y el tribunal."
+    a: "Sí. Muchas veces se puede coordinar gran parte del trabajo a distancia, con claridad sobre pasos presenciales o gestiones materiales que puedan resultar necesarias según el caso y los organismos intervinientes."
   - q: "¿La declaratoria es lo mismo que la sucesión?"
-    a: "No. La sucesión es el proceso. La declaratoria es una resolución dentro del proceso que reconoce herederos (en general, cuando no hay testamento)."
+    a: "No. La sucesión es el proceso. La declaratoria es una resolución dentro de la sucesión intestada que reconoce a quienes acreditaron vocación hereditaria. No equivale por sí sola a partición ni a transferencia de bienes. Si existe testamento, debe analizarse la vía sucesoria correspondiente según el caso."
   - q: "¿Cuánto cuesta y cuánto tarda?"
     a: "No hay un número único. Depende de bienes, herederos, documentación y conflicto. Se puede dar una orientación por componentes y etapas, sin prometer montos ni plazos."
 ---
@@ -22,16 +22,16 @@ Si necesitás iniciar una **sucesión** o una **declaratoria de herederos** en C
 
 Para entender el proceso completo, podés ver: **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
 
-> **Disclaimer (YMYL):** esta página es informativa y no reemplaza asesoramiento jurídico personalizado. Cada caso puede cambiar por bienes, herederos, testamento, conflicto y tribunal. No se prometen resultados, plazos ni montos.
+> **Disclaimer (YMYL):** esta página es informativa y no reemplaza asesoramiento jurídico personalizado. Cada caso puede cambiar por bienes, herederos, testamento, conflicto, último domicilio del causante y tribunal competente. No se prometen resultados, plazos ni montos.
 
 ---
 
 ## Qué resolvemos en una evaluación inicial
 La evaluación inicial apunta a que salgas con claridad, sin vueltas:
 
-- **Qué trámite corresponde** (sucesión / declaratoria / testamento, etc.).
+- **Qué trámite corresponde** (sucesión intestada / declaratoria / sucesión testamentaria / protocolización, según el caso).
 - **Objetivo real**: regularizar, vender, adjudicar, cobrar fondos, ordenar administración, etc.
-- **Dónde conviene iniciar** (competencia) para evitar idas y vueltas.
+- **Competencia**: análisis del último domicilio del causante y de la sede o tribunal que corresponda para evitar idas y vueltas.
 - **Checklist priorizado** (qué es “sí o sí” y qué puede esperar).
 - **Riesgos típicos**: herederos no identificados, inconsistencias en partidas, bienes fuera de Córdoba, herederos en otra jurisdicción/exterior, conflicto, etc.
 - **Plan de pasos**: qué hacemos primero y qué sigue.
@@ -41,10 +41,10 @@ Si tu duda principal es la declaratoria, tenés la guía específica: **[trámit
 ---
 
 ## Cómo trabajo (Córdoba Capital / interior / modalidad online)
-Trabajo con clientes de **Córdoba Capital** y del **interior**. En muchos casos se puede coordinar gran parte del trabajo a distancia (reunión, checklist, organización del caso, seguimiento), con transparencia sobre pasos presenciales inevitables según el caso.
+Trabajo con clientes de **Córdoba Capital** y del **interior**. En muchos casos se puede coordinar gran parte del trabajo a distancia (reunión, checklist, organización del caso, seguimiento), con transparencia sobre pasos presenciales o gestiones materiales que puedan resultar necesarias según el caso y los organismos intervinientes.
 
-- **Córdoba Capital:** existe una organización/mesa/oficina vinculada a procesos sucesorios (suele mencionarse como **OPS**). El circuito operativo concreto puede variar con el tiempo y según el tribunal y el caso.
-- **Interior:** en términos generales, la tramitación se radica ante juzgados con competencia civil/comercial del distrito correspondiente.
+- **Córdoba Capital:** las nuevas declaratorias de herederos, los procesos sucesorios y las protocolizaciones de testamentos tramitan en la **Oficina de Procesos Sucesorios (OPS)**, cada causa a cargo de su juez competente.
+- **Interior:** en términos generales, la tramitación se radica ante los juzgados con competencia civil/comercial del distrito correspondiente.
 
 Si estás en el interior y querés coordinar remoto: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
 
@@ -54,7 +54,7 @@ Si estás en el interior y querés coordinar remoto: **[proceso remoto: qué se 
 Para el primer contacto **no hace falta** enviar DNI, partidas ni documentación sensible. Con esto alcanza:
 
 1) Localidad (Capital / interior)  
-2) Fecha de fallecimiento (aprox.) y último domicilio del causante (si lo sabés)  
+2) Fecha de fallecimiento (aprox.) y **último domicilio del causante** (si lo sabés)  
 3) Quiénes serían herederos (vínculo y cantidad)  
 4) Si hay testamento (sí/no/no sé)  
 5) Bienes principales (listado simple: inmueble/s, auto, cuentas, otros)  
@@ -75,7 +75,7 @@ Te indico qué documentación es prioritaria y qué se puede pedir después (par
 Se inicia el trámite y se hace el seguimiento ordenado, respondiendo observaciones a tiempo.
 
 ### 4) Declaratoria / testamento (según corresponda)
-Si no hay testamento, se apunta a la declaratoria. Si lo hay, se evalúa el camino específico según el caso.
+Si no hay testamento, o si el testamento no dispone de todos los bienes, se analiza la vía intestada y la declaratoria. Si existe testamento, se evalúa la vía sucesoria correspondiente y, según el caso, la validez formal y/o la protocolización.
 
 ### 5) Bienes y cierre por objetivo
 Luego se trabaja el tramo sobre bienes (registros, bancos, transferencias, acuerdos/partición) según lo que busquen los herederos.
