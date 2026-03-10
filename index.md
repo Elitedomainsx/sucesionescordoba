@@ -14,7 +14,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
       <div class="col-lg-8 align-self-baseline">
         <p class="text-white-75 mb-5">
           Información clara para orientarte: pasos del trámite, documentación, costos y tiempos orientativos.
-          Atención en Córdoba Capital e interior, con modalidad online cuando sea posible.
+          Atención en Córdoba Capital e interior, con coordinación remota cuando sea posible.
         </p>
         <a class="btn btn-primary btn-xl" href="/contacto/">Consultar</a>
         <a class="btn btn-light btn-xl ms-2" href="/declaratoria-de-herederos-cordoba/">Qué es la declaratoria</a>
@@ -33,8 +33,8 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
         <hr class="divider divider-light" />
         <p class="text-white-75 mb-4">
         En términos simples: la <strong>sucesión</strong> es el proceso judicial que ordena la herencia.
-        Dentro de ese proceso, la <strong>declaratoria de herederos</strong> es la resolución que reconoce quiénes heredan
-        (cuando no hay testamento; si lo hay, el camino puede ser distinto).
+        Dentro de ese proceso, la <strong>declaratoria de herederos</strong> es la resolución propia de la sucesión intestada
+        que reconoce quiénes son los herederos. Si existe testamento —o si corresponde analizar su alcance— la vía sucesoria puede variar según el caso.
         Después, según los bienes, pueden venir etapas posteriores (inscripciones, oficios, informes y trámites ante registros o entidades).
         Hay que tener en cuenta que cada caso es distinto y depende de las circunstancias concretas.
         </p>
