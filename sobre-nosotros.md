@@ -7,13 +7,13 @@ hide_attorneys_trust_box: true
 quick: "Somos un estudio con foco en sucesiones y declaratoria de herederos en Córdoba. Trabajamos con un método claro: definir competencia, ordenar documentación y planificar por etapas (declaratoria y lo posterior según bienes), con comunicación transparente y sin promesas de plazos."
 faq:
   - q: "¿Atienden Córdoba Capital e interior?"
-    a: "Sí. Atendemos Córdoba Capital e interior. Muchas etapas se pueden organizar a distancia y otras dependen del expediente o de organismos intervinientes."
+    a: "Sí. Atendemos Córdoba Capital e interior. En Córdoba Capital, las nuevas declaratorias y demás procesos sucesorios tramitan en la Oficina de Procesos Sucesorios (OPS); en el interior, en general, ante los juzgados con competencia civil y comercial. Muchas etapas se pueden organizar a distancia y otras dependen del expediente o de organismos intervinientes."
   - q: "¿Qué incluye la consulta inicial?"
     a: "Una evaluación orientativa del escenario (herederos, testamento, bienes), checklist de documentación y próximos pasos por etapas. En el primer contacto evitamos pedir documentación sensible por WhatsApp."
   - q: "¿Trabajan con presupuestos por etapas?"
     a: "Sí. Es la forma más clara: inicio y organización → trámite hasta declaratoria → gestiones posteriores (si hacen falta). Si cambia el caso (aparece un heredero, surge conflicto, se incorporan bienes), se actualiza el plan."
   - q: "¿Puedo iniciar si estoy en otra ciudad?"
-    a: "Sí. Coordinamos de forma online cuando sea posible. La necesidad de presencia física o firmas depende del caso y de lo que requiera el expediente."
+    a: "Sí. Coordinamos a distancia cuando sea posible. La necesidad de presencia física, firma o compulsa de documentación original depende del caso y de lo que requiera el expediente u organismo interviniente."
   - q: "¿Garantizan tiempos o resultados?"
     a: "No. En derecho sucesorio los tiempos dependen de documentación, observaciones, herederos, bienes y eventuales conflictos. Nuestro compromiso es el trabajo ordenado, transparente y con buena comunicación."
 ---
@@ -58,7 +58,7 @@ En **Sucesiones Córdoba** nos enfocamos en **sucesiones y declaratoria de hered
 
 ## Cómo trabajamos (metodología sin humo)
 ### 1) Definimos competencia (Capital vs. interior)
-El primer paso es ubicar correctamente **dónde conviene iniciar** (según el último domicilio del causante y las reglas aplicables). Evita vueltas y demoras innecesarias.
+El primer paso es ubicar correctamente **dónde conviene iniciar** (según el último domicilio del causante y las reglas aplicables). En Córdoba Capital, las nuevas declaratorias y demás procesos sucesorios tramitan en la **Oficina de Procesos Sucesorios (OPS)**; en el interior, en general, ante los juzgados con competencia civil y comercial que correspondan. Evita vueltas y demoras innecesarias.
 
 ### 2) Ordenamos la documentación (checklist real)
 Armamos un checklist **ajustado a tu escenario** (herederos, vínculos, si hay testamento, bienes). Buscamos evitar observaciones por inconsistencias.
