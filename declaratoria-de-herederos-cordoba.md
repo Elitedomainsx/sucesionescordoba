@@ -3,7 +3,7 @@ layout: article
 title: "Declaratoria de herederos en Córdoba: requisitos y pasos"
 h1: "Declaratoria de herederos en Córdoba: qué es y cómo se tramita"
 description: "Qué es la declaratoria, cómo se tramita y qué documentación suele pedirse. Diferencias entre Córdoba Capital e interior."
-quick: "La declaratoria de herederos es la resolución judicial propia de la sucesión intestada que reconoce a quienes acreditaron vocación hereditaria. No crea por sí sola la calidad de heredero, pero sí suele ser necesaria para actuar frente a bienes registrables, bancos y otros organismos."
+quick: "La declaratoria de herederos es la resolución judicial propia de la sucesión intestada que reconoce herederos a quienes acreditaron vocación hereditaria. Suele ser necesaria para actuar frente a bienes registrables, bancos y otros organismos."
 faq:
   - q: "¿La declaratoria transfiere automáticamente los bienes?"
     a: "No. La declaratoria reconoce judicialmente a los herederos, pero después pueden ser necesarias gestiones posteriores sobre bienes: inscripción, tracto abreviado, partición, transferencias, oficios a bancos u otros trámites, según el caso."
@@ -18,9 +18,9 @@ faq:
 ---
 
 ## Qué conviene saber al empezar
-La **declaratoria de herederos** es la resolución judicial que se dicta en la **sucesión intestada** para reconocer a quienes acreditaron vocación hereditaria respecto del causante.
+La **declaratoria de herederos** es la resolución judicial que se dicta en la **sucesión intestada** para reconocer herederos a quienes acreditaron vocación hereditaria respecto del causante.
 
-Desde el punto de vista técnico, conviene hacer una precisión importante: la declaratoria **no crea por sí sola la calidad de heredero**. En determinados supuestos, la investidura existe desde la muerte del causante; pero, especialmente cuando hay **bienes registrables**, hace falta su reconocimiento judicial para poder avanzar con inscripciones, tracto abreviado, transferencias u otros actos.
+En general, resulta necesaria cuando hay **bienes registrables**, ya que hace falta el reconocimiento judicial de la calidad de heredero para poder avanzar con inscripciones, tracto abreviado, transferencias u otros actos.
 
 Si querés el panorama completo del proceso, empezá por **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
 
