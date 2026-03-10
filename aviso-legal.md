@@ -17,7 +17,7 @@ Para una orientación personalizada, coordinamos una consulta inicial.
 No se garantizan resultados, plazos ni montos. Los tiempos y costos pueden variar por documentación, bienes, herederos, observaciones del expediente y conflictos.
 
 ## 4) Jurisdicción y alcance
-El servicio profesional se presta conforme a la normativa y práctica aplicable en Argentina y, en especial, Córdoba, con coordinación online cuando sea posible (sin prometer un trámite 100% remoto).
+El servicio profesional se presta conforme a la normativa y práctica aplicable en Argentina y, en especial, Córdoba, con coordinación remota cuando sea posible (sin prometer un trámite 100% remoto).
 
 ## 5) Propiedad intelectual
 Los textos y recursos del sitio son de uso informativo. No está permitida su reproducción comercial sin autorización.
