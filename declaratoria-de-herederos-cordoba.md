@@ -93,7 +93,7 @@ Para ver el checklist completo, ordenado por prioridades: **[documentación típ
 ## Edictos: qué rol cumplen
 En la sucesión intestada, la publicación de edictos no es un detalle menor: forma parte de la publicidad del proceso y puede impactar en los tiempos operativos del expediente.
 
-En términos generales, el proceso contempla la citación de herederos, acreedores y de quienes se consideren con derecho a los bienes del causante. Por eso, cuando una persona consulta solo para “sacar la declaratoria”, conviene evaluar desde el inicio también esta etapa y sus tiempos reales.
+En términos generales, el proceso contempla la citación de herederos, acreedores y de quienes se consideren con derecho a los bienes del causante.
 
 ---
 
