@@ -80,11 +80,11 @@ Separar por etapas baja la ansiedad y mejora el control:
 ## Qué podés esperar de la consulta inicial
 En una consulta breve (orientativa) buscamos:
 - Confirmar **competencia** (Capital/interior)
-- Definir el **checklist exacto**
+- Definir la **documentación necesaria**
 - Identificar variables que impactan en tiempos/costos
-- Proponer un **plan por etapas** (y qué depende de qué)
+- Proponer un **plan por etapas** 
 
-### Para la consulta inicial alcanza con estos datos (sin mandar papeles)
+### Para la consulta inicial alcanza con estos datos
 - Localidad: Córdoba Capital o interior (cuál)  
 - Herederos: cuántos y vínculo  
 - Testamento: sí / no / no sé  
