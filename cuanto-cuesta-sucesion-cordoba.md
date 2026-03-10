@@ -3,14 +3,14 @@ layout: article
 title: "Cuánto cuesta una sucesión en Córdoba: guía orientativa"
 h1: "Cuánto cuesta una sucesión en Córdoba (orientativo)"
 description: "Honorarios y gastos varían según bienes, herederos y conflicto. Explicación clara por componentes y cómo pedir un estimado sin enviar documentación sensible."
-quick: "No hay un “precio único” para una sucesión. El costo total suele componerse de **honorarios profesionales** + **gastos del proceso** (edictos si se ordenan, informes, oficios, certificaciones, trámites registrales, etc.). Sube o baja según bienes, cantidad de herederos, documentación y si existe conflicto."
+quick: "No hay un “precio único” para una sucesión. El costo total suele componerse de **honorarios profesionales** + **gastos del proceso**. En Córdoba, los honorarios se encuadran en el Código Arancelario vigente y el estimado serio depende del trabajo real, la etapa, los bienes, la documentación y si existe conflicto. En la sucesión intestada, la citación por edictos integra normalmente el trámite legal."
 faq:
   - q: "¿Me podés decir un precio final sin ver el caso?"
     a: "No sería responsable. Sí puedo explicarte los componentes y darte una orientación con datos mínimos (sin pedir documentación sensible al inicio)."
   - q: "¿Qué es lo que más hace subir el costo?"
     a: "En general: muchos bienes, bienes registrables (inmueble/auto), herederos numerosos o desorganizados, documentación con inconsistencias y conflicto."
   - q: "¿Los edictos siempre se pagan?"
-    a: "Depende de lo que ordene el tribunal y del caso. Si se ordenan, suelen integrar los gastos del proceso."
+    a: "En sucesión intestada, la citación por edictos integra normalmente el trámite legal. Otros gastos asociados sí dependen del caso, de los bienes involucrados y de las medidas que deban cumplirse."
   - q: "Si no hay bienes, ¿igual conviene iniciar sucesión?"
     a: "Depende del objetivo. Si no hay bienes ni un trámite concreto que lo requiera, a veces no conviene iniciar. En la evaluación inicial se define si tiene sentido y para qué."
   - q: "¿Puedo coordinar si estoy en el interior?"
@@ -21,9 +21,9 @@ faq:
 No hay un “precio único” de sucesión. En la práctica, el costo total se entiende mejor separándolo en dos bloques:
 
 - **Honorarios profesionales** (trabajo jurídico real y etapas necesarias)
-- **Gastos del proceso** (edictos si se ordenan, informes, oficios, certificaciones, trámites registrales, etc.)
+- **Gastos del proceso** (publicaciones/edictos en la sucesión intestada, informes, oficios, certificaciones, trámites registrales, eventuales tasas o cargas del proceso y otros gastos del caso)
 
-> **Disclaimer (YMYL):** Esta guía es orientativa y no reemplaza asesoramiento jurídico personalizado. No se prometen montos, resultados ni plazos. Un estimado serio se define con información mínima del caso y el objetivo.
+> **Disclaimer (YMYL):** Esta guía es orientativa y no reemplaza asesoramiento jurídico personalizado. No se prometen montos, resultados ni plazos. Un estimado serio se define con información mínima del caso y el objetivo. En Córdoba, los honorarios profesionales se rigen por el Código Arancelario vigente y su cuantificación depende del trabajo efectivamente requerido y de la base económica del caso cuando corresponda.
 
 Si querés el panorama completo del trámite (para ubicar dónde entra el tema “costos”), empezá por **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
 
@@ -33,7 +33,7 @@ Si querés que lo veamos aplicado a tu caso: **[consulta con nuestros abogados](
 ## De qué se compone el costo (honorarios + gastos)
 
 ### 1) Honorarios profesionales (qué incluyen normalmente)
-Los honorarios dependen del trabajo real, la complejidad y las etapas que efectivamente se necesiten. En general, pueden incluir:
+En Córdoba, los honorarios profesionales no deben pensarse como un “precio libre” desconectado de toda regla: se encuadran en el Código Arancelario vigente y dependen del trabajo real, la complejidad y las etapas que efectivamente se necesiten. En general, pueden incluir:
 
 - **Diagnóstico y estrategia:** qué trámite corresponde, dónde conviene iniciar, objetivo (regularizar/vender/adjudicar/cobrar).
 - **Redacción y presentación judicial** del inicio y escritos necesarios.
@@ -42,12 +42,13 @@ Los honorarios dependen del trabajo real, la complejidad y las etapas que efecti
 - **Etapas posteriores** si corresponden: bienes, adjudicación/partición, acuerdos, etc.
 
 ### 2) Gastos del proceso (gastos “vivos”)
-Estos gastos pueden variar mucho según el caso y los bienes. Pueden aparecer, por ejemplo:
+Estos gastos pueden variar mucho según el caso, el objetivo y los bienes involucrados. Pueden aparecer, por ejemplo:
 
-- **Publicaciones/edictos** (si el tribunal los ordena).
+- **Publicaciones/edictos** (en la sucesión intestada integran normalmente el trámite legal).
 - **Informes y oficios** (según bienes y organismos).
 - **Certificaciones / legalizaciones** cuando corresponden.
 - **Trámites registrales** (si hay inmuebles o vehículos).
+- **Eventuales tasas o cargas del proceso** y gastos tributarios/registrales, según el caso.
 - Otros gastos puntuales del expediente (según el caso).
 
 > **Idea clave:** una sucesión “simple” suele ser la que está **bien ordenada desde el inicio** (documentación coherente + mapa de bienes + herederos identificados). Eso evita idas y vueltas y reduce “costos indirectos” (tiempo perdido, ampliaciones, observaciones).
@@ -74,7 +75,7 @@ Si también te interesa el “lado tiempo” (que muchas veces se traduce en má
 ## Cómo pedir un estimado (info mínima, sin documentos sensibles)
 Para darte una orientación razonable **sin pedir documentación sensible** al inicio, alcanza con:
 
-1) Localidad (Capital/interior) y último domicilio del causante (si lo sabés).  
+1) Localidad (Capital/interior) y último domicilio del causante (dato central para definir la competencia sucesoria).  
 2) Fecha de fallecimiento (aprox.) y si ya existe acta/partida de defunción.  
 3) Quiénes serían herederos (vínculo y cantidad).  
 4) Bienes principales (listado simple: inmueble/s, auto, cuentas, otros).  
