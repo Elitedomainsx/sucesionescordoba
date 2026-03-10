@@ -137,7 +137,6 @@ La competencia debe analizarse principalmente a partir del **último domicilio d
 - **“Hay un auto y necesitamos transferir”**: la declaratoria ayuda, pero normalmente hará falta la gestión posterior específica ante el registro correspondiente.
 - **“Hay fondos en banco”**: la declaratoria suele ser necesaria, pero no siempre suficiente; puede requerirse oficio u otras actuaciones.
 - **“Hay conflicto familiar”**: conviene diseñar estrategia desde el inicio, porque el caso deja de ser meramente ordenatorio.
-- **“La pareja convivía, pero no estaba casada”**: no conviene asumir que el conviviente hereda como cónyuge. Ese punto requiere encuadre técnico específico.
 
 ---
 
