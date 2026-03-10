@@ -12,7 +12,7 @@ La modalidad puede ser **presencial u online**, según la ubicación y las carac
 
 ## ¿Qué puede aclararse en la entrevista inicial?
 
-- Si corresponde una **sucesión**, una **declaratoria de herederos** o un análisis más específico.
+- Si corresponde iniciar una **sucesión intestada con declaratoria de herederos**, analizar una **sucesión testamentaria** o encuadrar el caso en una situación más específica.
 - Qué documentación conviene reunir primero.
 - Qué factores pueden influir en los **tiempos** y en los **costos** del trámite.
 - Si el caso puede organizarse con modalidad **online** o si habrá pasos presenciales.
