@@ -8,7 +8,9 @@ faq:
   - q: "¿Puedo consultar sin mandar documentos?"
     a: "Sí. Para el primer contacto alcanza con datos mínimos (localidad, fecha de fallecimiento, herederos, si hay testamento y bienes principales). La documentación se comparte después por un canal seguro cuando se coordine."
   - q: "¿Qué es lo mínimo para iniciar una sucesión/declaratoria?"
-    a: "Como base: acta/partida de defunción, partidas para acreditar vínculo (nacimiento/matrimonio según corresponda), datos de herederos y último domicilio del causante. De los bienes, alcanza con datos orientativos para armar un mapa inicial."
+    a: "Como base: acta/partida de defunción, partidas para acreditar vínculo (nacimiento/matrimonio según corresponda), datos de herederos y último domicilio del causante. De los bienes, alcanza con datos orientativos para armar un mapa inicial. Si existe testamento, también hay que contemplarlo desde el inicio porque puede cambiar la vía procesal o el alcance del trámite."
+  - q: "¿Y si hay testamento?"
+    a: "Hay que revisarlo desde el inicio. Si existe testamento, la estrategia documental y procesal puede cambiar; y si es ológrafo, debe presentarse judicialmente para su comprobación y protocolización, según corresponda."
   - q: "¿Necesito tener la escritura del inmueble para empezar?"
     a: "No siempre. Ayuda, pero con dirección y cualquier dato identificatorio (matrícula/partida si se conoce, impuestos o constancias) suele poderse ordenar el caso y planificar pedidos según corresponda."
   - q: "¿Qué pasa si hay errores en nombres o fechas en las partidas?"
@@ -31,18 +33,20 @@ Esta es la página para **ordenar papeles** sin perder tiempo. Si querés el pan
 2) Armá un **mapa de bienes** (aunque sea con datos aproximados).  
 3) Con eso, definís estrategia y prioridades (qué pedir primero y qué puede esperar).
 
-> **Disclaimer (YMYL):** La documentación exacta puede variar según el caso, el tribunal y los bienes. Esta guía es general y no reemplaza asesoramiento jurídico personalizado.
+> **Disclaimer (YMYL):** La documentación exacta puede variar según el caso, el tribunal y los bienes. Esta guía es general y no reemplaza asesoramiento jurídico personalizado. En sucesión intestada, además, el trámite no depende solo de reunir papeles: también debe analizarse competencia, existencia de otros herederos y, en su caso, la citación por edictos que prevé la ley.
 
 ---
 
 ## Checklist (causante / herederos / bienes)
 
+> **Aclaración útil:** la sucesión intestada procede no solo cuando no hay testamento, sino también cuando el testamento no dispone de la totalidad de los bienes. Por eso, el dato sobre testamento conviene relevarlo siempre desde el primer contacto.
+
 ### A) Del causante (persona fallecida)
 - **Acta/partida de defunción** (clave para iniciar).
 - Datos de identidad disponibles (por ejemplo, DNI o datos registrales).
-- **Último domicilio real** (ayuda a definir competencia y ordenar el expediente).
+- **Último domicilio real** del causante (dato central para definir la competencia sucesoria y ordenar el expediente).
 - Estado civil (según el caso: matrimonio, divorcio, etc.).
-- Si existe **testamento**: cualquier dato que permita ubicarlo (sin asumir validez/alcance hasta revisarlo).
+- Si existe **testamento**: acompañar el original o todo dato que permita ubicarlo. Si fuera **ológrafo**, debe presentarse judicialmente para su comprobación de autenticidad y protocolización, según corresponda.
 
 ### B) De herederos (vínculo y datos básicos)
 - **Partidas que acrediten vínculo** (según corresponda):
@@ -86,7 +90,7 @@ Si tu consulta es específicamente por declaratoria, mirá: **[qué es la declar
 ## Dónde suele conseguirse cada documento (general)
 > **Disclaimer:** Los canales concretos pueden variar según el organismo y cambios administrativos. Esto es una orientación general.
 
-- **Actas/partidas (defunción, nacimiento, matrimonio):** normalmente se gestionan ante el **Registro Civil** del lugar donde se asentó el hecho.
+- **Actas/partidas (defunción, nacimiento, matrimonio):** se gestionan ante el **Registro Civil** correspondiente. Si el hecho fue inscripto en la Provincia de Córdoba, hoy además puede iniciarse su solicitud digital por **Registro Civil Digital / CiDi**.
 - **Datos/constancias de inmuebles:** dependen de los datos que tengas y de los organismos registrales/catastrales que correspondan.
 - **Vehículos:** con el dominio, se puede orientar la búsqueda en el **Registro del Automotor** que corresponda.
 - **Bancos/entidades:** cada entidad tiene políticas y requisitos; conviene primero encuadrar el caso y luego ordenar el pedido.
@@ -98,7 +102,7 @@ Si estás en el interior y querés ordenar todo con modalidad remota: **[cómo a
 ## Errores frecuentes (y cómo evitarlos)
 1) **Partidas con datos inconsistentes** (nombres, fechas, estado civil) → suelen generar observaciones.  
 2) **Empezar sin mapa de bienes** → después aparecen bienes/cuentas y se amplía, con demoras.  
-3) **Confundir declaratoria con transferencia** → la declaratoria reconoce herederos; luego viene el tramo de bienes.  
+3) **Confundir declaratoria con transferencia** → la declaratoria reconoce judicialmente a los herederos a los fines del trámite; luego viene el tramo de bienes (inscripción, tracto abreviado, adjudicación o partición, según corresponda).  
 4) **Enviar documentación sensible sin coordinación** → primero se define qué hace falta y el canal seguro.  
 5) **No alinear objetivo entre herederos** (vender/adjudicar/regularizar) → frena por discusiones tardías.
 
@@ -108,10 +112,10 @@ Si querés entender costos por componentes (y evitar “costos indirectos” por
 
 ## Córdoba Capital vs interior: impacto práctico (OPS vs interior)
 Puede variar el circuito según tribunal y sede:
-- **Córdoba Capital:** existe una organización/mesa/oficina vinculada a procesos sucesorios (suele mencionarse como **OPS**). Lo operativo concreto puede cambiar con el tiempo y según el caso.
+- **Córdoba Capital:** las nuevas declaratorias de herederos y demás procesos sucesorios se canalizan en la **Oficina de Procesos Sucesorios (OPS)**, sin perjuicio del juez competente en cada expediente.
 - **Interior:** en términos generales, se tramita ante juzgados con competencia civil/comercial del distrito correspondiente.
 
-> **Disclaimer:** los detalles pueden variar según el tribunal, el tipo de bien y el caso. Se confirma con localidad + domicilio del causante + bienes.
+> **Disclaimer:** los detalles operativos pueden variar según el tribunal, el tipo de bien y el caso. La verificación práctica siempre se hace con localidad + último domicilio del causante + bienes + existencia o no de testamento.
 
 ---
 
