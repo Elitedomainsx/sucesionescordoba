@@ -10,7 +10,7 @@ noindex: true
 
 Esta política se aplica a los datos personales que la persona usuaria decide enviar al contactarse a través del sitio, por formulario, correo electrónico, WhatsApp u otros canales habilitados.
 
-## Responsable del tratamiento
+## Canal de contacto
 
 Canal de contacto para cuestiones vinculadas a privacidad y datos personales: **info@sucesionescordoba.com.ar**.
 
