@@ -6,7 +6,7 @@ description: "Gran parte del trabajo sucesorio puede coordinarse a distancia, co
 quick: "En Córdoba, gran parte del trabajo de una sucesión o declaratoria puede coordinarse y tramitarse a distancia: reunión inicial, estrategia, checklist, organización de documentación, armado del caso y seguimiento. Pero no es posible garantizar un trámite 100% online en todos los casos: según la prueba, el tribunal y los organismos involucrados, puede haber firmas, certificaciones, compulsa de originales o gestiones presenciales puntuales."
 faq:
   - q: "¿Se puede hacer una sucesión 100% online en Córdoba?"
-    a: "No conviene prometerlo así. Gran parte del trabajo puede coordinarse y tramitarse a distancia, pero según el caso puede haber firmas, certificaciones, compulsa de documentación original o gestiones presenciales ante registros, bancos u otros organismos."
+    a: "No se puede garantizar. Gran parte del trabajo puede coordinarse y tramitarse a distancia, pero según el caso puede haber firmas, certificaciones, compulsa de documentación original o gestiones presenciales ante registros, bancos u otros organismos."
   - q: "¿Qué necesitás para decirme si mi caso puede coordinarse en forma remota?"
     a: "Localidad, fecha de fallecimiento, último domicilio del causante, herederos (vínculo y cantidad), si hay testamento y listado simple de bienes. Con eso se arma un mapa inicial del caso y de los pasos presenciales probables."
   - q: "¿Cómo se envía la documentación?"
