@@ -5,7 +5,7 @@ lang: "es-AR"
 timezone: "America/Argentina/Cordoba"
 
 # Modo construcción: evita indexación hasta que el contenido esté listo
-site_noindex: true
+site_noindex: false
 
 permalink: /:slug/
 
