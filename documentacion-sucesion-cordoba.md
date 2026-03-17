@@ -129,7 +129,7 @@ Puede variar el circuito según tribunal y sede:
 ## Consultá tu caso (evaluación inicial)
 Si querés, te orientamos sobre qué documentación conviene priorizar sin que envíes documentación sensible en este primer contacto.
 
-👉 **[Hablar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFQu%C3%A9%20documentaci%C3%B3n%20b%C3%A1sica%20necesito%20para%20empezar%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---

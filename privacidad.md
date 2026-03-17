@@ -27,6 +27,6 @@ Los datos se conservan el tiempo razonablemente necesario para gestionar la cons
 
 ## Derechos
 
-Podés solicitar actualización o eliminación de tus datos por los canales de contacto del sitio.
+Podés solicitar actualización o eliminación de tus datos por **[{{ site.contact.email }}]({{ site.contact.email_url }})** o desde la página de [contacto](/contacto/).
 
 > Aviso: este texto es un modelo base y puede requerir ajustes según el método de contacto que uses (formulario, email, WhatsApp).

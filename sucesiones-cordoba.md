@@ -153,7 +153,7 @@ La **competencia** se define, en principio, por el **último domicilio del causa
 ## Consultá tu caso (evaluación inicial)
 Para una evaluación inicial orientativa, no hace falta que envíes documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20orient%C3%A1s%20sobre%20los%20primeros%20pasos%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20orient%C3%A1s%20sobre%20los%20primeros%20pasos%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---

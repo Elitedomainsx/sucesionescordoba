@@ -12,7 +12,7 @@ Esta política se aplica a los datos personales que la persona usuaria decide en
 
 ## Canal de contacto
 
-Canal de contacto para cuestiones vinculadas a privacidad y datos personales: **info@sucesionescordoba.com.ar**.
+Canal de contacto para cuestiones vinculadas a privacidad y datos personales: **[{{ site.contact.email }}]({{ site.contact.email_url }})**.
 
 ## Datos que podemos recolectar
 
@@ -66,7 +66,7 @@ La persona titular de los datos puede ejercer sus derechos de:
 - **actualización**;
 - **supresión**.
 
-Para ejercerlos, puede escribir a **info@sucesionescordoba.com.ar**.
+Para ejercerlos, puede escribir a **[{{ site.contact.email }}]({{ site.contact.email_url }})**.
 
 De acuerdo con la Ley 25.326, el derecho de acceso puede ejercerse en forma gratuita a intervalos no inferiores a **seis meses**, salvo que se acredite un interés legítimo al efecto. La solicitud de acceso debe ser respondida dentro de **diez (10) días corridos**, y los pedidos de rectificación, actualización o supresión dentro de **cinco (5) días hábiles**.
 

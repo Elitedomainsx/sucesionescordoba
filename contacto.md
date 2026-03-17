@@ -30,11 +30,15 @@ Con esta información alcanza para organizar una entrevista inicial:
 
 ## Email
 
-Escribinos a: **info@sucesionescordoba.com.ar**
+Escribinos a: **[{{ site.contact.email }}]({{ site.contact.email_url }})**
 
 ## WhatsApp
 
-<a class="btn btn-primary" href="https://wa.me/543518660334?text=Hola%2C%20quiero%20coordinar%20una%20entrevista%20inicial%20(presencial%20u%20online)%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Mi%20localidad%20es%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Los%20herederos%20ser%C3%ADan%20____.%20Gracias." target="_blank" rel="noopener">Coordinar por WhatsApp</a>
+<div class="d-flex flex-wrap gap-2">
+  <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
+  <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Escribir por email</a>
+  <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">Llamar</a>
+</div>
 
 ## Atención en Córdoba Capital e interior
 
