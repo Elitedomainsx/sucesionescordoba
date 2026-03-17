@@ -24,7 +24,7 @@ Los textos y recursos del sitio son de uso informativo. No está permitida su re
 
 ## 6) Contacto profesional
 - Profesionales responsables: **Abog. Pablo Jorge Arias Visconti (M.P. 1-43613)** y **Abog. Gustavo Javier Marchetti (M.P. 1-43670)**
-- WhatsApp: **3513772921**
+- WhatsApp: **3518660334**
 - Email: **info@sucesionescordoba.com.ar**
 
 👉 Para consultas: [Ir a contacto](/contacto/)  

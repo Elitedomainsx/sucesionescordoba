@@ -118,7 +118,7 @@ Si querés resolverlo con un plan claro desde el principio, podés empezar por u
 ## Consultá tu caso
 Si estás en el interior o querés coordinar a distancia, podés escribirnos sin enviar documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20estoy%20en%20____%20(C%C3%B3rdoba).%20Quiero%20iniciar%20una%20sucesi%C3%B3n%2Fdeclaratoria%20y%20coordinar%20el%20proceso%20a%20distancia.%20%C2%BFC%C3%B3mo%20trabajamos%20con%20la%20documentaci%C3%B3n%20y%20los%20pasos%20que%20pueden%20requerir%20presencia%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20estoy%20en%20____%20(C%C3%B3rdoba).%20Quiero%20iniciar%20una%20sucesi%C3%B3n%2Fdeclaratoria%20y%20coordinar%20el%20proceso%20a%20distancia.%20%C2%BFC%C3%B3mo%20trabajamos%20con%20la%20documentaci%C3%B3n%20y%20los%20pasos%20que%20pueden%20requerir%20presencia%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---

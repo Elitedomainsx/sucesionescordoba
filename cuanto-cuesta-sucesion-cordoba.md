@@ -101,7 +101,7 @@ Si querés que revise tu caso y te ordene el camino: **[evaluación inicial de t
 ## Consultá tu caso (evaluación inicial)
 Si querés una orientación sobre cómo se compone el costo según tu caso, podés escribir sin enviar documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFPod%C3%A9s%20orientarme%20sobre%20c%C3%B3mo%20se%20componen%20los%20costos%20y%20qu%C3%A9%20info%20te%20paso%20para%20un%20estimado%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20El%20causante%20falleci%C3%B3%20en%20____%20y%20los%20bienes%20principales%20son%20____.%20Somos%20____%20herederos.%20%C2%BFPod%C3%A9s%20orientarme%20sobre%20c%C3%B3mo%20se%20componen%20los%20costos%20y%20qu%C3%A9%20info%20te%20paso%20para%20un%20estimado%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---

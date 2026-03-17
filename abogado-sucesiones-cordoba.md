@@ -112,7 +112,7 @@ No hay un “precio único” ni “plazo garantizado”. Depende de bienes, her
 ## Consultá tu caso (evaluación inicial)
 Si querés una primera orientación sobre tu sucesión o declaratoria, podés escribir sin enviar documentación sensible en esta primera etapa.
 
-👉 **[Hablar por WhatsApp](https://wa.me/543513772921?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20indic%C3%A1s%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20necesito%20y%20cu%C3%A1l%20ser%C3%ADa%20el%20primer%20paso%3F)**  
+👉 **[Hablar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20quiero%20consultar%20por%20una%20sucesi%C3%B3n%2Fdeclaratoria%20en%20C%C3%B3rdoba.%20Estoy%20en%20____.%20El%20causante%20falleci%C3%B3%20en%20____.%20Somos%20____%20herederos.%20Hay%20____%20(bienes).%20%C2%BFMe%20indic%C3%A1s%20qu%C3%A9%20documentaci%C3%B3n%20prioritaria%20necesito%20y%20cu%C3%A1l%20ser%C3%ADa%20el%20primer%20paso%3F)**  
 👉 **[Contacto](/contacto/)**
 
 ---
