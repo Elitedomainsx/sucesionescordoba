@@ -6,7 +6,7 @@ description: "Qué es el tracto abreviado, cuándo puede servir y cómo se relac
 quick: "El tracto abreviado suele aparecer cuando, dentro de una sucesión, el foco ya no está solo en reconocer herederos sino en resolver qué hacer con un inmueble: adjudicarlo, inscribirlo o analizar su venta. No es una solución automática ni sirve igual para todos los casos. En Córdoba, conviene revisar la documentación y el objetivo final antes de definir el camino más conveniente."
 faq:
   - q: "¿Qué es el tracto abreviado en una sucesión?"
-    a: "En términos generales, se habla de tracto abreviado cuando se analiza una forma de instrumentar la transmisión de un inmueble hereditario sin pensar el caso como una simple secuencia automática de inscripciones. Suele aparecer cuando el objetivo práctico es adjudicar, escriturar o vender."
+    a: "En términos generales, se habla de tracto abreviado cuando se analiza una forma de instrumentar la transmisión o inscripción de un inmueble hereditario sin pensar el caso como una simple secuencia automática de inscripciones. Suele aparecer cuando el objetivo práctico es adjudicar, escriturar o vender."
   - q: "¿Siempre conviene usar tracto abreviado?"
     a: "No. Puede servir en algunos casos y en otros no. Depende de la etapa del trámite, del tipo de bien, de la documentación y del objetivo concreto."
   - q: "¿Sirve para vender un inmueble hereditario?"
@@ -31,7 +31,7 @@ Explicado en simple: el tracto abreviado no es “otra sucesión” ni una forma
 
 Muchas personas llegan con esta idea: “queremos vender”, “queremos escriturar”, “queremos poner el inmueble en regla”. Ahí es donde aparece la duda por el tracto abreviado.
 
-En términos generales, se lo suele relacionar con la forma de instrumentar la transmisión de un inmueble hereditario cuando el caso ya está suficientemente encaminado como para mirar la salida registral o la venta. Por eso conviene entender también dónde está parado el [trámite sucesorio en Córdoba](/sucesiones-cordoba/).
+En términos generales, se lo suele relacionar con la forma de instrumentar la transmisión o inscripción de un inmueble hereditario cuando el caso ya está suficientemente encaminado como para mirar la salida registral, la adjudicación o la venta. Por eso conviene entender también dónde está parado el [trámite sucesorio en Córdoba](/sucesiones-cordoba/).
 
 ### Qué no es
 - No es una forma de “evitar” la sucesión.
@@ -64,7 +64,7 @@ En términos generales, cuanto más claro esté:
 - quiénes son los herederos,
 - en qué estado está el expediente,
 - qué documentación del inmueble existe,
-- y si hay acuerdo sobre el destino del bien,
+- y si hay acuerdo suficiente sobre el destino del bien,
 
 más fácil será definir si esta vía tiene sentido o si conviene otro camino.
 
@@ -78,7 +78,7 @@ En términos generales, el tracto abreviado puede entrar razonablemente en anál
 - hay un inmueble concreto sobre la mesa,
 - el objetivo final está claro,
 - los herederos y el estado del expediente están suficientemente ordenados,
-- y se quiere definir cómo cerrar la parte registral o la venta del bien.
+- y se quiere definir cómo cerrar la parte registral, la adjudicación o la venta del bien.
 
 ### Cuándo conviene mirar el caso con más detalle
 Conviene revisar con más cuidado cuando:
@@ -136,7 +136,7 @@ Hay un inmueble hereditario, pero todavía no está claro si conviene adjudicar 
 
 ## Preguntas frecuentes
 ### ¿Qué es el tracto abreviado en una sucesión?
-En términos generales, es una cuestión que suele analizarse cuando el foco está puesto en cómo instrumentar la transmisión de un inmueble hereditario dentro de un caso ya encaminado.
+En términos generales, es una cuestión que suele analizarse cuando el foco está puesto en cómo instrumentar la transmisión o inscripción de un inmueble hereditario dentro de un caso ya encaminado.
 
 ### ¿Siempre conviene usar tracto abreviado?
 No. Puede servir en algunos casos y en otros no. Depende de la etapa del trámite, del bien y de la situación concreta.
