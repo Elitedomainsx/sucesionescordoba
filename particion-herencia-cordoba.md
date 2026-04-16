@@ -3,10 +3,10 @@ layout: article
 title: "Partición de herencia en Córdoba: acuerdo, bienes y pasos"
 h1: "Partición de herencia en Córdoba: cómo se reparten los bienes"
 description: "Qué es la partición, cuándo se vuelve necesaria y cómo se relaciona con adjudicación, acuerdo y bienes hereditarios en Córdoba."
-quick: "La partición aparece cuando, dentro de una sucesión, ya no alcanza con reconocer quiénes heredan y la pregunta pasa a ser cómo se reparten concretamente los bienes. En términos generales, puede resolverse con más facilidad si hay acuerdo y la situación está ordenada, pero puede variar según el tipo de bienes, el grado de acuerdo entre herederos y la etapa del trámite."
+quick: "La partición aparece cuando, dentro de una sucesión, ya no alcanza con reconocer quiénes heredan y la pregunta pasa a ser cómo se reparten concretamente los bienes. En términos generales, suele analizarse con especial frecuencia cuando el caso ya está encaminado en ese punto, aunque puede variar según el tipo de bienes, el grado de acuerdo entre herederos y la etapa del trámite."
 faq:
   - q: "¿Qué es la partición de herencia?"
-    a: "En términos generales, es la etapa o acto mediante el cual se reparten los bienes hereditarios entre quienes heredan."
+    a: "En términos generales, es la etapa o acto mediante el cual se reparten o adjudican los bienes hereditarios entre quienes heredan."
   - q: "¿Siempre hay que hacer partición?"
     a: "No siempre con la misma complejidad ni en el mismo momento. Depende del caso, de los bienes y del objetivo práctico que tengan los herederos."
   - q: "¿Qué pasa si los herederos están de acuerdo?"
@@ -16,7 +16,7 @@ faq:
   - q: "¿Se puede adjudicar un inmueble a uno de los herederos?"
     a: "En muchos casos esa es justamente una de las preguntas centrales de la partición. La respuesta concreta depende del acuerdo, de la composición de los bienes y de cómo se organice el cierre del caso."
   - q: "¿Cuándo aparece esta etapa dentro de la sucesión?"
-    a: "Suele aparecer después de haber identificado o reconocido herederos, cuando el foco pasa del expediente a la distribución concreta de los bienes."
+    a: "Suele aparecer cuando el foco deja de estar sólo en quién hereda y pasa a la distribución concreta de los bienes."
   - q: "¿Qué documentación conviene ordenar?"
     a: "Suele ser útil reunir información del expediente, de los herederos, de los bienes y del objetivo real que se busca: adjudicar, vender, inscribir o cerrar la indivisión."
   - q: "¿Qué hago si quiero avanzar con el reparto de bienes?"
@@ -24,7 +24,7 @@ faq:
 ---
 
 ## Respuesta rápida
-La partición de herencia es, en términos simples, la etapa en la que se define cómo se reparten concretamente los bienes entre quienes heredan. Suele aparecer después del [trámite de declaratoria](/declaratoria-de-herederos-cordoba/) o, más ampliamente, cuando el problema deja de ser quién hereda y pasa a ser cómo ordenar el destino de los bienes.
+La partición de herencia es, en términos simples, la etapa en la que se define cómo se reparten concretamente los bienes entre quienes heredan. Suele analizarse con especial frecuencia después del [trámite de declaratoria](/declaratoria-de-herederos-cordoba/) o, más ampliamente, cuando el problema deja de ser quién hereda y pasa a ser cómo ordenar el destino de los bienes.
 
 ## Qué es la partición de herencia
 Explicado sin vueltas: la partición es el momento en el que la herencia deja de estar “en conjunto” y se empieza a definir qué bien o qué parte corresponde a cada heredero.
@@ -41,7 +41,7 @@ La partición no suele ser la primera preocupación de una familia. En general, 
 
 En términos generales, esta necesidad suele aparecer cuando:
 - ya se sabe quiénes son los herederos o el caso está bastante encaminado en ese punto,
-- ya existe o está cerca el [reconocimiento judicial de herederos](/declaratoria-de-herederos-cordoba/),
+- en muchos casos, ya existe o está próximo el [reconocimiento judicial de herederos](/declaratoria-de-herederos-cordoba/), especialmente si hay bienes registrables,
 - y el foco práctico pasa a ser adjudicar, distribuir, vender o simplemente salir del estado de indivisión.
 
 Por eso conviene ubicar bien esta etapa dentro del [trámite sucesorio en Córdoba](/sucesiones-cordoba/) y no tratarla como si fuera un trámite aislado.
@@ -49,7 +49,7 @@ Por eso conviene ubicar bien esta etapa dentro del [trámite sucesorio en Córdo
 ## Qué significa salir de la indivisión hereditaria
 Este punto es central.
 
-Mientras la herencia no se reparte, los bienes siguen en una situación de indivisión. En términos simples, eso significa que los herederos tienen una relación común con ese conjunto de bienes, aunque todavía no esté definido con precisión qué queda para cada uno.
+Mientras la herencia no se reparte, los bienes siguen en una situación de indivisión. En términos simples, eso significa que los herederos mantienen una relación común con ese conjunto de bienes, aunque todavía no esté definido con precisión qué queda para cada uno.
 
 Salir de la indivisión hereditaria significa, justamente, pasar de ese estado compartido a una organización más concreta del patrimonio hereditario.
 
@@ -93,13 +93,13 @@ Muchas veces, cuando se habla de partición, en realidad lo que la familia quier
 Por eso, hablar de partición no es solo hablar de división abstracta. Es hablar de cómo aterrizar los bienes en decisiones concretas.
 
 En términos generales:
-- la adjudicación puede ser una forma de resolver el destino de determinados bienes,
+- la adjudicación puede ser una de las formas de resolver el destino de determinados bienes,
 - la composición del patrimonio importa mucho,
 - y no es lo mismo un caso con un único inmueble que uno con varios bienes distintos.
 
 Si dentro de ese análisis aparece la necesidad de pensar la salida registral o una venta, ahí puede entrar en juego otra página específica: [tracto abreviado en Córdoba](/tracto-abreviado-cordoba/). Pero no conviene mezclar los planos: partición no es lo mismo que venta, aunque a veces se conecten.
 
-También puede cambiar bastante el escenario si la base del caso es una [sucesión sin testamento en Córdoba](/sucesion-sin-testamento-cordoba/), porque primero hay que ordenar bien quién hereda si todavía eso no quedó firme.
+También puede cambiar bastante el escenario si la base del caso es una [sucesión sin testamento en Córdoba](/sucesion-sin-testamento-cordoba/), porque primero hay que ordenar bien quién hereda si todavía eso no quedó suficientemente definido en el trámite.
 
 ## Qué documentación o información conviene ordenar
 No hace falta fingir una lista cerrada, porque puede variar mucho. Pero, en clave práctica, suele ayudar tener ordenado:
@@ -122,7 +122,7 @@ Y si además te preocupa el impacto económico de cada camino, puede ayudar ente
 
 ## Errores comunes y cómo evitarlos
 ### 1. Creer que la declaratoria ya “resuelve” el reparto
-La [declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/) suele ser una etapa clave, pero no siempre cierra por sí sola qué pasa con cada bien.
+La [declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/) suele ser una etapa clave, pero no siempre define por sí sola qué pasa con cada bien.
 
 ### 2. Confundir partición con venta
 A veces la familia habla de “repartir” cuando en realidad quiere vender. O habla de vender cuando en realidad antes necesita ordenar adjudicación y partición.
@@ -147,11 +147,11 @@ Cuanto antes se aclare eso, mejor se puede evaluar la estrategia. Si querés, po
 Hay dos herederos, un inmueble y un automotor. La pregunta no es ya quién hereda, sino cómo repartir de manera razonable los bienes y si alguno puede adjudicarse a uno de ellos.
 
 ### Caso 2
-Hay varios herederos, todos reconocidos, pero no se ponen de acuerdo sobre qué hacer con un inmueble. En ese contexto, la discusión deja de ser sucesoria “de base” y pasa a ser cómo salir de la indivisión sin agravar el conflicto.
+Hay varios herederos, todos reconocidos dentro del trámite, pero no se ponen de acuerdo sobre qué hacer con un inmueble. En ese contexto, la discusión deja de ser sucesoria “de base” y pasa a ser cómo salir de la indivisión sin agravar el conflicto.
 
 ## Preguntas frecuentes
 ### ¿Qué es la partición de herencia?
-En términos generales, es la etapa en la que se define cómo se reparten los bienes hereditarios entre quienes heredan.
+En términos generales, es la etapa o acto en la que se define cómo se reparten o adjudican los bienes hereditarios entre quienes heredan.
 
 ### ¿Siempre hay que hacer partición?
 No necesariamente con la misma intensidad ni de la misma forma. Depende del caso, de los bienes y del objetivo práctico.
@@ -166,7 +166,7 @@ No conviene asumir una salida automática. La situación puede requerir más an�
 En muchos casos esa es una de las preguntas centrales de esta etapa. La respuesta concreta depende del caso, del acuerdo y de cómo esté compuesta la herencia.
 
 ### ¿Cuándo aparece esta etapa dentro de la sucesión?
-Suele aparecer después de haber avanzado en la identificación o reconocimiento de herederos, cuando el foco pasa al reparto concreto de bienes.
+Suele aparecer cuando el foco deja de estar sólo en quién hereda y pasa al reparto concreto de bienes.
 
 ### ¿Qué documentación conviene ordenar?
 En términos generales, estado del expediente, datos de herederos, bienes, documentación disponible y objetivo real del caso.
