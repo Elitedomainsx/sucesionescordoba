@@ -41,8 +41,8 @@ Lo importante acá es no simplificar demasiado. Decir “hereda tal persona” s
 Por eso, más que memorizar reglas aisladas, suele ser mejor identificar bien:
 - quiénes integran la familia del causante,
 - qué vínculos pueden acreditarse,
-- si hubo matrimonios, divorcios o convivencias relevantes,
-- y si existe alguna situación que cambie el análisis del caso.
+- si hubo matrimonios, divorcios u otras situaciones familiares relevantes,
+- y si existe alguna circunstancia que cambie el análisis del caso.
 
 Si querés una revisión puntual de eso, podés pedir una [evaluación inicial de tu caso](/abogado-sucesiones-cordoba/).
 
@@ -68,7 +68,7 @@ Aunque no tengas todo desde el primer día, ayuda mucho armar un mapa inicial de
 - si hay inmueble, auto, cuentas u otros bienes,
 - si alguien vive afuera,
 - si hay conflicto,
-- y si existe alguna duda sobre el estado civil o los vínculos.
+- y si existe alguna duda relevante sobre el estado civil o los vínculos.
 
 Para ordenar mejor esa etapa, te puede servir esta guía de [documentación para iniciar una sucesión](/documentacion-sucesion-cordoba/) y este [checklist de documentación](/documentacion-sucesion-cordoba/).
 
