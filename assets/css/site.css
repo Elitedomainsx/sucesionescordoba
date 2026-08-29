@@ -674,3 +674,92 @@ header.masthead{
     max-width:320px;
   }
 }
+
+
+/* Article tables: legal card styling + responsive mobile layout */
+.article-body table{
+  width:100%;
+  margin:1.5rem 0 1.75rem;
+  border-collapse:separate;
+  border-spacing:0;
+  overflow:hidden;
+  background:#fff;
+  border:1px solid #D6DEE8;
+  border-radius:16px;
+  box-shadow:0 .75rem 1.75rem rgba(15,23,42,.07);
+}
+.article-body table thead th{
+  padding:1rem 1.1rem;
+  background:var(--legal-primary);
+  color:#fff;
+  border:0;
+  font-size:.95rem;
+  font-weight:700;
+  line-height:1.35;
+  text-align:left;
+  vertical-align:middle;
+}
+.article-body table tbody td{
+  padding:1.05rem 1.1rem;
+  border:0;
+  border-top:1px solid #E5EAF0;
+  line-height:1.65;
+  vertical-align:top;
+}
+.article-body table tbody tr:first-child td{
+  border-top:0;
+}
+.article-body table tbody tr:nth-child(even) td{
+  background:#F8FAFC;
+}
+.article-body table tbody td:first-child{
+  width:31%;
+  color:var(--legal-primary);
+  font-weight:700;
+}
+@media (max-width: 575.98px){
+  .article-body table{
+    display:block;
+    overflow:visible;
+    border:0;
+    border-radius:0;
+    background:transparent;
+    box-shadow:none;
+  }
+  .article-body table thead{
+    position:absolute;
+    width:1px;
+    height:1px;
+    padding:0;
+    margin:-1px;
+    overflow:hidden;
+    clip:rect(0,0,0,0);
+    white-space:nowrap;
+    border:0;
+  }
+  .article-body table tbody,
+  .article-body table tr,
+  .article-body table td{
+    display:block;
+    width:100% !important;
+  }
+  .article-body table tbody tr{
+    margin-bottom:1rem;
+    overflow:hidden;
+    background:#fff;
+    border:1px solid #D6DEE8;
+    border-radius:14px;
+    box-shadow:0 .6rem 1.4rem rgba(15,23,42,.07);
+  }
+  .article-body table tbody td{
+    padding:1rem;
+    border-top:0;
+    background:#fff !important;
+  }
+  .article-body table tbody td:first-child{
+    padding:.8rem 1rem;
+    color:#fff;
+    background:var(--legal-primary) !important;
+    font-size:.95rem;
+  }
+}
