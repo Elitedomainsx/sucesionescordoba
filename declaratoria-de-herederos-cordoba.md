@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Declaratoria de herederos en Córdoba: requisitos y pasos"
+title: "Declaratoria de herederos en Córdoba: requisitos y trámite"
 h1: "Declaratoria de herederos en Córdoba: qué es y cómo se tramita"
-description: "Qué es la declaratoria, cómo se tramita y qué documentación suele pedirse. Diferencias entre Córdoba Capital e interior."
-quick: "La declaratoria de herederos es la resolución judicial propia de la sucesión intestada que reconoce herederos a quienes acreditaron vocación hereditaria. Suele ser necesaria para actuar frente a bienes registrables, bancos y otros organismos."
+description: "Qué es la declaratoria o declaración de herederos, cómo se tramita en Córdoba, qué documentación se necesita y qué ocurre después."
+quick: "La declaratoria —a veces buscada como declaración de herederos— es la resolución judicial propia de la sucesión intestada que reconoce herederos a quienes acreditaron vocación hereditaria. Suele ser necesaria para actuar frente a bienes registrables, bancos y otros organismos."
 faq:
   - q: "¿La declaratoria transfiere automáticamente los bienes?"
     a: "No. La declaratoria reconoce judicialmente a los herederos, pero después pueden ser necesarias gestiones posteriores sobre bienes: inscripción, tracto abreviado, partición, transferencias, oficios a bancos u otros trámites, según el caso."
@@ -51,7 +51,7 @@ Si querés el panorama completo del proceso, empezá por **[sucesiones en Córdo
 
 ### 2) Definir el escenario: ¿hay o no hay testamento?
 - **Si no hay testamento:** corresponde, en principio, la vía de la **sucesión intestada** con pedido de declaratoria.
-- **Si hay testamento:** no conviene hablar automáticamente de “declaratoria” como si todo siguiera igual. Debe analizarse si corresponde sucesión testamentaria, declaración de validez formal, protocolización y, en su caso, qué ocurre con los bienes no comprendidos en el testamento.
+- **Si hay testamento:** no conviene hablar automáticamente de “declaratoria” como si todo siguiera igual. Debe analizarse la [sucesión testamentaria, la validez formal y la eventual protocolización](/sucesion-con-testamento-cordoba/), además de lo que ocurra con los bienes no comprendidos.
 
 ### 3) Presentación e inicio del expediente
 Se presenta la solicitud con la documentación disponible. Si hay errores en nombres, fechas, estado civil, identidad del causante o vínculos familiares, conviene corregirlos lo antes posible para evitar observaciones y demoras.
@@ -113,7 +113,7 @@ Para ver etapas y variables en detalle: **[tiempos orientativos de la declarator
 
 ## Córdoba Capital vs interior: qué cambia en la práctica
 Puede variar el circuito según la sede:
-- **Córdoba Capital:** las nuevas declaratorias de herederos se canalizan en la **Oficina de Procesos Sucesorios (OPS)**, sin que eso implique por sí solo un plazo garantizado ni una respuesta idéntica en todos los casos.
+- **Córdoba Capital:** las nuevas declaratorias de herederos se canalizan en la **[Oficina de Procesos Sucesorios (OPS)](/oficina-procesos-sucesorios-cordoba/)**, sin que eso implique por sí solo un plazo garantizado ni una respuesta idéntica en todos los casos.
 - **Interior:** en términos generales, la tramitación continúa ante los **juzgados con competencia civil y comercial** que resulten competentes.
 
 La competencia debe analizarse principalmente a partir del **último domicilio del causante** y de las reglas procesales aplicables.

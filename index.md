@@ -89,6 +89,53 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
 
 
 
+<!-- Specific guides -->
+<section class="page-section bg-light" id="guias">
+  <div class="container px-4 px-lg-5">
+    <h2 class="text-center mt-0">Guías para situaciones sucesorias específicas</h2>
+    <hr class="divider" />
+    <p class="text-muted text-center mx-auto mb-5" style="max-width: 760px;">Elegí el tema que más se parece a tu situación. Cada guía explica el alcance general y qué información conviene reunir antes de tomar una decisión.</p>
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/sucesion-sin-testamento-cordoba/">Sucesión sin testamento</a></h3>
+        <p class="text-muted mb-0">Quiénes pueden heredar y cómo se conecta con la declaratoria.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/sucesion-con-testamento-cordoba/">Sucesión con testamento</a></h3>
+        <p class="text-muted mb-0">Presentación, validez, protocolización y legítima.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/como-hacer-testamento-cordoba/">Cómo hacer un testamento</a></h3>
+        <p class="text-muted mb-0">Formas legales, requisitos, límites y costos orientativos.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/oficina-procesos-sucesorios-cordoba/">Oficina de Procesos Sucesorios</a></h3>
+        <p class="text-muted mb-0">Qué tramita la OPS de Córdoba Capital y cómo ubicar una causa.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/particion-herencia-cordoba/">Partición de la herencia</a></h3>
+        <p class="text-muted mb-0">Alternativas para adjudicar bienes o salir de la indivisión.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/tracto-abreviado-cordoba/">Tracto abreviado</a></h3>
+        <p class="text-muted mb-0">Cuándo puede servir para un inmueble de la sucesión.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/hijo-no-reconocido-herencia/">Hijo no reconocido y herencia</a></h3>
+        <p class="text-muted mb-0">Filiación, participación hereditaria, bienes y donaciones.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/herencia-yacente-cordoba/">Herencia yacente o vacante</a></h3>
+        <p class="text-muted mb-0">Qué sucede cuando no aparecen herederos aceptantes.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/abogado-sucesiones-cordoba/">Evaluación profesional</a></h3>
+        <p class="text-muted mb-0">Cómo ordenar el caso y qué datos compartir en el primer contacto.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Professional trust -->
 <section class="page-section bg-light" id="equipo">
   <div class="container px-4 px-lg-5">
