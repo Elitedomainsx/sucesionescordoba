@@ -134,7 +134,7 @@ La **competencia** se define, en principio, por el **último domicilio del causa
 
 ## Errores comunes (y cómo evitarlos)
 1) **Partidas con errores o datos inconsistentes** → generan observaciones. Revisarlas temprano ahorra tiempo.
-2) **No identificar herederos o situaciones familiares relevantes** → después complica el trámite y puede obligar a ampliar o reencauzar la estrategia.
+2) **No identificar herederos o situaciones familiares relevantes** → después complica el trámite y puede obligar a ampliar o reencauzar la estrategia. Esto es especialmente importante si [aparece un hijo no reconocido o un nuevo heredero](/hijo-no-reconocido-herencia/).
 3) **No armar un mapa mínimo de bienes** → los bienes aparecen tarde y eso agrega pasos, oficios o ampliaciones.
 4) **Creer que la declaratoria termina todo** → muchas veces después viene el tramo registral, bancario o particionario.
 5) **Subestimar el impacto del testamento** → cambia el encuadre y puede exigir pasos específicos.
@@ -164,3 +164,4 @@ Para una evaluación inicial orientativa, no hace falta que envíes documentaci�
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+

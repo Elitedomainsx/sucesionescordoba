@@ -124,7 +124,7 @@ La competencia debe analizarse principalmente a partir del **último domicilio d
 
 ## Errores comunes que traban el trámite
 1) **Partidas con errores** de nombre, apellido, fechas o estado civil.
-2) **Omitir herederos** o relaciones familiares relevantes.
+2) **Omitir herederos** o relaciones familiares relevantes. Si aparece una persona que invoca ser hija del causante, hay que distinguir si su filiación ya está determinada y revisar [qué derechos puede tener ese hijo en la herencia](/hijo-no-reconocido-herencia/).
 3) **No detectar un testamento** o minimizar su impacto procesal.
 4) **Confundir declaratoria con partición o inscripción**, y recién advertirlo cuando se quiere vender o adjudicar.
 5) **No pensar el objetivo final** desde el inicio (inmueble, automotor, fondos, tracto abreviado, cesión, etc.).
@@ -154,3 +154,4 @@ Si querés una orientación inicial sobre tu situación, podés escribir sin env
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+

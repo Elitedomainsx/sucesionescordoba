@@ -36,7 +36,7 @@ En la práctica, esta suele ser una de las dudas más comunes: “no dejó testa
 ## Quién hereda si no hay testamento
 En términos generales, cuando no hay testamento, la ley establece un orden de llamamiento hereditario. Según el caso, pueden entrar en juego descendientes, ascendientes, cónyuge y, a falta de ellos, otros parientes dentro de ciertos grados.
 
-Lo importante acá es no simplificar demasiado. Decir “hereda tal persona” sin revisar la situación familiar concreta puede llevar a errores. No es lo mismo un caso con hijos, que uno con cónyuge y padres, que otro con hermanos, ni uno en el que aparece un heredero que inicialmente no se tuvo en cuenta.
+Lo importante acá es no simplificar demasiado. Decir “hereda tal persona” sin revisar la situación familiar concreta puede llevar a errores. No es lo mismo un caso con hijos, que uno con cónyuge y padres, que otro con hermanos, ni uno en el que [aparece un hijo no reconocido o un heredero que inicialmente no se tuvo en cuenta](/hijo-no-reconocido-herencia/).
 
 Por eso, más que memorizar reglas aisladas, suele ser mejor identificar bien:
 - quiénes integran la familia del causante,
@@ -147,3 +147,4 @@ Si querés, puedo ayudarte a revisar tu caso y explicarte los próximos pasos co
 - [Pedir evaluación inicial](/abogado-sucesiones-cordoba/)
 - [Hablar con un abogado/a de sucesiones](/abogado-sucesiones-cordoba/)
 - [Consultar tu caso](/abogado-sucesiones-cordoba/)
+

@@ -56,7 +56,7 @@ Esta es la página para **ordenar papeles** sin perder tiempo. Si querés el pan
   - Nombre y apellido
   - Domicilio
   - Contacto (teléfono/mail)
-- Situaciones especiales (si aplica): heredero fallecido, menores, herederos en el exterior, heredero no localizado, etc.
+- Situaciones especiales (si aplica): heredero fallecido, menores, herederos en el exterior, heredero no localizado o una persona que invoca ser hija del causante. En este último supuesto, revisá [qué documentación y derechos entran en juego cuando aparece un hijo no reconocido](/hijo-no-reconocido-herencia/).
 
 ### C) Bienes (armar un “mapa” aunque falten papeles)
 **Objetivo:** identificar qué existe y dónde, para planificar pedidos y evitar ampliaciones tardías.
@@ -140,3 +140,4 @@ Si querés, te orientamos sobre qué documentación conviene priorizar sin que e
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
