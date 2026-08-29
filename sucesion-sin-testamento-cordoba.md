@@ -33,8 +33,12 @@ Eso no significa que “no se pueda hacer nada” ni que los bienes queden autom
 
 En la práctica, esta suele ser una de las dudas más comunes: “no dejó testamento, ¿qué hacemos ahora?”. Esta página apunta precisamente a responder esa inquietud sin convertirla en una guía general de todo el proceso.
 
+Si sí existe un documento de última voluntad, el encuadre cambia: consultá **[cómo se tramita una sucesión con testamento en Córdoba](/sucesion-con-testamento-cordoba/)**.
+
 ## Quién hereda si no hay testamento
 En términos generales, cuando no hay testamento, la ley establece un orden de llamamiento hereditario. Según el caso, pueden entrar en juego descendientes, ascendientes, cónyuge y, a falta de ellos, otros parientes dentro de ciertos grados.
+
+Si después de reconstruir la familia no existen herederos aceptantes, debe analizarse el régimen de **[herencia yacente o vacante](/herencia-yacente-cordoba/)**; los bienes no pasan automáticamente a quien los ocupa o administra.
 
 Lo importante acá es no simplificar demasiado. Decir “hereda tal persona” sin revisar la situación familiar concreta puede llevar a errores. No es lo mismo un caso con hijos, que uno con cónyuge y padres, que otro con hermanos, ni uno en el que [aparece un hijo no reconocido o un heredero que inicialmente no se tuvo en cuenta](/hijo-no-reconocido-herencia/).
 

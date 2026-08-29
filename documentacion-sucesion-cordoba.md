@@ -46,7 +46,7 @@ Esta es la página para **ordenar papeles** sin perder tiempo. Si querés el pan
 - Datos de identidad disponibles (por ejemplo, DNI o datos registrales).
 - **Último domicilio real** del causante (dato central para definir la competencia sucesoria y ordenar el expediente).
 - Estado civil (según el caso: matrimonio, divorcio, etc.).
-- Si existe **testamento**: acompañar el original o todo dato que permita ubicarlo. Si fuera **ológrafo**, debe presentarse judicialmente para su comprobación de autenticidad y protocolización, según corresponda.
+- Si existe **testamento**: acompañar el original o todo dato que permita ubicarlo. Si fuera **ológrafo**, debe presentarse judicialmente para su comprobación de autenticidad y protocolización, según corresponda. Ver la guía de **[sucesión con testamento en Córdoba](/sucesion-con-testamento-cordoba/)**.
 
 ### B) De herederos (vínculo y datos básicos)
 - **Partidas que acrediten vínculo** (según corresponda):
@@ -112,7 +112,7 @@ Si querés entender costos por componentes (y evitar “costos indirectos” por
 
 ## Córdoba Capital vs interior: impacto práctico (OPS vs interior)
 Puede variar el circuito según tribunal y sede:
-- **Córdoba Capital:** las nuevas declaratorias de herederos y demás procesos sucesorios se canalizan en la **Oficina de Procesos Sucesorios (OPS)**, sin perjuicio del juez competente en cada expediente.
+- **Córdoba Capital:** las nuevas declaratorias de herederos y demás procesos sucesorios se canalizan en la **[Oficina de Procesos Sucesorios (OPS)](/oficina-procesos-sucesorios-cordoba/)**, sin perjuicio del juez competente en cada expediente.
 - **Interior:** en términos generales, se tramita ante juzgados con competencia civil/comercial del distrito correspondiente.
 
 > **Disclaimer:** los detalles operativos pueden variar según el tribunal, el tipo de bien y el caso. La verificación práctica siempre se hace con localidad + último domicilio del causante + bienes + existencia o no de testamento.

@@ -60,7 +60,9 @@ En términos generales, la sucesión se inicia para:
 
 ### 2) Definir el escenario: ¿hay testamento?
 - **Si no hay testamento**, o si el testamento **no dispone de la totalidad de los bienes**, corresponde analizar la vía intestada y la eventual declaratoria de herederos.
-- **Si hay testamento**, no siempre corresponde hablar sin más de declaratoria: puede tratarse de una sucesión testamentaria, con declaración de validez formal del testamento y, según el caso, protocolización.
+- **Si hay testamento**, no siempre corresponde hablar sin más de declaratoria: puede tratarse de una **[sucesión testamentaria](/sucesion-con-testamento-cordoba/)**, con declaración de validez formal y, según el caso, protocolización.
+
+Si la consulta es preventiva y la persona todavía vive, la cuestión es distinta: mirá **[cómo hacer un testamento en Córdoba](/como-hacer-testamento-cordoba/)**.
 
 ### 3) Presentación e inicio del expediente
 Se presenta el inicio sucesorio con patrocinio letrado. Si hay inconsistencias en partidas, nombres, apellidos, fechas, estado civil o domicilio, conviene detectarlas temprano para evitar observaciones y demoras innecesarias.
@@ -127,7 +129,7 @@ Para ver las variables que más aceleran o demoran: **[plazos habituales y qué 
 ## Córdoba Capital vs interior: qué cambia en la práctica
 La **competencia** se define, en principio, por el **último domicilio del causante**. A partir de allí, en la práctica local hay una diferencia importante entre Capital e interior:
 
-- **Córdoba Capital:** funciona la **Oficina de Procesos Sucesorios (OPS)**, que centraliza la tramitación de nuevos procesos sucesorios vinculados a declaratorias y actuaciones conexas, cada uno a cargo de su juez competente.
+- **Córdoba Capital:** funciona la **[Oficina de Procesos Sucesorios (OPS)](/oficina-procesos-sucesorios-cordoba/)**, que centraliza la tramitación de nuevos procesos sucesorios vinculados a declaratorias y actuaciones conexas, cada uno a cargo de su juez competente.
 - **Interior:** en términos generales, la tramitación sigue ante los **juzgados con competencia civil y comercial** que correspondan según la sede judicial.
 
 > **Disclaimer:** La vía concreta y algunos recaudos operativos pueden variar según la sede, el tipo de bien, la existencia de testamento y las particularidades del expediente.
@@ -141,6 +143,8 @@ La **competencia** se define, en principio, por el **último domicilio del causa
 4) **Creer que la declaratoria termina todo** → muchas veces después viene el tramo registral, bancario o particionario.
 5) **Subestimar el impacto del testamento** → cambia el encuadre y puede exigir pasos específicos.
 6) **Enviar documentación sensible por canales inseguros** → primero conviene definir qué hace falta y cuál es el canal adecuado.
+
+Si aparentemente no existen familiares ni herederos aceptantes, el análisis no termina ahí: puede ser necesario estudiar una **[herencia yacente o vacante](/herencia-yacente-cordoba/)**.
 
 ---
 

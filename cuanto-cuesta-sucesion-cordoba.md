@@ -1,12 +1,14 @@
 ---
 layout: article
-title: "Cuánto cuesta una sucesión en Córdoba: guía orientativa"
-h1: "Cuánto cuesta una sucesión en Córdoba (orientativo)"
-description: "Honorarios y gastos varían según bienes, herederos y conflicto. Explicación clara por componentes y cómo pedir un estimado sin enviar documentación sensible."
-quick: "No hay un “precio único” para una sucesión. El costo total suele componerse de **honorarios profesionales** + **gastos del proceso**. En Córdoba, los honorarios se encuadran en el Código Arancelario vigente y el estimado serio depende del trabajo real, la etapa, los bienes, la documentación y si existe conflicto. En la sucesión intestada, la citación por edictos integra normalmente el trámite legal."
+title: "Cuánto cuesta una sucesión o declaratoria en Córdoba"
+h1: "Cuánto cuesta una sucesión y declaratoria en Córdoba"
+description: "Cómo se calculan los honorarios y gastos de una sucesión o declaratoria de herederos en Córdoba. Variables y estimación orientativa."
+quick: "No hay un precio único para una sucesión ni para una declaratoria de herederos. El costo total suele componerse de **honorarios profesionales** + **gastos del proceso**. En Córdoba, el estimado serio depende del trabajo real, las etapas necesarias, los bienes, la documentación y si existe conflicto."
 faq:
   - q: "¿Me podés decir un precio final sin ver el caso?"
     a: "No sería responsable. Sí puedo explicarte los componentes y darte una orientación con datos mínimos (sin pedir documentación sensible al inicio)."
+  - q: "¿Cuánto sale una declaratoria de herederos en Córdoba?"
+    a: "No tiene un precio fijo separado de las circunstancias del sucesorio. Hay que contemplar honorarios, publicaciones y demás gastos necesarios, además de las etapas posteriores si el objetivo es inscribir, adjudicar o vender bienes."
   - q: "¿Qué es lo que más hace subir el costo?"
     a: "En general: muchos bienes, bienes registrables (inmueble/auto), herederos numerosos o desorganizados, documentación con inconsistencias y conflicto."
   - q: "¿Los edictos siempre se pagan?"
@@ -17,8 +19,8 @@ faq:
     a: "Muchas veces sí. Si vivís fuera de Argentina, el estimado también debe contemplar, cuando correspondan, apostillas, traducciones, certificaciones, poder y envíos, además de los gastos propios del sucesorio."
 ---
 
-## Antes de mirar costos
-No hay un “precio único” de sucesión. En la práctica, el costo total se entiende mejor separándolo en dos bloques:
+## Cuánto sale una sucesión o declaratoria de herederos
+No hay un “precio único” de sucesión ni una tarifa universal que permita responder cuánto sale una declaratoria de herederos sin conocer el caso. En la práctica, el costo total se entiende mejor separándolo en dos bloques:
 
 - **Honorarios profesionales** (trabajo jurídico real y etapas necesarias)
 - **Gastos del proceso** (publicaciones/edictos en la sucesión intestada, informes, oficios, certificaciones, trámites registrales, eventuales tasas o cargas del proceso y otros gastos del caso)
@@ -28,6 +30,8 @@ No hay un “precio único” de sucesión. En la práctica, el costo total se e
 Si querés el panorama completo del trámite (para ubicar dónde entra el tema “costos”), empezá por **[sucesiones en Córdoba: guía clara](/sucesiones-cordoba/)**.
 
 Si querés que lo veamos aplicado a tu caso: **[consulta con nuestros abogados](/abogado-sucesiones-cordoba/)**.
+
+Si existe testamento, el trabajo y los gastos pueden cambiar por la necesidad de presentación, comprobación o protocolización. Revisá cómo se tramita una **[sucesión con testamento en Córdoba](/sucesion-con-testamento-cordoba/)**.
 ---
 
 ## De qué se compone el costo (honorarios + gastos)
