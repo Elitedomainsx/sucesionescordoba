@@ -28,6 +28,8 @@ La sucesión es el proceso judicial para **identificar a los sucesores**, determ
 
 Cuando la sucesión es **intestada** (es decir, si no hay testamento o si el testamento no dispone de todos los bienes), un paso central suele ser la **[declaratoria de herederos](/declaratoria-de-herederos-cordoba/)**. Después, según el objetivo del caso, pueden venir etapas vinculadas con inmuebles, automotores, cuentas, partición o venta.
 
+Si vivís fuera del país, la residencia del heredero no impide por sí sola avanzar. La logística de poderes, partidas extranjeras, apostillas y traducciones se explica en **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+
 > **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Los pasos concretos pueden variar según los herederos, el tipo de bienes, la existencia de testamento, la presencia de menores o incapaces, el tribunal y el grado de conflicto.
 
 ---
@@ -164,4 +166,5 @@ Para una evaluación inicial orientativa, no hace falta que envíes documentaci�
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 

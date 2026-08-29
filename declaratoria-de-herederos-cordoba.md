@@ -118,6 +118,8 @@ Puede variar el circuito según la sede:
 
 La competencia debe analizarse principalmente a partir del **último domicilio del causante** y de las reglas procesales aplicables.
 
+Si uno o varios herederos viven fuera de Argentina, mirá cómo se organizan **[documentos extranjeros, poderes y coordinación remota de la sucesión](/declaratoria-de-herederos-online-cordoba/)**.
+
 > **Disclaimer:** la práctica puede variar según el tribunal, la sede, el tipo de bien involucrado y si el caso es simple o conflictivo. La estrategia correcta depende de esos datos.
 
 ---
@@ -154,4 +156,5 @@ Si querés una orientación inicial sobre tu situación, podés escribir sin env
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 

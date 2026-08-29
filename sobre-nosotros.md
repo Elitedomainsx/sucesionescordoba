@@ -14,6 +14,8 @@ faq:
     a: "Sí. Es la forma más clara: inicio y organización → trámite hasta declaratoria → gestiones posteriores (si hacen falta). Si cambia el caso (aparece un heredero, surge conflicto, se incorporan bienes), se actualiza el plan."
   - q: "¿Puedo iniciar si estoy en otra ciudad?"
     a: "Sí. Coordinamos a distancia cuando sea posible. La necesidad de presencia física, firma o compulsa de documentación original depende del caso y de lo que requiera el expediente u organismo interviniente."
+  - q: "¿Atienden herederos que viven en el extranjero?"
+    a: "Sí. La evaluación inicial puede coordinarse a distancia. Antes de avanzar revisamos competencia, documentación extranjera, posibles apostillas o traducciones, representación y gastos previsibles según el caso."
   - q: "¿Garantizan tiempos o resultados?"
     a: "No. En derecho sucesorio los tiempos dependen de documentación, observaciones, herederos, bienes y eventuales conflictos. Nuestro compromiso es el trabajo ordenado, transparente y con buena comunicación."
 ---
@@ -99,3 +101,5 @@ En una consulta breve (orientativa) buscamos:
 - Guía principal: [Declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/)
 - Checklist: [Documentación para sucesión en Córdoba](/documentacion-sucesion-cordoba/)
 - Transparencia: [Cuánto cuesta una sucesión en Córdoba](/cuanto-cuesta-sucesion-cordoba/)
+- Exterior: [Sucesión en Córdoba para herederos que viven en otro país](/declaratoria-de-herederos-online-cordoba/)
+

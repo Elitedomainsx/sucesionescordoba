@@ -1,0 +1,14 @@
+{%- assign translations = site.data.translations[page.translation_key] -%}
+{%- if translations -%}
+<nav class="language-switcher d-flex flex-wrap align-items-center gap-2 mb-4" aria-label="Language selector">
+  <span class="small text-muted"><i class="bi bi-translate" aria-hidden="true"></i></span>
+  {%- for translation in translations -%}
+    {%- if translation.hreflang == page.lang -%}
+      <span class="badge text-bg-primary" aria-current="page">{{ translation.label }}</span>
+    {%- else -%}
+      <a class="badge text-bg-light border text-decoration-none" hreflang="{{ translation.hreflang }}" lang="{{ translation.hreflang }}" href="{{ translation.url }}">{{ translation.label }}</a>
+    {%- endif -%}
+  {%- endfor -%}
+</nav>
+{%- endif -%}
+

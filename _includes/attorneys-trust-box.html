@@ -1,16 +1,17 @@
-<section class="attorneys-trust-box my-4" aria-label="Profesionales responsables">
+{%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+<section class="attorneys-trust-box my-4" aria-label="{{ t.responsible_label }}">
   <div class="row g-4 align-items-center">
     <div class="col-12 col-lg-4">
       <div class="attorneys-trust-photos-grid compact-profiles">
         <figure class="attorney-photo-card mb-0">
-          <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="1024" height="1024" />
+            <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti" loading="lazy" decoding="async" width="1024" height="1024" />
           <figcaption>
             <strong>Pablo Jorge Arias Visconti</strong>
             <span>M.P. 1-43613</span>
           </figcaption>
         </figure>
         <figure class="attorney-photo-card mb-0">
-          <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti.webp" alt="Gustavo Javier Marchetti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="900" height="900" />
+            <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti.webp" alt="Gustavo Javier Marchetti" loading="lazy" decoding="async" width="900" height="900" />
           <figcaption>
             <strong>Gustavo Javier Marchetti</strong>
             <span>M.P. 1-43670</span>
@@ -19,18 +20,21 @@
       </div>
     </div>
     <div class="col-12 col-lg-8">
-      <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
-      <h2 class="h5 mb-2 attorneys-trust-title">Abogados de sucesiones en Córdoba</h2>
-      <p class="mb-3">Atendemos <strong>Córdoba Capital e interior</strong>, con modalidad <strong>presencial y online</strong> según el caso. La consulta inicial sirve para ordenar el escenario, definir la documentación prioritaria y marcar próximos pasos con claridad.</p>
+      <div class="small text-uppercase text-muted fw-semibold mb-2">{{ t.responsible_label }}</div>
+      <h2 class="h5 mb-2 attorneys-trust-title">{{ t.lawyers_title }}</h2>
+      <p class="mb-3">{{ t.trust_copy }}</p>
       <ul class="list-unstyled mb-3 attorneys-trust-list">
-        <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
-        <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
-        <li><strong>Atención:</strong> presencial y online, según el caso</li>
+        <li><strong>Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
+        <li><strong>Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
+        <li><strong>{{ t.attention_label }}:</strong> {{ t.attention_value }}</li>
       </ul>
       <div class="d-flex flex-wrap gap-2 attorneys-trust-actions">
-        <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
-        <a class="btn btn-outline-primary" href="/sobre-nosotros/">Conocer cómo trabajamos</a>
+        <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_entrevista_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener">{{ t.whatsapp_interview }}</a>
+        {%- if page.lang == 'es-AR' or page.lang == nil -%}
+        <a class="btn btn-outline-primary" href="/sobre-nosotros/">{{ t.how_we_work }}</a>
+        {%- endif -%}
       </div>
     </div>
   </div>
 </section>
+

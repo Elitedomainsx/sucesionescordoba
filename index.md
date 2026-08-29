@@ -74,8 +74,9 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
       <div class="col-lg-3 col-md-6 text-center">
         <div class="mt-5">
           <div class="mb-2"><i class="bi-camera-video fs-1 text-primary"></i></div>
-          <h3 class="h4 mb-2">Modalidad online</h3>
-          <p class="text-muted mb-0">Para interior: coordinación, envío de documentación y reuniones remotas.</p>
+          <h3 class="h4 mb-2">Desde el exterior</h3>
+          <p class="text-muted mb-2">Coordinación remota para herederos que viven fuera de Córdoba o de Argentina.</p>
+          <a href="/declaratoria-de-herederos-online-cordoba/">Cómo tramitar a distancia</a>
         </div>
       </div>
     </div>
@@ -132,3 +133,4 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
   </div>
   </div>
 </section>
+

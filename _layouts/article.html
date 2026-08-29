@@ -4,11 +4,13 @@ layout: default
 <main class="page-section">
   <div class="container px-4 px-lg-5">
     <article class="article mx-auto">
+      {%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+      {% include language-switcher.html %}
       <header class="mb-3">
         <h1 class="display-6 fw-semibold">{{ page.h1 | default: page.title }}</h1>
         {% if page.quick %}
           <div class="alert alert-primary mt-3">
-            <strong>Respuesta rápida:</strong> {{ page.quick }}
+            <strong>{{ t.quick_label }}</strong> {{ page.quick }}
           </div>
         {% endif %}
       </header>
@@ -22,19 +24,24 @@ layout: default
       </div>
 
       {%- if page.faq and page.faq.size > 0 -%}
-        {% include faq.html items=page.faq %}
+        {% include faq.html items=page.faq title=t.faq_title %}
       {%- endif -%}
 
       <hr class="my-4" />
 
       <div class="cta-box p-3 p-md-4 border rounded-3">
-        <div class="fw-semibold">¿Querés que lo evaluemos en tu caso?</div>
-        <div class="small text-muted">Consulta inicial orientativa. La información del sitio es general y puede variar según el caso.</div>
+        <div class="fw-semibold">{{ t.cta_title }}</div>
+        <div class="small text-muted">{{ t.cta_copy }}</div>
         <div class="d-flex flex-wrap gap-2 mt-2">
-          <a class="btn btn-primary" href="{{ site.contact.whatsapp_consulta_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
-          <a class="btn btn-outline-primary" href="/contacto/">Ver otras vías de contacto</a>
+          <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_consulta_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener">{{ t.cta_whatsapp }}</a>
+          {%- if page.lang == 'es-AR' or page.lang == nil -%}
+          <a class="btn btn-outline-primary" href="/contacto/">{{ t.cta_contact }}</a>
+          {%- else -%}
+          <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Email</a>
+          {%- endif -%}
         </div>
       </div>
     </article>
   </div>
 </main>
+

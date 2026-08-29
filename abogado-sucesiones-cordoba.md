@@ -11,6 +11,8 @@ faq:
     a: "No. Con datos mínimos alcanza. Después te indico qué documentación conviene reunir y en qué orden."
   - q: "¿Atendés interior de Córdoba?"
     a: "Sí. Muchas veces se puede coordinar gran parte del trabajo a distancia, con claridad sobre pasos presenciales o gestiones materiales que puedan resultar necesarias según el caso y los organismos intervinientes."
+  - q: "¿Puedo consultar si vivo fuera de Argentina?"
+    a: "Sí. Se puede organizar una evaluación remota y revisar competencia, expediente, bienes, documentación extranjera y necesidad de poder antes de generar gastos o exigir un viaje."
   - q: "¿La declaratoria es lo mismo que la sucesión?"
     a: "No. La sucesión es el proceso. La declaratoria es una resolución dentro de la sucesión intestada que reconoce a quienes acreditaron vocación hereditaria. No equivale por sí sola a partición ni a transferencia de bienes. Si existe testamento, debe analizarse la vía sucesoria correspondiente según el caso."
   - q: "¿Cuánto cuesta y cuánto tarda?"
@@ -46,7 +48,7 @@ Trabajo con clientes de **Córdoba Capital** y del **interior**. En muchos casos
 - **Córdoba Capital:** las nuevas declaratorias de herederos, los procesos sucesorios y las protocolizaciones de testamentos tramitan en la **Oficina de Procesos Sucesorios (OPS)**, cada causa a cargo de su juez competente.
 - **Interior:** en términos generales, la tramitación se radica ante los juzgados con competencia civil/comercial del distrito correspondiente.
 
-Si estás en el interior y querés coordinar remoto: **[proceso remoto: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
+Si estás en el interior o vivís en otro país, consultá **[sucesión en Córdoba desde el exterior: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
@@ -123,3 +125,4 @@ Si querés una primera orientación sobre tu sucesión o declaratoria, podés es
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+

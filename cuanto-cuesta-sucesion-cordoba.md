@@ -13,8 +13,8 @@ faq:
     a: "En sucesión intestada, la citación por edictos integra normalmente el trámite legal. Otros gastos asociados sí dependen del caso, de los bienes involucrados y de las medidas que deban cumplirse."
   - q: "Si no hay bienes, ¿igual conviene iniciar sucesión?"
     a: "Depende del objetivo. Si no hay bienes ni un trámite concreto que lo requiera, a veces no conviene iniciar. En la evaluación inicial se define si tiene sentido y para qué."
-  - q: "¿Puedo coordinar si estoy en el interior?"
-    a: "Muchas veces sí, con transparencia sobre pasos presenciales inevitables según el caso y el tribunal."
+  - q: "¿Puedo coordinar si estoy en el interior o en el extranjero?"
+    a: "Muchas veces sí. Si vivís fuera de Argentina, el estimado también debe contemplar, cuando correspondan, apostillas, traducciones, certificaciones, poder y envíos, además de los gastos propios del sucesorio."
 ---
 
 ## Antes de mirar costos
@@ -68,6 +68,8 @@ Estas son las variables que más suelen mover el costo total:
 - **Conflicto:** desacuerdos entre herederos pueden sumar etapas y escritos.
 - **Bienes fuera de Córdoba** o herederos fuera de la provincia/país: suele sumar coordinación y logística.
 
+Si vivís fuera de Argentina, revisá **[cómo se organiza una sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)** y qué gastos internacionales pueden aparecer antes de emitir documentos o firmar un poder.
+
 Si también te interesa el “lado tiempo” (que muchas veces se traduce en más coordinación y gestiones), mirá: **[plazos habituales y qué los cambia](/cuanto-tarda-declaratoria-cordoba/)**.
 
 ---
@@ -112,3 +114,4 @@ Si querés una orientación sobre cómo se compone el costo según tu caso, pod�
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+

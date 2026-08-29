@@ -1,10 +1,18 @@
 <!doctype html>
-<html lang="es-AR">
+<html lang="{{ page.lang | default: site.lang | default: 'es-AR' }}">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     {% seo %}
+
+    {%- assign translations = site.data.translations[page.translation_key] -%}
+    {%- if translations -%}
+      {%- for translation in translations -%}
+    <link rel="alternate" hreflang="{{ translation.hreflang }}" href="{{ translation.url | absolute_url }}" />
+      {%- endfor -%}
+    <link rel="alternate" hreflang="x-default" href="{{ translations[0].url | absolute_url }}" />
+    {%- endif -%}
 
     {%- if site.site_noindex == true and page.noindex != false -%}
     <meta name="robots" content="noindex,nofollow" />
@@ -37,3 +45,4 @@
     <script src="/assets/creative/js/scripts.js"></script>
   </body>
 </html>
+

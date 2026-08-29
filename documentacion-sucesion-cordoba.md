@@ -15,8 +15,8 @@ faq:
     a: "No siempre. Ayuda, pero con dirección y cualquier dato identificatorio (matrícula/partida si se conoce, impuestos o constancias) suele poderse ordenar el caso y planificar pedidos según corresponda."
   - q: "¿Qué pasa si hay errores en nombres o fechas en las partidas?"
     a: "Suele generar observaciones y demoras. Lo ideal es detectarlo temprano para evaluar qué corrección o documentación complementaria conviene gestionar según el caso."
-  - q: "¿Vivo en el interior de Córdoba: puedo coordinar a distancia?"
-    a: "Muchas veces sí. Se puede coordinar gran parte a distancia, con transparencia sobre pasos presenciales inevitables (firmas/certificaciones o gestiones puntuales), según el caso y el tribunal."
+  - q: "¿Vivo en el interior o en el extranjero: puedo coordinar a distancia?"
+    a: "Muchas veces sí. Se puede coordinar gran parte a distancia, con transparencia sobre firmas, certificaciones, apostillas, traducciones o gestiones presenciales que puedan ser necesarias según el caso y el tribunal."
   - q: "¿Cómo organizo los archivos para no marearme?"
     a: "Por bloques y con nombres claros: 'Defunción', 'Nacimiento hijo 1', 'Matrimonio', 'Inmueble 1', 'Auto dominio ___', 'Banco ___'. Orden y consistencia ahorran tiempo."
   - q: "¿Los bancos piden siempre lo mismo?"
@@ -95,7 +95,7 @@ Si tu consulta es específicamente por declaratoria, mirá: **[qué es la declar
 - **Vehículos:** con el dominio, se puede orientar la búsqueda en el **Registro del Automotor** que corresponda.
 - **Bancos/entidades:** cada entidad tiene políticas y requisitos; conviene primero encuadrar el caso y luego ordenar el pedido.
 
-Si estás en el interior y querés ordenar todo con modalidad remota: **[cómo avanzar a distancia (modalidad online)](/declaratoria-de-herederos-online-cordoba/)**.
+Si estás en el interior o vivís fuera de Argentina, consultá **[cómo tramitar una sucesión en Córdoba desde el exterior o a distancia](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
@@ -122,7 +122,7 @@ Puede variar el circuito según tribunal y sede:
 ## Casos típicos: qué papeles priorizar (ejemplos hipotéticos)
 - **“Hay un inmueble y somos herederos directos”**: defunción + partidas de vínculo + datos del inmueble (dirección y cualquier dato identificatorio).  
 - **“Hay auto y cuenta bancaria”**: dominio del auto + banco/entidad + datos básicos de herederos.  
-- **“Herederos en otra provincia o exterior”**: ordenar primero vínculos y datos de herederos; luego planificar logística de documentación/certificaciones según corresponda.
+- **“Herederos en otra provincia o exterior”**: ordenar primero vínculos y datos de herederos; luego revisar si los documentos extranjeros requieren apostilla, legalización o traducción y si hace falta un poder. Ver la guía de **[sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
@@ -140,4 +140,5 @@ Si querés, te orientamos sobre qué documentación conviene priorizar sin que e
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 
