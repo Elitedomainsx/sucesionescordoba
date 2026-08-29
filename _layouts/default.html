@@ -22,7 +22,7 @@
     <link href="/assets/creative/css/styles.css" rel="stylesheet" />
 
     <!-- Site overrides -->
-    <link rel="stylesheet" href="/assets/css/site.css" />
+    <link rel="stylesheet" href="/assets/css/site.css?v={{ site.github.build_revision | default: '20260829' }}" />
   </head>
   <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
     {% include nav.html %}
