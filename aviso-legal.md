@@ -23,9 +23,10 @@ El servicio profesional se presta conforme a la normativa y práctica aplicable 
 Los textos y recursos del sitio son de uso informativo. No está permitida su reproducción comercial sin autorización.
 
 ## 6) Contacto profesional
-- Profesionales responsables: **Abog. Pablo Jorge Arias Visconti (M.P. 1-43613)** y **Abog. Gustavo Javier Marchetti (M.P. 1-43670)**
+- Profesionales responsables: **Abog. Pablo Jorge Arias Visconti (M.P. 1-43613)** y **Abog. Gustavo Javier Marchetti (M.P. 1-43760)**
 - WhatsApp: **[{{ site.contact.phone_display }}]({{ site.contact.whatsapp_url }})**
 - Email: **[{{ site.contact.email }}]({{ site.contact.email_url }})**
 
 👉 Para consultas: [Ir a contacto](/contacto/)  
 👉 Privacidad: [Política de privacidad](/politica-de-privacidad/)
+

@@ -43,7 +43,7 @@ faq:
       <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti.webp" alt="Gustavo Javier Marchetti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="900" height="900" />
       <figcaption>
         <strong>Gustavo Javier Marchetti</strong>
-        <span>M.P. 1-43670</span>
+        <span>M.P. 1-43760</span>
       </figcaption>
     </figure>
   </div>
@@ -53,7 +53,7 @@ En **Sucesiones Córdoba** nos enfocamos en **sucesiones y declaratoria de hered
 
 **Profesionales responsables del servicio**
 - **Abog. Pablo Jorge Arias Visconti** — M.P. 1-43613
-- **Abog. Gustavo Javier Marchetti** — M.P. 1-43670
+- **Abog. Gustavo Javier Marchetti** — M.P. 1-43760
 - Base: Córdoba, Argentina.
 
 ---

@@ -197,6 +197,6 @@ For an initial assessment, tell us your country of residence, the deceased perso
 ## Responsible professionals
 
 **Pablo Jorge Arias Visconti** – M.P. 1-43613<br>
-**Gustavo Javier Marchetti** – M.P. 1-43670<br>
+**Gustavo Javier Marchetti** – M.P. 1-43760<br>
 Lawyers admitted in Córdoba, Argentina. Services in Córdoba City and throughout the province, with remote coordination for heirs living abroad.
 

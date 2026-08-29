@@ -107,7 +107,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
               <p class="text-muted mb-3">La información del sitio está pensada para ayudarte a entender el trámite, pero cada caso requiere revisar variables concretas. La consulta inicial se orienta a ordenar el escenario, definir la documentación importante y marcar próximos pasos realistas.</p>
               <ul class="list-unstyled mb-3">
                 <li><strong>Abog. Pablo Jorge Arias Visconti</strong> — M.P. 1-43613</li>
-                <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43670</li>
+                <li><strong>Abog. Gustavo Javier Marchetti</strong> — M.P. 1-43760</li>
                 <li><strong>Atención:</strong> presencial y online, según el caso</li>
               </ul>
               <div class="d-flex flex-wrap gap-2">

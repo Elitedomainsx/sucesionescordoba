@@ -197,7 +197,7 @@ Para una primera evaluación no hace falta que envíes documentos sensibles. Con
 ## Profesionales responsables
 
 **Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613<br>
-**Abog. Gustavo Javier Marchetti** – M.P. 1-43670<br>
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43760<br>
 Atención en Córdoba Capital e interior, con coordinación remota para herederos en Argentina y en el exterior.<br>
 Conocé **[cómo trabajamos](/sobre-nosotros/)**. Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[aviso legal](/aviso-legal/)**.
 

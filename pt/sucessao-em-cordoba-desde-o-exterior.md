@@ -197,6 +197,6 @@ Para a primeira avaliação, informe o país onde mora, o último domicílio do 
 ## Profissionais responsáveis
 
 **Pablo Jorge Arias Visconti** – M.P. 1-43613<br>
-**Gustavo Javier Marchetti** – M.P. 1-43670<br>
+**Gustavo Javier Marchetti** – M.P. 1-43760<br>
 Advogados habilitados em Córdoba, Argentina. Atendimento na capital e no interior da província, com coordenação remota para herdeiros no exterior.
 

@@ -136,7 +136,7 @@ Si querés, te orientamos sobre qué documentación conviene priorizar sin que e
 
 ## Señales de confianza
 **Abog. Pablo Jorge Arias Visconti** – M.P. 1-43613  
-**Abog. Gustavo Javier Marchetti** – M.P. 1-43670  
+**Abog. Gustavo Javier Marchetti** – M.P. 1-43760<br>
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
