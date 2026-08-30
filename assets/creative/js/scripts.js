@@ -3,41 +3,35 @@
 * Licensed under MIT (see StartBootstrap/startbootstrap-creative LICENSE)
 */
 
-window.addEventListener('DOMContentLoaded', () => {
-  // Navbar shrink function (adds .navbar-shrink when scrolling)
+(() => {
+  const mainNav = document.querySelector('#mainNav');
+  const navbarToggler = document.querySelector('.navbar-toggler');
+  const navbarMenu = document.querySelector('#navbarResponsive');
+
   const navbarShrink = () => {
-    const navbarCollapsible = document.body.querySelector('#mainNav');
-    if (!navbarCollapsible) return;
+    if (!mainNav) return;
     const forceShrink = document.body.classList.contains('page-internal');
-    if (forceShrink) {
-      navbarCollapsible.classList.add('navbar-shrink');
-      return;
-    }
-    if (window.scrollY === 0) navbarCollapsible.classList.remove('navbar-shrink');
-    else navbarCollapsible.classList.add('navbar-shrink');
+    mainNav.classList.toggle('navbar-shrink', forceShrink || window.scrollY > 0);
   };
 
-  navbarShrink();
-  document.addEventListener('scroll', navbarShrink);
+  const closeMenu = () => {
+    if (!navbarMenu || !navbarToggler) return;
+    navbarMenu.classList.remove('show');
+    navbarToggler.setAttribute('aria-expanded', 'false');
+    navbarToggler.setAttribute('aria-label', 'Abrir menú de navegación');
+  };
 
-  // Activate Bootstrap scrollspy (only useful for one-page sections)
-  const mainNav = document.body.querySelector('#mainNav');
-  if (mainNav && document.body.querySelector('[data-bs-spy="scroll"]')) {
-    new bootstrap.ScrollSpy(document.body, {
-      target: '#mainNav',
-      rootMargin: '0px 0px -40%',
-    });
-  }
-
-  // Collapse responsive navbar when a nav-link is clicked
-  const navbarToggler = document.body.querySelector('.navbar-toggler');
-  const responsiveNavItems = [].slice.call(document.querySelectorAll('#navbarResponsive .nav-link'));
-  responsiveNavItems.forEach((responsiveNavItem) => {
-    responsiveNavItem.addEventListener('click', () => {
-      if (!navbarToggler) return;
-      if (window.getComputedStyle(navbarToggler).display !== 'none') {
-        navbarToggler.click();
-      }
-    });
+  navbarToggler?.addEventListener('click', () => {
+    if (!navbarMenu) return;
+    const isOpen = navbarMenu.classList.toggle('show');
+    navbarToggler.setAttribute('aria-expanded', String(isOpen));
+    navbarToggler.setAttribute('aria-label', isOpen ? 'Cerrar menú de navegación' : 'Abrir menú de navegación');
   });
-});
+
+  document.querySelectorAll('#navbarResponsive .nav-link').forEach((link) => {
+    link.addEventListener('click', closeMenu);
+  });
+
+  navbarShrink();
+  document.addEventListener('scroll', navbarShrink, { passive: true });
+})();

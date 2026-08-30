@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#0B2A4A" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 
     {% seo %}
 
@@ -18,19 +20,14 @@
     <meta name="robots" content="noindex,nofollow" />
     {%- endif -%}
 
-    <!-- Bootstrap Icons -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
+    {%- if page.url == '/' -%}
+    <link rel="preload" as="image" href="/assets/creative/assets/img/bg-masthead-mobile.webp" type="image/webp" media="(max-width: 767px)" fetchpriority="high" />
+    <link rel="preload" as="image" href="/assets/creative/assets/img/bg-masthead-desktop.webp" type="image/webp" media="(min-width: 768px)" fetchpriority="high" />
+    {%- endif -%}
 
-    <!-- Google Fonts (legal reskin) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
-
-    <!-- Creative CSS (includes Bootstrap) -->
-    <link href="/assets/creative/css/styles.css" rel="stylesheet" />
-
-    <!-- Site overrides -->
-    <link rel="stylesheet" href="/assets/css/site.css?v={{ site.github.build_revision | default: '20260829' }}" />
+    <!-- Bootstrap reducido + estilos del sitio, purgados y minificados. -->
+    <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260830' }}" />
+    <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260830' }}" defer></script>
   </head>
   <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
     {% include nav.html %}
@@ -39,10 +36,6 @@
 
     {% include footer.html %}
 
-    <!-- Bootstrap core JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS -->
-    <script src="/assets/creative/js/scripts.js"></script>
   </body>
 </html>
 

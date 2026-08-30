@@ -52,28 +52,45 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
     <div class="row gx-4 gx-lg-5">
       <div class="col-lg-3 col-md-6 text-center">
         <div class="mt-5">
-          <div class="mb-2"><i class="bi-person-check fs-1 text-primary"></i></div>
+          <div class="mb-2">
+            <svg class="service-icon text-primary" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M15 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2M8.5 11a4 4 0 1 0 0-8 4 4 0 0 0 0 8M16 11l2 2 4-4" />
+            </svg>
+          </div>
           <h3 class="h4 mb-2">Declaratoria</h3>
           <p class="text-muted mb-0">Presentación de la demanda y seguimiento de las etapas del expediente (según el caso).</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="mt-5">
-          <div class="mb-2"><i class="bi-folder2-open fs-1 text-primary"></i></div>
+          <div class="mb-2">
+            <svg class="service-icon text-primary" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M3 5h6l2 2h10v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5zM3 10h18" />
+            </svg>
+          </div>
           <h3 class="h4 mb-2">Documentación</h3>
           <p class="text-muted mb-0">Checklist claro para que sepas qué pedir y cómo prepararlo.</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="mt-5">
-          <div class="mb-2"><i class="bi-house-door fs-1 text-primary"></i></div>
+          <div class="mb-2">
+            <svg class="service-icon text-primary" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M3 11l9-8 9 8v9a1 1 0 0 1-1 1h-5v-7H9v7H4a1 1 0 0 1-1-1v-9z" />
+            </svg>
+          </div>
           <h3 class="h4 mb-2">Bienes</h3>
           <p class="text-muted mb-0">Orientación por tipo de bien: inmuebles, automotores, cuentas, etc.</p>
         </div>
       </div>
       <div class="col-lg-3 col-md-6 text-center">
         <div class="mt-5">
-          <div class="mb-2"><i class="bi-camera-video fs-1 text-primary"></i></div>
+          <div class="mb-2">
+            <svg class="service-icon text-primary" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <rect x="2" y="6" width="14" height="12" rx="2" />
+              <path d="M16 10l6-3v10l-6-3z" />
+            </svg>
+          </div>
           <h3 class="h4 mb-2">Desde el exterior</h3>
           <p class="text-muted mb-2">Coordinación remota para herederos que viven fuera de Córdoba o de Argentina.</p>
           <a href="/declaratoria-de-herederos-online-cordoba/">Cómo tramitar a distancia</a>
