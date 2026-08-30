@@ -27,22 +27,16 @@ Este include además emite JSON-LD FAQPage para SEO.
 <section class="faq-section mt-5">
   <h2 class="h3 fw-semibold mb-3">{{ faq_title }}</h2>
 
-  <div class="accordion faq-accordion" id="faq-{{ faq_id }}">
+  <div class="faq-list" id="faq-{{ faq_id }}">
     {%- for item in items -%}
       {%- assign qid = 'q' | append: forloop.index | append: '-' | append: faq_id -%}
       {%- assign aid = 'a' | append: forloop.index | append: '-' | append: faq_id -%}
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="{{ qid }}">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ aid }}" aria-expanded="false" aria-controls="{{ aid }}">
-            {{ item.q }}
-          </button>
-        </h3>
-        <div id="{{ aid }}" class="accordion-collapse collapse" aria-labelledby="{{ qid }}" data-bs-parent="#faq-{{ faq_id }}">
-          <div class="accordion-body">
-            {{ item.a | markdownify }}
-          </div>
+      <details class="faq-item">
+        <summary class="faq-question" id="{{ qid }}">{{ item.q }}</summary>
+        <div class="faq-answer" id="{{ aid }}" aria-labelledby="{{ qid }}">
+          {{ item.a | markdownify }}
         </div>
-      </div>
+      </details>
     {%- endfor -%}
   </div>
 </section>
