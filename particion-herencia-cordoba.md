@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Partición de herencia en Córdoba: acuerdo, bienes y pasos"
+title: "Partición de herencia en Córdoba"
 h1: "Partición de herencia en Córdoba: cómo se reparten los bienes"
 description: "Qué es la partición, cuándo se vuelve necesaria y cómo se relaciona con adjudicación, acuerdo y bienes hereditarios en Córdoba."
+primary_keyword: "partición de herencia en Córdoba"
+date: 2026-04-15
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre partición de herencia"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Ley 17.801 — Registro de la Propiedad Inmueble"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-17801-53050/actualizacion"
 quick: "La partición aparece cuando, dentro de una sucesión, ya no alcanza con reconocer quiénes heredan y la pregunta pasa a ser cómo se reparten concretamente los bienes. En términos generales, suele analizarse con especial frecuencia cuando el caso ya está encaminado en ese punto, aunque puede variar según el tipo de bienes, el grado de acuerdo entre herederos y la etapa del trámite."
 faq:
   - q: "¿Qué es la partición de herencia?"

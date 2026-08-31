@@ -3,9 +3,27 @@ layout: article
 lang: es-AR
 translation_key: succession_abroad
 permalink: /declaratoria-de-herederos-online-cordoba/
-title: "Sucesión en Córdoba desde el exterior: trámite online"
+title: "Sucesión en Córdoba desde el exterior"
 h1: "Sucesión en Córdoba desde el exterior: cómo avanzar a distancia"
 description: "Cómo tramitar una sucesión en Córdoba viviendo fuera de Argentina: competencia, documentos, poderes, búsqueda de bienes, costos y coordinación remota."
+primary_keyword: "sucesión en Córdoba desde el exterior"
+date: 2026-03-05
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: trámite desde el exterior"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Cancillería Argentina — legalización y apostilla por TAD"
+    url: "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
 quick: "Si vivís en Brasil, Europa, Estados Unidos u otro país y necesitás iniciar o continuar una sucesión en Córdoba, muchas etapas pueden organizarse a distancia. Primero se revisan la competencia, los vínculos, la existencia de otro expediente y los bienes; después se define qué documentación extranjera, certificación, traducción o poder puede hacer falta. No siempre es necesario viajar, pero tampoco corresponde prometer un trámite 100% online sin analizar el caso."
 faq:
   - q: "¿Puedo iniciar una sucesión en Córdoba si vivo en el extranjero?"

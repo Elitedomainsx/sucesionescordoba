@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Herencia yacente en Córdoba: qué ocurre si no hay herederos"
+title: "Herencia yacente en Córdoba"
 h1: "¿Qué pasa con una herencia yacente en Córdoba?"
 description: "Qué sucede si una persona muere sin herederos conocidos en Córdoba, cuándo se declara vacante la herencia y qué pasa si aparece un heredero."
+primary_keyword: "herencia yacente en Córdoba"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre herencia yacente"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "Si una persona fallece sin herederos conocidos o aceptantes, sus bienes no quedan sin protección ni pasan automáticamente al primer ocupante. Debe tramitarse el proceso correspondiente y, si no hay herederos aceptantes ni el testamento distribuye todos los bienes, el juez puede declarar la herencia vacante, designar un curador y ordenar su liquidación."
 faq:
   - q: "¿Herencia yacente y herencia vacante significan lo mismo?"

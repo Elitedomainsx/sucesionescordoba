@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Sucesiones en Córdoba: pasos, documentación, costos y tiempos"
+title: "Sucesiones en Córdoba: guía práctica"
 h1: "Sucesiones en Córdoba: guía clara para iniciar el trámite"
 description: "Guía clara: qué es la sucesión, pasos, documentación, tiempos y costos orientativos. Córdoba Capital e interior."
+primary_keyword: "sucesiones en Córdoba"
+date: 2026-03-05
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía práctica del trámite"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "La sucesión es el proceso judicial que permite identificar a los sucesores, determinar el contenido de la herencia y habilitar la regularización, administración o transferencia de los bienes y derechos de una persona fallecida. En Córdoba, el camino concreto depende del caso (herederos, bienes, testamento, conflicto) y de la sede competente. Esta guía te ordena: pasos, documentación, tiempos/costos orientativos y errores comunes."
 faq:
   - q: "¿Sucesión y declaratoria de herederos es lo mismo?"

@@ -3,9 +3,27 @@ layout: article
 lang: fr
 translation_key: succession_abroad
 permalink: /fr/succession-en-argentine-depuis-letranger/
-title: "Succession en Argentine depuis l’étranger : Córdoba"
+title: "Succession à Córdoba depuis l’étranger"
 h1: "Succession à Córdoba, en Argentine, lorsque l’héritier vit à l’étranger"
 description: "Comment régler une succession à Córdoba depuis l’étranger : compétence, actes étrangers, procuration, recherche des biens, frais et suivi à distance."
+primary_keyword: "succession à Córdoba depuis l’étranger"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba : succession depuis l’étranger"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Code civil et commercial argentin — texte officiel consolidé"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Ministère argentin des Affaires étrangères — apostille et légalisation"
+    url: "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
 quick: "Si vous vivez hors d’Argentine et devez ouvrir ou rejoindre une succession à Córdoba, une grande partie du travail juridique peut être coordonnée à distance. Il faut d’abord vérifier la compétence, les liens familiaux, l’existence éventuelle d’un dossier et les biens connus. Les actes étrangers, apostilles, traductions et procurations nécessaires sont ensuite déterminés selon le dossier."
 faq:
   - q: "Puis-je ouvrir une succession à Córdoba si je vis à l’étranger ?"

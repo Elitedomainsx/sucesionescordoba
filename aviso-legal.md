@@ -2,7 +2,12 @@
 layout: article
 title: "Aviso legal"
 h1: "Aviso legal"
-description: "Condiciones de uso del sitio, límites del contenido informativo y datos de contacto profesional."
+description: "Condiciones de uso de Sucesiones Córdoba, alcance del contenido jurídico informativo, responsabilidad profesional y canales de contacto."
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: aviso legal"
 quick: "El contenido de este sitio es informativo general y no reemplaza asesoramiento jurídico. Cada caso sucesorio puede variar según tribunal, bienes, herederos y eventuales conflictos."
 ---
 

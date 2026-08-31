@@ -3,9 +3,27 @@ layout: article
 lang: pt-BR
 translation_key: succession_abroad
 permalink: /pt/sucessao-em-cordoba-desde-o-exterior/
-title: "Sucessão em Córdoba a partir do exterior: guia"
+title: "Sucessão em Córdoba desde o exterior"
 h1: "Sucessão em Córdoba para herdeiros que moram no exterior"
 description: "Como conduzir uma sucessão em Córdoba morando fora da Argentina: jurisdição, documentos, procuração, busca de bens, despesas e trabalho remoto."
+primary_keyword: "sucessão em Córdoba desde o exterior"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: sucessão desde o exterior"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil e Comercial argentino — texto oficial consolidado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Chancelaria argentina — apostila e legalização"
+    url: "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
 quick: "Se você mora no Brasil ou em outro país e precisa iniciar ou acompanhar uma sucessão em Córdoba, grande parte do trabalho pode ser organizada à distância. Primeiro são verificados a jurisdição competente, os vínculos familiares, a existência de outro processo e os bens conhecidos. Depois se define quais certidões, apostilas, traduções ou procurações serão realmente necessárias."
 faq:
   - q: "Posso iniciar uma sucessão em Córdoba morando no exterior?"

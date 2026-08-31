@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Sucesión con testamento en Córdoba: cómo se tramita"
+title: "Sucesión con testamento en Córdoba"
 h1: "¿Cómo se tramita una sucesión con testamento en Córdoba?"
 description: "Qué pasa si hay testamento, cómo se presenta, cuándo se protocoliza y cómo se protegen la legítima y los derechos de los herederos en Córdoba."
+primary_keyword: "sucesión con testamento en Córdoba"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre sucesión testamentaria"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — procesos y protocolización de testamentos"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "Si una persona falleció y dejó testamento, igualmente debe tramitarse la sucesión. El testamento se presenta o individualiza en el expediente, se controla su validez formal y, si es ológrafo, normalmente requiere comprobación judicial y protocolización. También deben revisarse la legítima, los bienes no comprendidos y la situación de los herederos."
 faq:
   - q: "¿Si hay testamento igual hay que hacer la sucesión?"

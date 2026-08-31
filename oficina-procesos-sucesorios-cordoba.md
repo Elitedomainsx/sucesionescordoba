@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Oficina de Procesos Sucesorios de Córdoba: guía"
+title: "Oficina de Procesos Sucesorios de Córdoba"
 h1: "¿Qué es la Oficina de Procesos Sucesorios de Córdoba?"
 description: "Qué trámites realiza la Oficina de Procesos Sucesorios de Córdoba Capital, cómo se consulta un expediente y qué cambia respecto del interior."
+primary_keyword: "Oficina de Procesos Sucesorios de Córdoba"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía de la Oficina de Procesos Sucesorios"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Poder Judicial de Córdoba — creación de la Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
+  - title: "Poder Judicial de Córdoba — informe de gestión de la OPS"
+    url: "https://www.justiciacordoba.gob.ar/cargawebweb/_News/File.aspx?id=23071"
 quick: "La Oficina de Procesos Sucesorios (OPS) funciona en Córdoba Capital desde diciembre de 2023. Es una oficina judicial común que tramita las nuevas declaratorias de herederos, procesos sucesorios y protocolizaciones de testamentos de Capital, bajo la intervención del juez competente en cada expediente. En el interior provincial, estos procesos continúan ante los juzgados civiles y comerciales correspondientes."
 faq:
   - q: "¿La Oficina de Procesos Sucesorios es un estudio jurídico?"

@@ -4,6 +4,12 @@ url: "https://sucesionescordoba.com.ar"
 lang: "es-AR"
 timezone: "America/Argentina/Cordoba"
 
+social_image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: orientación y atención profesional"
+
 # Modo construcción: evita indexación hasta que el contenido esté listo
 site_noindex: false
 

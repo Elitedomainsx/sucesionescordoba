@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Documentación para sucesión en Córdoba: checklist"
+title: "Documentación para sucesión en Córdoba"
 h1: "Documentación para iniciar una sucesión en Córdoba (checklist)"
-description: "Checklist práctico: qué reunir, dónde suele conseguirse y errores comunes. Capital e interior."
+description: "Checklist de documentación para iniciar una sucesión en Córdoba: partidas, datos de herederos, bienes, testamento y errores que conviene detectar."
+primary_keyword: "documentación para sucesión en Córdoba"
+date: 2026-03-02
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: documentación para iniciar el trámite"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Registro Civil de Córdoba — solicitud de partidas"
+    url: "https://miregistrocivil.cba.gov.ar/portal-ciudadano/"
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
 quick: "Para iniciar una sucesión/declaratoria en Córdoba, lo más importante es ordenar: (1) documentación del causante, (2) prueba de vínculos de los herederos y (3) un mapa básico de bienes (aunque falten papeles). Con eso se puede definir estrategia y evitar demoras típicas."
 faq:
   - q: "¿Puedo consultar sin mandar documentos?"
@@ -14,15 +32,13 @@ faq:
   - q: "¿Necesito tener la escritura del inmueble para empezar?"
     a: "No siempre. Ayuda, pero con dirección y cualquier dato identificatorio (matrícula/partida si se conoce, impuestos o constancias) suele poderse ordenar el caso y planificar pedidos según corresponda."
   - q: "¿Qué pasa si hay errores en nombres o fechas en las partidas?"
-    a: "Suele generar observaciones y demoras. Lo ideal es detectarlo temprano para evaluar qué corrección o documentación complementaria conviene gestionar según el caso."
+    a: "Suele generar observaciones y demoras. Lo ideal es detectarlo temprano para evaluar qué corrección o documentación complementaria conviene gestionar. Las partidas coherentes, el mapa de bienes y los datos completos de los herederos son los elementos que más ayudan a evitar demoras documentales."
   - q: "¿Vivo en el interior o en el extranjero: puedo coordinar a distancia?"
     a: "Muchas veces sí. Se puede coordinar gran parte a distancia, con transparencia sobre firmas, certificaciones, apostillas, traducciones o gestiones presenciales que puedan ser necesarias según el caso y el tribunal."
   - q: "¿Cómo organizo los archivos para no marearme?"
     a: "Por bloques y con nombres claros: 'Defunción', 'Nacimiento hijo 1', 'Matrimonio', 'Inmueble 1', 'Auto dominio ___', 'Banco ___'. Orden y consistencia ahorran tiempo."
   - q: "¿Los bancos piden siempre lo mismo?"
     a: "No. Cada entidad puede tener requisitos propios. Por eso conviene primero encuadrar el caso y recién después definir qué documentación y por qué canal se presenta."
-  - q: "¿Qué documentación evita más demoras?"
-    a: "Partidas coherentes (sin inconsistencias), mapa de bienes desde el inicio y datos de herederos completos (domicilio/contacto)."
 ---
 
 ## Qué conviene reunir al empezar

@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Abogado de sucesiones en Córdoba: consulta inicial"
-h1: "Abogado/a de sucesiones en Córdoba: cómo trabajo y qué necesitás"
+title: "Abogado de sucesiones en Córdoba"
+h1: "Abogado de sucesiones en Córdoba: cómo trabajamos y qué necesitás"
 description: "Te explico el proceso y cómo avanzar (Córdoba Capital e interior). Evaluación inicial por WhatsApp, llamada o formulario."
+primary_keyword: "abogado de sucesiones en Córdoba"
+date: 2026-03-05
+last_modified_at: 2026-08-30
+schema_kind: Service
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: orientación y atención profesional"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "Si necesitás iniciar una sucesión o declaratoria en Córdoba, te ayudo a ordenar el caso y avanzar con un plan claro. En la evaluación inicial definimos qué trámite corresponde, cuál es el objetivo real, qué juzgado o sede puede resultar competente según el último domicilio del causante, qué documentación es prioritaria y qué variables pueden impactar en tiempos y costos (sin pedir documentación sensible en el primer contacto)."
 faq:
   - q: "¿Qué se define en la evaluación inicial?"

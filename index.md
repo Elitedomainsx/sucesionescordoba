@@ -1,6 +1,13 @@
 ---
 layout: landing
-title: "Sucesiones y declaratoria de herederos en Córdoba"
+title: "Sucesiones y declaratoria en Córdoba"
+description: "Abogados de sucesiones y declaratoria de herederos en Córdoba Capital e interior. Orientación clara, atención con cita y coordinación online."
+primary_keyword: "sucesiones en Córdoba"
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: orientación y atención profesional"
 ---
 
 <!-- Masthead -->
@@ -162,7 +169,7 @@ title: "Sucesiones y declaratoria de herederos en Córdoba"
           <div class="row g-4 align-items-center">
             <div class="col-12 col-lg-5 home-team-photo-col">
               <figure class="home-team-photo-balanced mb-0">
-                <img class="home-team-photo-balanced__img" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
+                <img class="home-team-photo-balanced__img" src="/assets/img/estudio-arias-visconti-marchetti-equipo-640.webp" srcset="/assets/img/estudio-arias-visconti-marchetti-equipo-640.webp 640w, /assets/img/estudio-arias-visconti-marchetti-equipo-960.webp 960w, /assets/img/estudio-arias-visconti-marchetti-equipo.webp 1400w" sizes="(max-width: 767px) 320px, (max-width: 991px) 430px, 520px" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
               </figure>
             </div>
             <div class="col-12 col-lg-7 home-team-copy-col">

@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Cuánto tarda la declaratoria en Córdoba: tiempos y variables"
+title: "Cuánto tarda una declaratoria en Córdoba"
 h1: "Cuánto tarda una declaratoria en Córdoba (orientativo)"
 description: "Plazos orientativos según documentación, edictos, informes, bienes y tribunal. Capital vs interior. Cómo evitar demoras con un checklist claro."
+primary_keyword: "cuánto tarda una declaratoria en Córdoba"
+date: 2026-03-03
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre tiempos de la declaratoria"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Poder Judicial de Córdoba — informe de gestión civil 2024–2025"
+    url: "https://www.justiciacordoba.gob.ar/justiciacordoba/inicio/indexDetalle.aspx?codNovedad=43980"
+  - title: "Poder Judicial de Córdoba — informe de gestión completo"
+    url: "https://www.justiciacordoba.gob.ar/cargawebweb/_News/File.aspx?id=23071"
 quick: "No hay un plazo único ni garantizado. El tiempo de una declaratoria en Córdoba depende del tribunal competente, la documentación, la citación por edictos en la sucesión intestada, los informes/oficios, los bienes involucrados y la complejidad del caso (herederos, observaciones y conflicto). Un caso ordenado suele demorar varios meses; con faltantes, bienes complejos o conflicto puede extenderse más. Como referencia estadística oficial orientativa del Poder Judicial de Córdoba, el 79% de las declaratorias se resolvieron dentro del primer año desde su inicio, con una mediana de 182 días corridos; en OPS, el promedio informado para causas terminadas fue de 186 días corridos."
 faq:
   - q: "¿Cuánto tarda “en meses” una declaratoria?"

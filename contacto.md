@@ -2,6 +2,13 @@
 layout: contact
 title: "Contacto"
 h1: "Contacto"
+description: "Contactá a Sucesiones Córdoba para coordinar una entrevista inicial sobre declaratoria, testamento, herencia o bienes en Córdoba."
+primary_keyword: "contacto Sucesiones Córdoba"
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Contacto de Sucesiones Córdoba"
 quick: "Escribinos por WhatsApp o mail para coordinar una entrevista inicial (presencial u online)."
 ---
 
