@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Declaratoria de herederos en Córdoba: requisitos y trámite"
+title: "Declaratoria de herederos en Córdoba"
 h1: "Declaratoria de herederos en Córdoba: qué es y cómo se tramita"
 description: "Qué es la declaratoria o declaración de herederos, cómo se tramita en Córdoba, qué documentación se necesita y qué ocurre después."
+primary_keyword: "declaratoria de herederos en Córdoba"
+date: 2026-03-01
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre declaratoria de herederos"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "La declaratoria —a veces buscada como declaración de herederos— es la resolución judicial propia de la sucesión intestada que reconoce herederos a quienes acreditaron vocación hereditaria. Suele ser necesaria para actuar frente a bienes registrables, bancos y otros organismos."
 faq:
   - q: "¿La declaratoria transfiere automáticamente los bienes?"

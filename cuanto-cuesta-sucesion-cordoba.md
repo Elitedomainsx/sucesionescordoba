@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Cuánto cuesta una sucesión o declaratoria en Córdoba"
+title: "Costo de sucesión y declaratoria en Córdoba"
 h1: "Cuánto cuesta una sucesión y declaratoria en Córdoba"
 description: "Cómo se calculan los honorarios y gastos de una sucesión o declaratoria de herederos en Córdoba. Variables y estimación orientativa."
+primary_keyword: "cuánto cuesta una sucesión en Córdoba"
+date: 2026-03-02
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre costos del trámite"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Colegio de Abogados de Córdoba — valores y tasas"
+    url: "https://www.abogado.org.ar/valores-y-tasas/"
+  - title: "Código Arancelario para Abogados y Procuradores de Córdoba"
+    url: "https://www.abogado.org.ar/files_down/Cod_Aranc_ley_9459.Modif._ley_11.042.pdf"
 quick: "No hay un precio único para una sucesión ni para una declaratoria de herederos. El costo total suele componerse de **honorarios profesionales** + **gastos del proceso**. En Córdoba, el estimado serio depende del trabajo real, las etapas necesarias, los bienes, la documentación y si existe conflicto."
 faq:
   - q: "¿Me podés decir un precio final sin ver el caso?"

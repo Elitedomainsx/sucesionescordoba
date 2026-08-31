@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<main class="page-section">
+<main class="page-section" id="main-content">
   <div class="container px-4 px-lg-5">
     <article class="article mx-auto">
       {%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
       {% include language-switcher.html %}
+      {% include breadcrumbs.html %}
       <header class="mb-3">
         <h1 class="display-6 fw-semibold">{{ page.h1 | default: page.title }}</h1>
         {% if page.quick %}
@@ -13,14 +14,31 @@ layout: default
             <strong>{{ t.quick_label }}</strong> {{ page.quick }}
           </div>
         {% endif %}
+        {% if page.schema_kind == 'Service' %}
+          <div class="service-primary-actions d-flex flex-wrap gap-2 mt-3" aria-label="{{ t.primary_actions_label }}">
+            <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">{{ t.cta_whatsapp }}</a>
+            <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">{{ t.cta_call }}</a>
+            <a class="btn btn-outline-primary" href="/contacto/">{{ t.cta_contact }}</a>
+          </div>
+        {% endif %}
       </header>
+
+      {% include content-meta.html %}
 
       {% unless page.hide_attorneys_trust_box == true %}
         {% include attorneys-trust-box.html %}
       {% endunless %}
 
+      {% if page.show_toc == true %}
+        <nav class="article-toc" aria-labelledby="article-toc-title" data-generated-toc hidden>
+          <div class="article-toc-title" id="article-toc-title">{{ t.toc_title }}</div>
+          <ol data-toc-list></ol>
+        </nav>
+      {% endif %}
+
       <div class="article-body">
         {{ content }}
+        {% include official-sources.html %}
       </div>
 
       {%- if page.faq and page.faq.size > 0 -%}
@@ -34,12 +52,17 @@ layout: default
         <div class="small text-muted">{{ t.cta_copy }}</div>
         <div class="d-flex flex-wrap gap-2 mt-2">
           <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_consulta_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener">{{ t.cta_whatsapp }}</a>
+          <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">{{ t.cta_call }}</a>
           {%- if page.lang == 'es-AR' or page.lang == nil -%}
           <a class="btn btn-outline-primary" href="/contacto/">{{ t.cta_contact }}</a>
           {%- else -%}
           <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Email</a>
           {%- endif -%}
         </div>
+      </div>
+
+      <div class="back-to-top mt-4">
+        <a href="#page-top">{{ t.back_to_top }}</a>
       </div>
     </article>
   </div>

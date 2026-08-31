@@ -1,0 +1,9 @@
+{%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+{%- unless page.url == '/' -%}
+<nav class="breadcrumbs" aria-label="{{ t.breadcrumb_label }}">
+  <ol>
+    <li><a href="/">{{ t.breadcrumb_home }}</a></li>
+    <li aria-current="page">{{ page.breadcrumb_label | default: page.h1 | default: page.title }}</li>
+  </ol>
+</nav>
+{%- endunless -%}

@@ -32,6 +32,36 @@
     link.addEventListener('click', closeMenu);
   });
 
+  const toc = document.querySelector('[data-generated-toc]');
+  const tocList = toc?.querySelector('[data-toc-list]');
+  const articleHeadings = document.querySelectorAll('.article-body h2');
+  if (toc && tocList && articleHeadings.length >= 2) {
+    const usedIds = new Set();
+    articleHeadings.forEach((heading, index) => {
+      const baseId = heading.id || heading.textContent
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-|-$/g, '') || `seccion-${index + 1}`;
+      let id = baseId;
+      let suffix = 2;
+      while (usedIds.has(id) || (document.getElementById(id) && document.getElementById(id) !== heading)) {
+        id = `${baseId}-${suffix++}`;
+      }
+      usedIds.add(id);
+      heading.id = id;
+
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = `#${id}`;
+      link.textContent = heading.textContent.trim();
+      item.appendChild(link);
+      tocList.appendChild(item);
+    });
+    toc.hidden = false;
+  }
+
   navbarShrink();
   document.addEventListener('scroll', navbarShrink, { passive: true });
 })();

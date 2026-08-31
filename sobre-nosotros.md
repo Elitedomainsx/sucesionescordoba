@@ -3,6 +3,12 @@ layout: article
 title: "Sobre nosotros"
 h1: "Sobre nosotros — Sucesiones y declaratoria de herederos en Córdoba"
 description: "Quiénes somos, cómo trabajamos sucesiones/declaratorias en Córdoba (Capital e interior), y qué podés esperar de la consulta inicial."
+primary_keyword: "abogados de sucesiones en Córdoba"
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Pablo Arias Visconti y Gustavo Marchetti, abogados de Sucesiones Córdoba"
 hide_attorneys_trust_box: true
 quick: "Somos un estudio con foco en sucesiones y declaratoria de herederos en Córdoba. Trabajamos con un método claro: definir competencia, ordenar documentación y planificar por etapas (declaratoria y lo posterior según bienes), con comunicación transparente y sin promesas de plazos."
 faq:
@@ -24,7 +30,7 @@ faq:
 
 <div class="team-feature-card border rounded-3 my-4">
   <figure class="team-photo-feature mb-4">
-    <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo.webp" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
+    <img class="team-photo-wide" src="/assets/img/estudio-arias-visconti-marchetti-equipo-960.webp" srcset="/assets/img/estudio-arias-visconti-marchetti-equipo-640.webp 640w, /assets/img/estudio-arias-visconti-marchetti-equipo-960.webp 960w, /assets/img/estudio-arias-visconti-marchetti-equipo.webp 1400w" sizes="(max-width: 767px) calc(100vw - 3rem), 760px" alt="Abogados Pablo Arias Visconti y Gustavo Marchetti, equipo jurídico de sucesiones en Córdoba" loading="lazy" decoding="async" width="1400" height="933" />
   </figure>
 
   <div class="small text-uppercase text-muted fw-semibold mb-2">Equipo jurídico</div>
@@ -33,20 +39,31 @@ faq:
 
   <div class="team-mini-grid">
     <figure class="attorney-photo-card mb-0">
-      <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="1024" height="1024" />
+      <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti-240.webp" srcset="/assets/img/pablo-jorge-arias-visconti-240.webp 240w, /assets/img/pablo-jorge-arias-visconti.webp 1024w" sizes="(max-width: 575px) 240px, 260px" alt="Pablo Jorge Arias Visconti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="1024" height="1024" />
       <figcaption>
         <strong>Pablo Jorge Arias Visconti</strong>
         <span>M.P. 1-43613</span>
       </figcaption>
     </figure>
     <figure class="attorney-photo-card mb-0">
-      <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti.webp" alt="Gustavo Javier Marchetti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="900" height="900" />
+      <img class="attorneys-trust-photo" src="/assets/img/gustavo-javier-marchetti-240.webp" srcset="/assets/img/gustavo-javier-marchetti-240.webp 240w, /assets/img/gustavo-javier-marchetti.webp 900w" sizes="(max-width: 575px) 240px, 260px" alt="Gustavo Javier Marchetti, abogado de sucesiones en Córdoba" loading="lazy" decoding="async" width="900" height="900" />
       <figcaption>
         <strong>Gustavo Javier Marchetti</strong>
         <span>M.P. 1-43760</span>
       </figcaption>
     </figure>
   </div>
+</div>
+
+<div class="professional-bios">
+  <section id="pablo-arias-visconti" class="mb-4">
+    <h3 class="h5">Pablo Jorge Arias Visconti</h3>
+    <p>Abogado, M.P. 1-43613. Integra el equipo responsable del análisis, la estrategia y la revisión jurídica de las guías publicadas por Sucesiones Córdoba.</p>
+  </section>
+  <section id="gustavo-marchetti" class="mb-4">
+    <h3 class="h5">Gustavo Javier Marchetti</h3>
+    <p>Abogado, M.P. 1-43760. Integra el equipo responsable del análisis, la estrategia y la revisión jurídica de las guías publicadas por Sucesiones Córdoba.</p>
+  </section>
 </div>
 
 En **Sucesiones Córdoba** nos enfocamos en **sucesiones y declaratoria de herederos** (Córdoba Capital e interior), con un estilo de trabajo simple: claridad, orden y seguimiento.

@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Tracto abreviado en Córdoba: inmueble, venta y sucesión"
+title: "Tracto abreviado en Córdoba"
 h1: "Tracto abreviado en Córdoba: cuándo puede servir en una sucesión"
 description: "Qué es el tracto abreviado, cuándo puede servir y cómo se relaciona con inmuebles, inscripción y cierre del trámite sucesorio."
+primary_keyword: "tracto abreviado en Córdoba"
+date: 2026-04-15
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre tracto abreviado"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Ley 17.801 — Registro de la Propiedad Inmueble"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-17801-53050/actualizacion"
+  - title: "Registro General de Córdoba — normativa técnico-registral"
+    url: "https://www.cba.gov.ar/wp-content/4p96humuzp/2012/06/Resoluci%C3%B3n-General-001-2007-Normativa-T%C3%A9cnico-Registral.pdf"
 quick: "El tracto abreviado suele aparecer cuando, dentro de una sucesión, la consulta ya no es solo quién hereda sino qué hacer con un inmueble: cómo inscribirlo, adjudicarlo o si puede avanzarse hacia una venta. No reemplaza la sucesión ni funciona como una solución automática. En Córdoba, conviene revisar la documentación, el estado del expediente y el objetivo concreto antes de definir el camino más conveniente."
 faq:
   - q: "¿Qué es el tracto abreviado en una sucesión?"

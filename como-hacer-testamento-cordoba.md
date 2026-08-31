@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Cómo hacer un testamento en Córdoba: requisitos y costos"
+title: "Cómo hacer un testamento en Córdoba"
 h1: "¿Cómo hacer un testamento en Córdoba?"
 description: "Formas y requisitos para hacer un testamento en Córdoba, qué puede disponerse, cómo proteger la legítima y de qué depende el costo."
+primary_keyword: "cómo hacer un testamento en Córdoba"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre testamentos"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Colegio de Escribanos de Córdoba — Sucesiones y testamentos"
+    url: "https://escribanos.org.ar/rnotarial/wp-content/uploads/2017/06/Sucesiones.-Chavez-RNCba-93.pdf"
 quick: "En Argentina, una persona mayor de edad puede otorgar testamento respetando las formas legales y la legítima de descendientes, ascendientes y cónyuge. Las formas ordinarias son el testamento ológrafo —escrito, fechado y firmado íntegramente de puño y letra— y el testamento por acto público, mediante escritura ante escribano y dos testigos hábiles."
 faq:
   - q: "¿Necesito un escribano para hacer un testamento?"

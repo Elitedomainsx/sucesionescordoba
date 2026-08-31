@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Sucesión sin testamento en Córdoba: pasos y documentación"
+title: "Sucesión sin testamento en Córdoba"
 h1: "Sucesión sin testamento en Córdoba: cómo se determina quién hereda"
 description: "Qué significa una sucesión sin testamento, cómo se acredita el vínculo y cómo se conecta con la declaratoria en Córdoba."
+primary_keyword: "sucesión sin testamento en Córdoba"
+date: 2026-04-15
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: guía sobre sucesión intestada"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "Si una persona fallece sin testamento, la sucesión igual puede iniciarse. En términos generales, habrá que acreditar quiénes heredan según la ley, reunir la información básica del caso y avanzar por la vía judicial que corresponda. En Córdoba, el circuito concreto puede variar según el tribunal, el tipo de bien y la situación particular."
 faq:
   - q: "¿Se puede iniciar una sucesión si no hay testamento?"

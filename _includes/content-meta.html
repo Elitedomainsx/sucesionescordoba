@@ -1,0 +1,21 @@
+{%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+{%- if page.reviewed_by and page.reviewed_by.size > 0 -%}
+<div class="article-meta" aria-label="{{ t.content_details }}">
+  <div><strong>{{ t.content_by }}</strong> Sucesiones Córdoba</div>
+  <div>
+    <strong>{{ t.legal_review }}</strong>
+    {%- for reviewer_key in page.reviewed_by -%}
+      {%- assign reviewer = site.data.reviewers[reviewer_key] -%}
+      <a href="{{ reviewer.profile_url }}">{{ reviewer.name }}</a> ({{ reviewer.license }}){% unless forloop.last %} · {% endunless %}
+    {%- endfor -%}
+  </div>
+  {%- if page.date -%}
+  <div class="article-dates">
+    <span><strong>{{ t.published_label }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time></span>
+    {%- if page.last_modified_at -%}
+    <span><strong>{{ t.updated_label }}</strong> <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%d/%m/%Y" }}</time></span>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
+</div>
+{%- endif -%}

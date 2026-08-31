@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-<main class="page-section">
+<main class="page-section" id="main-content">
   <div class="container px-4 px-lg-5">
     <article class="article mx-auto">
+      {% include breadcrumbs.html %}
       <header class="mb-3">
         <h1 class="display-6 fw-semibold">{{ page.h1 | default: page.title }}</h1>
         {% if page.quick %}
@@ -32,6 +33,7 @@ layout: default
         <div class="small text-muted">Consulta inicial orientativa. La información del sitio es general y puede variar según el caso.</div>
         <div class="d-flex flex-wrap gap-2 mt-2">
           <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
+          <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">Llamar al {{ site.contact.phone_display }}</a>
           <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Escribir por email</a>
         </div>
       </div>

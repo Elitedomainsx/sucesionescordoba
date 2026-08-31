@@ -1,0 +1,13 @@
+{%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+{%- if page.official_sources and page.official_sources.size > 0 -%}
+<section class="official-sources" aria-labelledby="official-sources-title">
+  <h2 id="official-sources-title">{{ t.official_sources_title }}</h2>
+  <ul>
+    {%- for source in page.official_sources -%}
+    <li>
+      <a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.title }}<span class="visually-hidden"> — {{ t.opens_new_window }}</span></a>
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>
+{%- endif -%}

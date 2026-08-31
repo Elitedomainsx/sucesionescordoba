@@ -1,8 +1,26 @@
 ---
 layout: article
-title: "Hijo no reconocido: derechos en la herencia"
+title: "Hijo no reconocido y herencia"
 h1: "¿Un hijo no reconocido puede reclamar una herencia?"
 description: "Qué derechos tiene un hijo no reconocido, cómo puede reclamar y cómo se calcula su parte si hay cónyuge, bienes gananciales o donaciones en Córdoba."
+primary_keyword: "hijo no reconocido herencia"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: derechos de un hijo no reconocido"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Código Civil y Comercial de la Nación actualizado"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Poder Judicial de Córdoba — Oficina de Procesos Sucesorios"
+    url: "https://www.justiciacordoba.gob.ar/CargaWebWeb/_News/NovedadesDetalle.aspx?idNovedad=33367"
 quick: "Sí, pero primero hay que distinguir si la filiación respecto del causante ya está determinada o todavía debe reclamarse. Una vez acreditado jurídicamente el vínculo, todos los hijos heredan por partes iguales en la sucesión de ese progenitor. La cuota concreta depende de cuántos hijos haya, si concurre un cónyuge, el carácter propio o ganancial de los bienes y la existencia de testamento o donaciones."
 faq:
   - q: "¿Los hijos no reconocidos pueden heredar?"

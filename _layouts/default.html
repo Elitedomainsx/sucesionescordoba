@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="theme-color" content="#0B2A4A" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 
     {% seo %}
+    {% include schema.html %}
 
     {%- assign translations = site.data.translations[page.translation_key] -%}
     {%- if translations -%}
@@ -18,6 +20,8 @@
 
     {%- if site.site_noindex == true and page.noindex != false -%}
     <meta name="robots" content="noindex,nofollow" />
+    {%- elsif page.noindex == true -%}
+    <meta name="robots" content="noindex,follow" />
     {%- endif -%}
 
     {%- if page.url == '/' -%}
@@ -26,10 +30,12 @@
     {%- endif -%}
 
     <!-- Bootstrap reducido + estilos del sitio, purgados y minificados. -->
-    <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260830' }}" />
-    <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260830' }}" defer></script>
+    <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260830b' }}" />
+    <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260830b' }}" defer></script>
   </head>
   <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
+    {%- assign ui = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+    <a class="skip-link" href="#main-content">{{ ui.skip_to_content }}</a>
     {% include nav.html %}
 
     {{ content }}

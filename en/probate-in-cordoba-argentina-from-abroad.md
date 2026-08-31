@@ -3,9 +3,27 @@ layout: article
 lang: en
 translation_key: succession_abroad
 permalink: /en/probate-in-cordoba-argentina-from-abroad/
-title: "Inheritance and probate in Córdoba, Argentina, from abroad"
+title: "Probate in Córdoba, Argentina, from abroad"
 h1: "Inheritance proceedings in Córdoba, Argentina, when you live abroad"
 description: "How to handle an inheritance proceeding in Córdoba while living abroad: jurisdiction, foreign documents, powers of attorney, asset searches and costs."
+primary_keyword: "probate in Córdoba Argentina from abroad"
+date: 2026-08-29
+last_modified_at: 2026-08-30
+schema_kind: Article
+show_toc: true
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: probate guidance from abroad"
+reviewed_by:
+  - pablo
+  - gustavo
+official_sources:
+  - title: "Argentine Civil and Commercial Code — official consolidated text"
+    url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
+  - title: "Argentine Ministry of Foreign Affairs — apostille and legalisation"
+    url: "https://www.argentina.gob.ar/servicio/legalizar-o-apostillar-un-documento-traves-de-tad"
 quick: "If you live outside Argentina and need to start or join an inheritance proceeding in Córdoba, much of the legal work can be coordinated remotely. The first stage is to verify jurisdiction, family relationships, any existing court case and known assets. Only then should the necessary foreign records, apostilles, translations and power of attorney be determined."
 faq:
   - q: "Can I start an inheritance case in Córdoba if I live abroad?"

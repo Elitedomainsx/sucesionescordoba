@@ -2,8 +2,15 @@
 layout: article
 title: "Política de privacidad"
 h1: "Política de privacidad"
+description: "Cómo Sucesiones Córdoba trata los datos enviados por formulario, correo o WhatsApp, para qué los utiliza y cómo ejercer derechos sobre ellos."
+image:
+  path: "/assets/img/sucesiones-cordoba-social.webp"
+  width: 1200
+  height: 630
+  alt: "Sucesiones Córdoba: política de privacidad"
 quick: "Esta política explica qué datos se recolectan cuando nos contactás, para qué se usan y qué derechos podés ejercer sobre ellos."
 noindex: true
+sitemap: false
 ---
 
 ## Alcance
