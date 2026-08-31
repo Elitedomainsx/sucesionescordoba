@@ -136,7 +136,7 @@ Con una mirada temprana muchas veces se evita perder tiempo en pasos que despué
 Fallece una persona sin testamento, deja dos hijos y un inmueble. La duda inicial suele ser doble: quién hereda y qué hace falta para después poder regularizar o disponer del bien.
 
 ### Caso 2
-Fallece una persona sin testamento, uno de los herederos vive en otra provincia o en el exterior, y además hay dudas sobre parte de la documentación familiar. En estos casos, muchas veces el problema no es solo “quién hereda”, sino cómo ordenar el caso para que el trámite no se trabe desde el principio.
+Fallece una persona sin testamento, uno de los herederos vive en otra provincia o en el exterior, y además hay dudas sobre parte de la documentación familiar. En estos casos, muchas veces el problema no es solo “quién hereda”, sino cómo ordenar el caso para que el trámite no se trabe desde el principio. Si el heredero reside dentro de Argentina, puede consultar la guía para **[tramitar una sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/)**; si vive fuera del país, se aplican además las particularidades de la **[sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 ## Preguntas frecuentes
 ### ¿Se puede iniciar una sucesión si no hay testamento?

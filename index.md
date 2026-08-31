@@ -98,9 +98,10 @@ image:
               <path d="M16 10l6-3v10l-6-3z" />
             </svg>
           </div>
-          <h3 class="h4 mb-2">Desde el exterior</h3>
-          <p class="text-muted mb-2">Coordinación remota para herederos que viven fuera de Córdoba o de Argentina.</p>
-          <a href="/declaratoria-de-herederos-online-cordoba/">Cómo tramitar a distancia</a>
+          <h3 class="h4 mb-2">Desde otra provincia o país</h3>
+          <p class="text-muted mb-2">Coordinación remota, diferenciando los requisitos dentro de Argentina de los trámites internacionales.</p>
+          <a href="/sucesion-cordoba-desde-otra-provincia/">Si vivís en otra provincia</a><br>
+          <a href="/declaratoria-de-herederos-online-cordoba/">Si vivís fuera de Argentina</a>
         </div>
       </div>
     </div>

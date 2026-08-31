@@ -66,7 +66,7 @@ Trabajo con clientes de **Córdoba Capital** y del **interior**. En muchos casos
 - **Córdoba Capital:** las nuevas declaratorias de herederos, los procesos sucesorios y las protocolizaciones de testamentos tramitan en la **Oficina de Procesos Sucesorios (OPS)**, cada causa a cargo de su juez competente.
 - **Interior:** en términos generales, la tramitación se radica ante los juzgados con competencia civil/comercial del distrito correspondiente.
 
-Si estás en el interior o vivís en otro país, consultá **[sucesión en Córdoba desde el exterior: qué se puede hacer online](/declaratoria-de-herederos-online-cordoba/)**.
+Si vivís en otra provincia argentina, consultá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís en otro país, revisá la guía específica sobre **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
@@ -124,7 +124,8 @@ No hay un “precio único” ni “plazo garantizado”. Depende de bienes, her
 ## Casos típicos (ejemplos hipotéticos)
 - **Inmueble + herederos directos:** estrategia según objetivo (regularizar, vender, adjudicar).  
 - **Auto + cuentas:** se planifica por etapas para no trabarse en requisitos de organismos.  
-- **Herederos en otra provincia / exterior:** coordinación logística (certificaciones/poderes si corresponden).  
+- **Herederos en otra provincia:** coordinación logística, documentos y firmas según el caso. Ver la guía de **[sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/)**.  
+- **Herederos en el exterior:** revisión adicional de apostillas, traducciones y poderes internacionales.  
 - **Conflicto familiar:** estrategia temprana para evitar escalada y bloqueo del expediente.
 
 ---

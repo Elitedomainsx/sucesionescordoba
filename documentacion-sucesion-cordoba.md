@@ -33,8 +33,8 @@ faq:
     a: "No siempre. Ayuda, pero con dirección y cualquier dato identificatorio (matrícula/partida si se conoce, impuestos o constancias) suele poderse ordenar el caso y planificar pedidos según corresponda."
   - q: "¿Qué pasa si hay errores en nombres o fechas en las partidas?"
     a: "Suele generar observaciones y demoras. Lo ideal es detectarlo temprano para evaluar qué corrección o documentación complementaria conviene gestionar. Las partidas coherentes, el mapa de bienes y los datos completos de los herederos son los elementos que más ayudan a evitar demoras documentales."
-  - q: "¿Vivo en el interior o en el extranjero: puedo coordinar a distancia?"
-    a: "Muchas veces sí. Se puede coordinar gran parte a distancia, con transparencia sobre firmas, certificaciones, apostillas, traducciones o gestiones presenciales que puedan ser necesarias según el caso y el tribunal."
+  - q: "¿Vivo en otra provincia o en el extranjero: puedo coordinar a distancia?"
+    a: "Muchas veces sí. Si vivís en otra provincia se revisan firmas, certificaciones y eventuales gestiones presenciales. Si residís en el extranjero, además pueden corresponder apostillas, legalizaciones o traducciones. Los requisitos dependen del caso y del tribunal."
   - q: "¿Cómo organizo los archivos para no marearme?"
     a: "Por bloques y con nombres claros: 'Defunción', 'Nacimiento hijo 1', 'Matrimonio', 'Inmueble 1', 'Auto dominio ___', 'Banco ___'. Orden y consistencia ahorran tiempo."
   - q: "¿Los bancos piden siempre lo mismo?"
@@ -72,7 +72,7 @@ Esta es la página para **ordenar papeles** sin perder tiempo. Si querés el pan
   - Nombre y apellido
   - Domicilio
   - Contacto (teléfono/mail)
-- Situaciones especiales (si aplica): heredero fallecido, menores, herederos en el exterior, heredero no localizado o una persona que invoca ser hija del causante. En este último supuesto, revisá [qué documentación y derechos entran en juego cuando aparece un hijo no reconocido](/hijo-no-reconocido-herencia/).
+- Situaciones especiales (si aplica): heredero fallecido, menores, herederos en otra provincia o en el exterior, heredero no localizado o una persona que invoca ser hija del causante. En este último supuesto, revisá [qué documentación y derechos entran en juego cuando aparece un hijo no reconocido](/hijo-no-reconocido-herencia/).
 
 ### C) Bienes (armar un “mapa” aunque falten papeles)
 **Objetivo:** identificar qué existe y dónde, para planificar pedidos y evitar ampliaciones tardías.
@@ -111,7 +111,7 @@ Si tu consulta es específicamente por declaratoria, mirá: **[qué es la declar
 - **Vehículos:** con el dominio, se puede orientar la búsqueda en el **Registro del Automotor** que corresponda.
 - **Bancos/entidades:** cada entidad tiene políticas y requisitos; conviene primero encuadrar el caso y luego ordenar el pedido.
 
-Si estás en el interior o vivís fuera de Argentina, consultá **[cómo tramitar una sucesión en Córdoba desde el exterior o a distancia](/declaratoria-de-herederos-online-cordoba/)**.
+Si vivís en otra provincia, consultá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís fuera de Argentina, revisá **[los requisitos de una sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
@@ -138,7 +138,8 @@ Puede variar el circuito según tribunal y sede:
 ## Casos típicos: qué papeles priorizar (ejemplos hipotéticos)
 - **“Hay un inmueble y somos herederos directos”**: defunción + partidas de vínculo + datos del inmueble (dirección y cualquier dato identificatorio).  
 - **“Hay auto y cuenta bancaria”**: dominio del auto + banco/entidad + datos básicos de herederos.  
-- **“Herederos en otra provincia o exterior”**: ordenar primero vínculos y datos de herederos; luego revisar si los documentos extranjeros requieren apostilla, legalización o traducción y si hace falta un poder. Ver la guía de **[sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+- **“Herederos en otra provincia”**: ordenar vínculos, domicilio del causante y datos de los herederos; luego revisar cómo instrumentar firmas, certificaciones y representación. Ver la guía de **[sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/)**.
+- **“Herederos en el exterior”**: además, revisar si los documentos requieren apostilla, legalización o traducción y si hace falta un poder. Ver la guía de **[sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 ---
 
