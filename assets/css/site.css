@@ -96,7 +96,7 @@ header.masthead{
 @media (min-width: 768px){
   header.masthead{
     background-image: linear-gradient(to bottom, rgba(11,42,74,0.86) 0%, rgba(11,42,74,0.86) 100%),
-                      url("/assets/creative/assets/img/bg-masthead-desktop.webp") !important;
+                      url("/assets/creative/assets/img/bg-masthead-desktop.webp?v=20260830") !important;
   }
 }
 
@@ -938,3 +938,4 @@ header.masthead{
   .article-primary-actions a,
   .service-primary-actions a{width:100%;}
 }
+
