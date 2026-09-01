@@ -104,6 +104,8 @@ La lista exacta puede variar, pero para ordenar el caso sin demoras suele ayudar
 
 Para ver el checklist completo, ordenado por prioridades: **[documentación típica para declaratoria](/documentacion-sucesion-cordoba/)**.
 
+Si no tenés las actas, faltan datos o desconocés dónde se inscribieron, podés consultar el servicio de **[búsqueda y solicitud de partidas para una sucesión en Córdoba](/partidas-para-sucesion-cordoba/)** antes de iniciar o continuar el expediente.
+
 > **Privacidad:** para el primer contacto no hace falta enviar DNI, partidas ni documentación sensible por canales inseguros. Primero conviene definir qué hace falta realmente y por qué vía remitirlo.
 
 ---
