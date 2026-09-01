@@ -107,6 +107,8 @@ Si tu consulta es específicamente por declaratoria, mirá: **[qué es la declar
 > **Disclaimer:** Los canales concretos pueden variar según el organismo y cambios administrativos. Esto es una orientación general.
 
 - **Actas/partidas (defunción, nacimiento, matrimonio):** se gestionan ante el **Registro Civil** correspondiente. Si el hecho fue inscripto en la Provincia de Córdoba, hoy además puede iniciarse su solicitud digital por **Registro Civil Digital / CiDi**.
+
+Si no tenés la copia, faltan datos precisos o no sabés en qué oficina fue inscripta, revisá el servicio de **[búsqueda y solicitud de partidas para una sucesión](/partidas-para-sucesion-cordoba/)**. Puede contratarse por separado; las partidas de otras provincias se analizan caso por caso.
 - **Datos/constancias de inmuebles:** dependen de los datos que tengas y de los organismos registrales/catastrales que correspondan.
 - **Vehículos:** con el dominio, se puede orientar la búsqueda en el **Registro del Automotor** que corresponda.
 - **Bancos/entidades:** cada entidad tiene políticas y requisitos; conviene primero encuadrar el caso y luego ordenar el pedido.
@@ -120,6 +122,8 @@ Si vivís en otra provincia, consultá **[cómo tramitar una sucesión en Córdo
 2) **Empezar sin mapa de bienes** → después aparecen bienes/cuentas y se amplía, con demoras.  
 3) **Confundir declaratoria con transferencia** → la declaratoria reconoce judicialmente a los herederos a los fines del trámite; luego viene el tramo de bienes (inscripción, tracto abreviado, adjudicación o partición, según corresponda).  
 4) **Enviar documentación sensible sin coordinación** → primero se define qué hace falta y el canal seguro.  
+
+Si la familia no conoce con claridad el patrimonio, el paso previo puede ser un **[relevamiento de bienes vinculados con Córdoba](/averiguar-bienes-persona-fallecida-cordoba/)**. No garantiza un inventario exhaustivo, pero permite ordenar indicios y confirmar los datos que admiten informe oficial.
 5) **No alinear objetivo entre herederos** (vender/adjudicar/regularizar) → frena por discusiones tardías.
 
 Si querés entender costos por componentes (y evitar “costos indirectos” por demoras): **[honorarios y gastos: cómo se componen](/cuanto-cuesta-sucesion-cordoba/)**.
