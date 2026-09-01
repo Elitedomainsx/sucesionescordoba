@@ -110,6 +110,8 @@ Como base, en la mayoría de los casos ayuda reunir:
 - Datos orientativos de bienes (dirección o matrícula si se conoce, dominio del automotor, banco, cuenta, caja de seguridad, inversión o crédito).
 - Si existe testamento, copia o datos suficientes para individualizarlo.
 
+Si no sabés qué integra el patrimonio, podés empezar por un **[relevamiento de bienes de la persona fallecida](/averiguar-bienes-persona-fallecida-cordoba/)**. Si faltan actas o desconocés dónde fueron inscriptas, también ofrecemos la **[búsqueda y solicitud de partidas para la sucesión](/partidas-para-sucesion-cordoba/)** como servicio independiente.
+
 ---
 
 ## Costos orientativos y de qué dependen
@@ -163,6 +165,8 @@ La **competencia** se define, en principio, por el **último domicilio del causa
 6) **Enviar documentación sensible por canales inseguros** → primero conviene definir qué hace falta y cuál es el canal adecuado.
 
 Si aparentemente no existen familiares ni herederos aceptantes, el análisis no termina ahí: puede ser necesario estudiar una **[herencia yacente o vacante](/herencia-yacente-cordoba/)**.
+
+Cuando la duda no es quién hereda sino **qué porcentaje corresponde a cada persona**, conviene separar ese cálculo de la posterior adjudicación de bienes. La guía sobre **[cómo se reparte una herencia](/como-se-reparte-herencia-cordoba/)** explica las variables que deben verificarse bien por bien.
 
 ---
 

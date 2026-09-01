@@ -134,6 +134,8 @@ Para empezar, generalmente es útil contar con:
 
 Una partida expedida por otra provincia argentina **no requiere Apostilla de La Haya**. Sí puede ser necesario obtener una copia actualizada, certificada o con la modalidad exigida por el tribunal u organismo receptor. La **[guía de documentación para una sucesión](/documentacion-sucesion-cordoba/)** ayuda a ordenar el material por bloques sin enviar datos sensibles en el primer mensaje.
 
+Si no contás con las actas o desconocés dónde se inscribieron, puede coordinarse la **[búsqueda y solicitud de partidas para la sucesión](/partidas-para-sucesion-cordoba/)**. El servicio alcanza directamente a partidas de Córdoba; las de otras provincias se evalúan según su registro de origen.
+
 ---
 
 ## Poderes, patrocinio y firmas
@@ -177,6 +179,8 @@ Cuando deben cumplirse notificaciones, inscripciones u otras diligencias fuera d
 
 También conviene distinguir el proceso sucesorio de las gestiones posteriores sobre cada bien. Una declaratoria no vende, adjudica ni inscribe automáticamente el patrimonio. Si el objetivo es distribuir los bienes, puede ser necesaria una **[partición de herencia](/particion-herencia-cordoba/)**; si se proyecta una venta, debe analizarse la alternativa registral adecuada.
 
+Cuando los herederos no conocen todo el patrimonio, vivir fuera de Córdoba no impide encargar un **[relevamiento de bienes de la persona fallecida](/averiguar-bienes-persona-fallecida-cordoba/)** sobre registros vinculados con la provincia. El alcance y los gastos de cada informe se definen antes de solicitarlo.
+
 ---
 
 ## Costos, viajes y organización práctica
@@ -210,4 +214,3 @@ Para consultar no hace falta enviar DNI, partidas completas ni información banc
 8. objetivo concreto y cualquier urgencia.
 
 Con esa información se puede definir qué revisar primero, qué documentos hacen falta y si la intervención puede coordinarse mayormente a distancia. Para una evaluación profesional, consultá con un **[abogado de sucesiones en Córdoba](/abogado-sucesiones-cordoba/)** o utilizá el **[formulario de contacto](/contacto/)**.
-

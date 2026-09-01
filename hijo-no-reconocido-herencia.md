@@ -91,6 +91,8 @@ La distinción entre **bien propio** y **bien ganancial** es especialmente impor
 
 Para comprender el recorrido completo antes de llegar al cálculo, podés consultar la [guía de sucesiones en Córdoba](/sucesiones-cordoba/).
 
+Para un análisis general —sin limitarse al caso de un nuevo hijo— consultá **[cómo se reparte una herencia y cuánto corresponde a cada heredero](/como-se-reparte-herencia-cordoba/)**. Allí se distingue la cuota jurídica de la adjudicación material de los bienes.
+
 ---
 
 ## Ejemplo simplificado: cónyuge y cuatro hijos

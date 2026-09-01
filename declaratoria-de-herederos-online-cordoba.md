@@ -100,6 +100,8 @@ La partida de defunción y las partidas que acreditan el parentesco son la base 
 
 La **[lista de documentación para una sucesión](/documentacion-sucesion-cordoba/)** permite ordenar lo básico. En un caso internacional se agrega el control específico de apostilla, legalización y traducción.
 
+Las partidas argentinas que no están disponibles pueden requerir una búsqueda previa. Para hechos inscriptos en Córdoba ofrecemos un servicio separado de **[localización y solicitud de partidas para la sucesión](/partidas-para-sucesion-cordoba/)**; las registradas en otras provincias se evalúan caso por caso.
+
 ### 4) Mapa e investigación de bienes
 
 No siempre el heredero conoce todo el patrimonio. Puede haber un inmueble del que solo se sabe la dirección, un vehículo, cuentas, créditos, participaciones o bienes administrados por otra persona.
@@ -113,6 +115,8 @@ La búsqueda se organiza de manera progresiva:
 - revisión jurídica de contratos de locación, recibos, comprobantes y movimientos aportados por la familia, cuando sean relevantes para la sucesión o una eventual rendición de cuentas.
 
 Una base comercial puede ayudar a encontrar domicilios o relaciones posibles, pero funciona como punto de partida. La confirmación debe provenir del registro o la fuente oficial competente. Así se evita gastar en búsquedas indiscriminadas o tratar un indicio como si fuera una prueba.
+
+El alcance específico está explicado en **[cómo averiguar bienes de una persona fallecida en Córdoba](/averiguar-bienes-persona-fallecida-cordoba/)**. Ese trabajo puede contratarse sin encomendar la sucesión completa.
 
 ### 5) Presupuesto y autorización de gastos
 

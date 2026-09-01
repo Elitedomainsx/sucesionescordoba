@@ -70,6 +70,18 @@ Si vivís en otra provincia argentina, consultá **[cómo tramitar una sucesión
 
 ---
 
+## Servicios para ordenar una sucesión
+
+También podés contratar por separado trabajos previos o complementarios, sin encargar al estudio la sucesión completa:
+
+- **[Búsqueda de bienes de una persona fallecida](/averiguar-bienes-persona-fallecida-cordoba/):** relevamiento progresivo de inmuebles, automotores y otros datos patrimoniales vinculados con Córdoba, con informes oficiales cuando corresponda.
+- **[Cálculo de la cuota hereditaria](/como-se-reparte-herencia-cordoba/):** análisis de quiénes heredan y qué porcentaje puede corresponder sobre cada bien, considerando bienes propios, gananciales, deudas, donaciones y demás variables relevantes.
+- **[Búsqueda y solicitud de partidas](/partidas-para-sucesion-cordoba/):** localización y pedido de partidas de nacimiento, matrimonio o defunción; las inscriptas en otras provincias se evalúan caso por caso.
+
+Para el primer contacto alcanza con datos generales. No hace falta enviar DNI, partidas completas, claves ni información bancaria.
+
+---
+
 ## Qué necesito para evaluar tu caso (sin datos sensibles)
 Para el primer contacto **no hace falta** enviar DNI, partidas ni documentación sensible. Con esto alcanza:
 

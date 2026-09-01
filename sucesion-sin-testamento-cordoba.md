@@ -68,6 +68,8 @@ Por eso, más que memorizar reglas aisladas, suele ser mejor identificar bien:
 
 Si querés una revisión puntual de eso, podés pedir una [evaluación inicial de tu caso](/abogado-sucesiones-cordoba/).
 
+Una vez identificados los llamados a heredar, todavía debe calcularse sobre qué patrimonio participan y con qué alcance. La guía **[cómo se reparte una herencia y cuánto corresponde a cada heredero](/como-se-reparte-herencia-cordoba/)** desarrolla ese análisis sin confundirlo con la partición material posterior.
+
 ## Cómo se conecta con la declaratoria de herederos
 Cuando no hay testamento, muchas veces el paso central del expediente es la [declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/).
 
@@ -84,6 +86,8 @@ No conviene fingir un checklist cerrado porque puede variar según el caso. Pero
 - partidas que permitan acreditar vínculos,
 - datos de herederos,
 - e información básica sobre bienes o trámites pendientes.
+
+Si no se conoce con precisión qué bienes dejó el causante, puede ser útil encargar primero un **[relevamiento patrimonial vinculado con Córdoba](/averiguar-bienes-persona-fallecida-cordoba/)**.
 
 Aunque no tengas todo desde el primer día, ayuda mucho armar un mapa inicial del caso. Por ejemplo:
 - quiénes serían herederos,

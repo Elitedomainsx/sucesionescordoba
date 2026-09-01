@@ -54,6 +54,8 @@ Muchas personas llegan a esta instancia con una duda muy práctica:
 
 Por eso esta página no reemplaza la [guía de sucesiones en Córdoba](/sucesiones-cordoba/), sino que responde a una duda más específica: qué pasa después, cuando hay que ordenar el reparto.
 
+Antes de adjudicar, puede ser necesario determinar la cuota abstracta de cada persona. Ese paso se explica por separado en **[cómo se reparte una herencia y cuánto corresponde a cada heredero](/como-se-reparte-herencia-cordoba/)**: primero se calculan derechos y porcentajes; después se decide cómo se distribuyen materialmente los bienes.
+
 ## Cuándo suele aparecer este tema en una sucesión
 La partición no suele ser la primera preocupación de una familia. En general, aparece cuando el caso ya avanzó lo suficiente como para pasar de la pregunta “quién hereda” a la pregunta “qué hacemos con los bienes”.
 
