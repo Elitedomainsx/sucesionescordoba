@@ -29,7 +29,7 @@
         <li><strong>{{ t.attention_label }}:</strong> {{ t.attention_value }}</li>
       </ul>
       <div class="d-flex flex-wrap gap-2 attorneys-trust-actions">
-        <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_entrevista_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener">{{ t.whatsapp_interview }}</a>
+        <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_entrevista_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="trust-box">{{ t.whatsapp_interview }}</a>
         {%- if page.lang == 'es-AR' or page.lang == nil -%}
         <a class="btn btn-outline-primary" href="/sobre-nosotros/">{{ t.how_we_work }}</a>
         {%- endif -%}

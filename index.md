@@ -23,7 +23,7 @@ image:
           Información clara para orientarte: pasos del trámite, documentación, costos y tiempos orientativos.
           Atención en Córdoba Capital e interior, con coordinación remota cuando sea posible.
         </p>
-        <a class="btn btn-primary btn-xl" href="{{ site.contact.whatsapp_consulta_url }}" target="_blank" rel="noopener">Consultar por WhatsApp</a>
+        <a class="btn btn-primary btn-xl" href="{{ site.contact.whatsapp_consulta_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="hero">Consultar por WhatsApp</a>
         <a class="btn btn-light btn-xl ms-2" href="/declaratoria-de-herederos-cordoba/">Qué es la declaratoria</a>
         <div class="text-white-50 small mt-3">Contenido informativo general; no reemplaza asesoramiento legal.</div>
       </div>
@@ -183,7 +183,7 @@ image:
                 <li><strong>Atención:</strong> presencial y online, según el caso</li>
               </ul>
               <div class="d-flex flex-wrap gap-2">
-                <a class="btn btn-primary btn-xl" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
+                <a class="btn btn-primary btn-xl" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="trust-box">Coordinar por WhatsApp</a>
                 <a class="btn btn-outline-primary btn-xl" href="/sobre-nosotros/">Ver cómo trabajamos</a>
               </div>
             </div>
@@ -200,7 +200,7 @@ image:
     <h2 class="mb-4">¿Querés una orientación inicial?</h2>
     <p class="text-white-50 mb-4">Te digo qué falta, qué conviene pedir primero y cuáles suelen ser los próximos pasos según tu situación.</p>
     <div class="d-flex flex-wrap justify-content-center gap-2">
-    <a class="btn btn-light btn-xl" href="{{ site.contact.whatsapp_consulta_url }}" target="_blank" rel="noopener">Escribir por WhatsApp</a>
+    <a class="btn btn-light btn-xl" href="{{ site.contact.whatsapp_consulta_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="article-bottom">Escribir por WhatsApp</a>
     <a class="btn btn-outline-light btn-xl" href="/contacto/">Ver contacto completo</a>
   </div>
   </div>

@@ -42,9 +42,9 @@ Escribinos a: **[{{ site.contact.email }}]({{ site.contact.email_url }})**
 ## WhatsApp
 
 <div class="d-flex flex-wrap gap-2">
-  <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener">Coordinar por WhatsApp</a>
-  <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Escribir por email</a>
-  <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">Llamar</a>
+  <a class="btn btn-primary" href="{{ site.contact.whatsapp_entrevista_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="contact-body">Coordinar por WhatsApp</a>
+  <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}" data-cta-channel="email" data-cta-location="contact-body">Escribir por email</a>
+  <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}" data-cta-channel="phone" data-cta-location="contact-body">Llamar</a>
 </div>
 
 ## Atención en Córdoba Capital e interior

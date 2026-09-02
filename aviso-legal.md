@@ -9,6 +9,7 @@ image:
   height: 630
   alt: "Sucesiones Córdoba: aviso legal"
 quick: "El contenido de este sitio es informativo general y no reemplaza asesoramiento jurídico. Cada caso sucesorio puede variar según tribunal, bienes, herederos y eventuales conflictos."
+hide_floating_whatsapp: true
 ---
 
 ## 1) Finalidad del sitio

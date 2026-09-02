@@ -16,7 +16,7 @@ image:
 reviewed_by:
   - pablo
   - gustavo
-whatsapp_url: "https://wa.me/543518660334?text=Hola%2C%20necesito%20saber%20c%C3%B3mo%20se%20reparte%20una%20herencia%20y%20qu%C3%A9%20porcentaje%20le%20corresponde%20a%20cada%20heredero.%20La%20familia%20y%20los%20bienes%20son%20____.%20%C2%BFPodemos%20coordinar%20una%20evaluaci%C3%B3n%3F"
+whatsapp_message: "Hola, necesito saber cómo se reparte una herencia y qué porcentaje le corresponde a cada heredero. La familia y los bienes son ____. ¿Podemos coordinar una evaluación?"
 official_sources:
   - title: "Código Civil y Comercial de la Nación actualizado"
     url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
@@ -176,7 +176,6 @@ No reemplaza la declaratoria, la partición ni una sentencia sobre hechos discut
 
 Para una primera conversación no hace falta enviar DNI, partidas completas ni escrituras por WhatsApp. Podés indicar la composición familiar, los bienes conocidos, si existe testamento y si la sucesión ya comenzó.
 
-👉 **[Consultar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20necesito%20saber%20c%C3%B3mo%20se%20reparte%20una%20herencia%20y%20qu%C3%A9%20porcentaje%20le%20corresponde%20a%20cada%20heredero.%20La%20familia%20y%20los%20bienes%20son%20____.%20%C2%BFPodemos%20coordinar%20una%20evaluaci%C3%B3n%3F)**  
+👉 **[Consultar por WhatsApp]({{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }})**
 👉 **[Solicitar una evaluación profesional](/abogado-sucesiones-cordoba/)**  
 👉 **[Formulario de contacto](/contacto/)**
-
