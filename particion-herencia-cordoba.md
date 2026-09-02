@@ -1,202 +1,193 @@
 ---
 layout: article
-title: "Partición de herencia en Córdoba"
-h1: "Partición de herencia en Córdoba: cómo se reparten los bienes"
-description: "Qué es la partición, cuándo se vuelve necesaria y cómo se relaciona con adjudicación, acuerdo y bienes hereditarios en Córdoba."
-primary_keyword: "partición de herencia en Córdoba"
+title: "Partición de herencia: acuerdo y vía judicial"
+h1: "Partición de herencia en Córdoba: cómo se adjudican los bienes"
+description: "Cómo se realiza la partición de una herencia en Córdoba: acuerdo, vía judicial, adjudicación de inmuebles, compensaciones y venta."
+primary_keyword: "partición de herencia"
 date: 2026-04-15
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-01
 schema_kind: Article
 show_toc: true
 image:
   path: "/assets/img/sucesiones-cordoba-social.webp"
   width: 1200
   height: 630
-  alt: "Sucesiones Córdoba: guía sobre partición de herencia"
+  alt: "Partición y adjudicación de bienes hereditarios en Córdoba"
 reviewed_by:
   - pablo
   - gustavo
 official_sources:
   - title: "Código Civil y Comercial de la Nación actualizado"
     url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
-  - title: "Ley 17.801 — Registro de la Propiedad Inmueble"
-    url: "https://www.argentina.gob.ar/normativa/nacional/ley-17801-53050/actualizacion"
-quick: "La partición aparece cuando, dentro de una sucesión, ya no alcanza con reconocer quiénes heredan y la pregunta pasa a ser cómo se reparten concretamente los bienes. En términos generales, suele analizarse con especial frecuencia cuando el caso ya está encaminado en ese punto, aunque puede variar según el tipo de bienes, el grado de acuerdo entre herederos y la etapa del trámite."
+  - title: "Poder Judicial de Córdoba — adjudicación consensuada de un inmueble"
+    url: "https://www.justiciacordoba.gob.ar/justiciacordoba/inicio/indexDetalle.aspx?codNovedad=32619"
+  - title: "Poder Judicial de Córdoba — partición y adjudicación consensuada"
+    url: "https://www.justiciacordoba.gob.ar/cargawebweb/_News/NovedadesDetalle.aspx?idNovedad=22206"
+quick: "La partición de herencia transforma las cuotas abstractas de los herederos en adjudicaciones concretas y pone fin, total o parcialmente, a la indivisión. Puede ser privada si todos los copartícipes están presentes, son plenamente capaces y acuerdan por unanimidad; debe ser judicial cuando existen los supuestos previstos por la ley, como falta de acuerdo, incapacidad, capacidad restringida, ausencia u oposición legítima de terceros."
 faq:
   - q: "¿Qué es la partición de herencia?"
-    a: "En términos generales, es la etapa o acto mediante el cual se reparten o adjudican los bienes hereditarios entre quienes heredan."
-  - q: "¿Siempre hay que hacer partición?"
-    a: "No siempre con la misma complejidad ni en el mismo momento. Depende del caso, de los bienes y del objetivo práctico que tengan los herederos."
-  - q: "¿Qué pasa si los herederos están de acuerdo?"
-    a: "Cuando hay acuerdo, muchas veces el camino puede ordenarse con menos fricción. Igual conviene revisar bien los bienes, la documentación y la etapa del trámite."
-  - q: "¿Qué pasa si no hay acuerdo?"
-    a: "La situación suele requerir un análisis más cuidadoso. No conviene asumir una salida automática: depende del conflicto, del tipo de bienes y del estado del expediente."
-  - q: "¿Se puede adjudicar un inmueble a uno de los herederos?"
-    a: "En muchos casos esa es justamente una de las preguntas centrales de la partición. La respuesta concreta depende del acuerdo, de la composición de los bienes y de cómo se organice el cierre del caso."
-  - q: "¿Cuándo aparece esta etapa dentro de la sucesión?"
-    a: "Suele aparecer cuando el foco deja de estar sólo en quién hereda y pasa a la distribución concreta de los bienes."
-  - q: "¿Qué documentación conviene ordenar?"
-    a: "Suele ser útil reunir información del expediente, de los herederos, de los bienes y del objetivo real que se busca: adjudicar, vender, inscribir o cerrar la indivisión."
-  - q: "¿Qué hago si quiero avanzar con el reparto de bienes?"
-    a: "Lo más prudente suele ser revisar primero qué bienes hay, en qué estado está la sucesión y si existe o no acuerdo suficiente para avanzar."
+    a: "Es el acto que pone fin total o parcialmente a la indivisión hereditaria y determina qué bienes concretos integran la hijuela de cada copartícipe. Si incluye bienes registrables, sus efectos frente a terceros requieren la inscripción correspondiente."
+  - q: "¿Cuándo puede hacerse una partición privada o de común acuerdo?"
+    a: "Puede hacerse privadamente cuando todos los copartícipes están presentes, son plenamente capaces y deciden por unanimidad la forma de dividir. El acuerdo debe instrumentarse de la manera adecuada según los bienes y los actos que contenga."
+  - q: "¿Cuándo debe hacerse una partición judicial?"
+    a: "Debe ser judicial si hay copartícipes incapaces, con capacidad restringida o ausentes; si un tercero con interés legítimo se opone a la vía privada; o si los copartícipes capaces no logran ponerse de acuerdo."
+  - q: "¿Qué pasa si uno de los herederos no quiere acordar?"
+    a: "La falta de unanimidad impide la partición privada, pero no obliga a mantener indefinidamente la indivisión. Cualquiera de los legitimados puede pedir la partición judicial, donde se aplicarán las reglas de inventario, avalúo, división y adjudicación."
+  - q: "¿Cómo se hace la partición si hay menores?"
+    a: "Cuando intervienen copartícipes menores o incapaces, la partición debe ser judicial. Deben protegerse sus intereses y cumplirse los controles y representaciones que correspondan; no basta un convenio privado entre los demás herederos."
+  - q: "¿Se puede adjudicar el único inmueble a un heredero?"
+    a: "Puede resultar posible si existe un acuerdo válido o si corresponde conforme a las reglas de partición, valuación y compensación. Debe preservarse el valor de las hijuelas y documentarse cómo se compensa a quienes no reciben el inmueble."
+  - q: "¿Siempre hay que vender los bienes?"
+    a: "No. La ley prioriza la división y adjudicación en especie cuando es posible. Si el bien no puede dividirse o la división resulta antieconómica, puede adjudicarse a uno o varios copartícipes con compensación o venderse para distribuir el producido."
+  - q: "¿Cuándo puede pedirse la partición y qué documentación se necesita?"
+    a: "En principio puede solicitarse después de aprobados el inventario y el avalúo, y también puede ser parcial. Deben conocerse los herederos, las cuotas, los bienes, las deudas, las valuaciones, los títulos y cualquier circunstancia que afecte la masa partible."
 ---
 
-## Respuesta rápida
-La partición de herencia es, en términos simples, la etapa en la que se define cómo se reparten concretamente los bienes entre quienes heredan. Suele analizarse con especial frecuencia después del [trámite de declaratoria](/declaratoria-de-herederos-cordoba/) o, más ampliamente, cuando el problema deja de ser quién hereda y pasa a ser cómo ordenar el destino de los bienes.
-
 ## Qué es la partición de herencia
-Explicado sin vueltas: la partición es el momento en el que la herencia deja de estar “en conjunto” y se empieza a definir qué bien o qué parte corresponde a cada heredero.
 
-Muchas personas llegan a esta instancia con una duda muy práctica:
-- “ya salió la declaratoria, ¿y ahora cómo se reparten los bienes?”
-- “si hay un inmueble, ¿quién se lo queda?”
-- “si uno quiere vender y otro no, ¿qué hacemos?”
+La **partición de herencia** es el acto que pone fin a la indivisión y determina qué bienes concretos corresponden a cada copartícipe. Hasta entonces, los herederos tienen derechos sobre la masa hereditaria, pero eso no significa necesariamente que cada uno sea dueño exclusivo de un bien determinado.
 
-Por eso esta página no reemplaza la [guía de sucesiones en Córdoba](/sucesiones-cordoba/), sino que responde a una duda más específica: qué pasa después, cuando hay que ordenar el reparto.
+El Código Civil y Comercial establece que la indivisión hereditaria sólo cesa con la partición. Si se adjudican inmuebles, automotores u otros bienes registrables, la partición resulta oponible a terceros desde la inscripción en el registro correspondiente.
 
-Antes de adjudicar, puede ser necesario determinar la cuota abstracta de cada persona. Ese paso se explica por separado en **[cómo se reparte una herencia y cuánto corresponde a cada heredero](/como-se-reparte-herencia-cordoba/)**: primero se calculan derechos y porcentajes; después se decide cómo se distribuyen materialmente los bienes.
+La [declaratoria de herederos](/declaratoria-de-herederos-cordoba/) identifica a quienes acreditaron vocación hereditaria en la sucesión intestada, pero no adjudica automáticamente cada bien. Esa diferencia explica por qué una sucesión puede tener declaratoria y, sin embargo, conservar pendientes la distribución y la registración del patrimonio.
 
-## Cuándo suele aparecer este tema en una sucesión
-La partición no suele ser la primera preocupación de una familia. En general, aparece cuando el caso ya avanzó lo suficiente como para pasar de la pregunta “quién hereda” a la pregunta “qué hacemos con los bienes”.
+## Cuota hereditaria, indivisión, partición y adjudicación
 
-En términos generales, esta necesidad suele aparecer cuando:
-- ya se sabe quiénes son los herederos o el caso está bastante encaminado en ese punto,
-- en muchos casos, ya existe o está próximo el [reconocimiento judicial de herederos](/declaratoria-de-herederos-cordoba/), especialmente si hay bienes registrables,
-- y el foco práctico pasa a ser adjudicar, distribuir, vender o simplemente salir del estado de indivisión.
+Son etapas relacionadas, pero no equivalentes:
 
-Por eso conviene ubicar bien esta etapa dentro del [trámite sucesorio en Córdoba](/sucesiones-cordoba/) y no tratarla como si fuera un trámite aislado.
+1. **Cuota hereditaria:** indica qué proporción jurídica corresponde a cada heredero. Para determinarla deben analizarse parentesco, cónyuge, testamento, carácter propio o ganancial de los bienes, porcentajes del causante, deudas y donaciones. Ese cálculo se desarrolla en [cómo se reparte una herencia](/como-se-reparte-herencia-cordoba/).
+2. **Indivisión hereditaria:** es el estado en el que los bienes permanecen dentro de la masa común, sin adjudicación definitiva a cada copartícipe.
+3. **Partición:** organiza los lotes o hijuelas y pone fin total o parcialmente a esa indivisión.
+4. **Adjudicación:** atribuye bienes concretos a una o varias personas dentro de la partición.
+5. **Inscripción:** publica la adjudicación de los bienes registrables frente a terceros.
 
-## Qué significa salir de la indivisión hereditaria
-Este punto es central.
+La venta es otra posibilidad, no un sinónimo de partición. Puede utilizarse cuando resulte necesaria para distribuir el producido o como decisión posterior de quienes recibieron el bien.
 
-Mientras la herencia no se reparte, los bienes siguen en una situación de indivisión. En términos simples, eso significa que los herederos mantienen una relación común con ese conjunto de bienes, aunque todavía no esté definido con precisión qué queda para cada uno.
+## Cuándo puede pedirse
 
-Salir de la indivisión hereditaria significa, justamente, pasar de ese estado compartido a una organización más concreta del patrimonio hereditario.
+En principio, la partición puede solicitarse después de aprobados el inventario y el avalúo. Puede postergarse cuando una división inmediata perjudicaría el valor de los bienes y también puede hacerse parcialmente si una parte del patrimonio todavía no está en condiciones de dividirse.
 
-En la práctica, esa salida puede importar mucho porque permite:
-- ordenar la situación de un inmueble,
-- definir adjudicaciones,
-- reducir conflictos de uso o administración,
-- y acercarse al cierre real del caso.
+Antes de elegir el camino conviene verificar:
 
-No siempre se trata de “repartir físicamente todo”. A veces el punto es ordenar jurídicamente quién queda con qué, cómo se compensa y qué se hace con los bienes que no pueden dividirse de una manera simple.
+- quiénes son todos los copartícipes y qué cuota tiene cada uno;
+- si están presentes y son plenamente capaces;
+- si existe unanimidad sobre la forma de repartir;
+- qué bienes y deudas integran la masa;
+- si los bienes tienen valuaciones actuales y comparables;
+- si existen gravámenes, ocupantes, litigios o restricciones;
+- si alguien pretende una adjudicación preferente, licitación o compensación.
 
-## Qué pasa si hay acuerdo entre herederos y qué pasa si no lo hay
-### Si hay acuerdo
-Cuando existe un grado razonable de acuerdo, en muchos casos el camino puede ordenarse con más claridad. Eso no significa que sea automático, pero sí que suele ser más fácil pensar una salida concreta:
-- quién se adjudica qué,
-- si un bien queda para uno y se compensa a otro,
-- o si conviene vender y distribuir luego.
+No es responsable preparar un acuerdo de reparto sobre una lista incompleta de bienes o sin conocer el pasivo. Si todavía no está identificado el patrimonio, puede ser necesario [averiguar los bienes de la persona fallecida](/averiguar-bienes-persona-fallecida-cordoba/) antes de partir.
 
-Incluso cuando hay acuerdo, conviene revisar bien la composición de los bienes y la etapa del expediente antes de cerrar una decisión.
+## Partición privada o de común acuerdo
 
-### Si no hay acuerdo
-Cuando no hay acuerdo, la partición deja de ser una simple cuestión organizativa y pasa a requerir más análisis.
+El artículo 2369 del Código Civil y Comercial permite que la partición se haga en la forma y por el acto que los copartícipes juzguen convenientes cuando se reúnen simultáneamente tres condiciones:
 
-No conviene presentar el conflicto como algo “inevitable” ni empujar a una lógica litigiosa. Pero sí es real que, cuando los herederos no coinciden en el destino de los bienes, la solución puede depender de muchos factores:
-- tipo de bien,
-- valor relativo,
-- posibilidad de adjudicación,
-- documentación disponible,
-- y estado del trámite.
+- todos están presentes;
+- todos son plenamente capaces;
+- todos deciden por unanimidad.
 
-En esos casos, suele ser especialmente útil una [evaluación inicial de tu caso](/abogado-sucesiones-cordoba/) para ver qué opciones podrían encajar mejor sin suponer una salida uniforme para todos.
+La autonomía de la familia permite acordar soluciones que no consisten simplemente en dividir cada bien según el porcentaje abstracto. Por ejemplo, puede adjudicarse un inmueble a una persona y otros bienes o una compensación dineraria a las demás, siempre que el acuerdo sea válido, claro y correctamente instrumentado.
 
-## Cómo se relaciona con la adjudicación de bienes
-La partición y la adjudicación están muy vinculadas.
+La forma documental dependerá de los bienes y del contenido del convenio. Si existen inmuebles, la registración exige un instrumento idóneo y el cumplimiento de las reglas notariales, judiciales y registrales aplicables. Un acuerdo informal o la mera ocupación de hecho no sustituyen la partición definitiva.
 
-Muchas veces, cuando se habla de partición, en realidad lo que la familia quiere saber es:
-- si un inmueble puede quedar para uno de los herederos,
-- si un automotor puede adjudicarse a otro,
-- o cómo se distribuyen otros bienes sin dejar todo “a medias”.
+## Cuándo la partición debe ser judicial
 
-Por eso, hablar de partición no es solo hablar de división abstracta. Es hablar de cómo aterrizar los bienes en decisiones concretas.
+El artículo 2371 exige la vía judicial cuando:
 
-En términos generales:
-- la adjudicación puede ser una de las formas de resolver el destino de determinados bienes,
-- la composición del patrimonio importa mucho,
-- y no es lo mismo un caso con un único inmueble que uno con varios bienes distintos.
+- hay copartícipes incapaces, con capacidad restringida o ausentes;
+- un tercero con interés legítimo se opone a la partición privada;
+- los copartícipes plenamente capaces no acuerdan hacerla privadamente.
 
-Si dentro de ese análisis aparece la necesidad de pensar la salida registral o una venta, ahí puede entrar en juego otra página específica: [tracto abreviado en Córdoba](/tracto-abreviado-cordoba/). Pero no conviene mezclar los planos: partición no es lo mismo que venta, aunque a veces se conecten.
+La partición judicial no significa necesariamente que todos los puntos deban resolverse mediante una confrontación extensa. Los acuerdos parciales siguen siendo útiles, pero el procedimiento, los controles y la aprobación deben adecuarse a la situación existente.
 
-También puede cambiar bastante el escenario si la base del caso es una [sucesión sin testamento en Córdoba](/sucesion-sin-testamento-cordoba/), porque primero hay que ordenar bien quién hereda si todavía eso no quedó suficientemente definido en el trámite.
+Cuando no hay unanimidad, cualquiera de las personas legitimadas puede pedir la partición. El Código prevé inventario, avalúo y actuación de partidor, además de mecanismos para formar y asignar los lotes.
 
-## Qué documentación o información conviene ordenar
-No hace falta fingir una lista cerrada, porque puede variar mucho. Pero, en clave práctica, suele ayudar tener ordenado:
+## Cómo se adjudican los bienes
 
-- el estado del expediente sucesorio,
-- quiénes son los herederos y si hay acuerdo suficiente,
-- qué bienes integran la herencia,
-- si hay bienes registrables,
-- qué objetivo real se busca,
-- y qué situación concreta tiene cada bien.
+### División y adjudicación en especie
 
-Por ejemplo, no es lo mismo:
-- querer adjudicar un inmueble a un heredero,
-- que querer venderlo,
-- o que querer simplemente salir de una situación de uso compartido que ya no funciona.
+La ley prioriza, cuando es posible, dividir y adjudicar los bienes en especie. Si el patrimonio permite formar lotes razonablemente equivalentes, ningún copartícipe puede exigir la venta sólo por preferir dinero.
 
-Si el caso todavía está desordenado desde la base, puede servir revisar estos [papeles para ordenar el caso](/documentacion-sucesion-cordoba/) o la [documentación para iniciar una sucesión](/documentacion-sucesion-cordoba/).
+### Bien indivisible o división antieconómica
 
-Y si además te preocupa el impacto económico de cada camino, puede ayudar entender los [honorarios y gastos: cómo se componen](/cuanto-cuesta-sucesion-cordoba/) o los [costos orientativos de una sucesión](/cuanto-cuesta-sucesion-cordoba/) en términos generales.
+Un bien no debe dividirse si la separación destruye o reduce de manera antieconómica su aprovechamiento. En esos casos puede:
 
-## Errores comunes y cómo evitarlos
-### 1. Creer que la declaratoria ya “resuelve” el reparto
-La [declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/) suele ser una etapa clave, pero no siempre define por sí sola qué pasa con cada bien.
+- adjudicarse a uno o varios copartícipes que lo acepten;
+- compensarse en dinero la diferencia con las demás hijuelas;
+- licitarse entre los copartícipes en las condiciones legales;
+- venderse y distribuirse el producido cuando no exista otra solución adecuada.
 
-### 2. Confundir partición con venta
-A veces la familia habla de “repartir” cuando en realidad quiere vender. O habla de vender cuando en realidad antes necesita ordenar adjudicación y partición.
+Las compensaciones requieren valuaciones serias. No alcanza con que una persona “se quede con la casa” si no se determina qué valor se imputa a su hijuela y cómo se equilibran los derechos de las demás.
 
-### 3. Suponer que si hay acuerdo todo es automático
-El acuerdo ayuda, pero no reemplaza revisar bienes, documentación y etapa del trámite.
+### Partición parcial
 
-### 4. Discutir sobre un bien sin mirar el conjunto de la herencia
-Este error es muy común. A veces se discute solo sobre un inmueble, pero la solución razonable depende del resto del patrimonio hereditario.
+No siempre es necesario esperar a que todos los bienes estén en la misma situación. Si algunos son actualmente partibles y otros todavía no, puede analizarse una partición parcial para avanzar sin alterar lo que deba permanecer temporalmente indiviso.
 
-### 5. No definir el objetivo real
-No es lo mismo:
-- salir de la indivisión,
-- adjudicar un bien,
-- vender,
-- o simplemente ordenar jurídicamente el caso.
+## Partición de herencia entre hermanos con un solo inmueble
 
-Cuanto antes se aclare eso, mejor se puede evaluar la estrategia. Si querés, podés [consultá por tu caso](/abogado-sucesiones-cordoba/).
+Es uno de los casos más frecuentes. Las alternativas generales pueden ser:
 
-## Casos típicos
-### Caso 1
-Hay dos herederos, un inmueble y un automotor. La pregunta no es ya quién hereda, sino cómo repartir de manera razonable los bienes y si alguno puede adjudicarse a uno de ellos.
+- adjudicar el inmueble a uno de los hermanos y compensar a los demás;
+- adjudicarlo a varios si desean conservarlo en copropiedad;
+- venderlo de común acuerdo y distribuir el precio conforme a las cuotas;
+- pedir la partición judicial si no existe unanimidad;
+- mantener temporalmente la indivisión mediante un acuerdo de uso o administración, sabiendo que eso no equivale a la partición definitiva.
 
-### Caso 2
-Hay varios herederos, todos reconocidos dentro del trámite, pero no se ponen de acuerdo sobre qué hacer con un inmueble. En ese contexto, la discusión deja de ser sucesoria “de base” y pasa a ser cómo salir de la indivisión sin agravar el conflicto.
+La solución depende del valor del inmueble, las cuotas, la posibilidad real de pagar compensaciones, la ocupación, las deudas y la voluntad de los participantes. Un precedente oficial de la Justicia de Córdoba reconoció la relevancia de la voluntad conjunta y unánime de herederos capaces para adjudicar el único inmueble a uno de ellos; ese antecedente no elimina la necesidad de revisar cada caso.
 
-## Preguntas frecuentes
-### ¿Qué es la partición de herencia?
-En términos generales, es la etapa o acto en la que se define cómo se reparten o adjudican los bienes hereditarios entre quienes heredan.
+Si la decisión es vender directamente el inmueble todavía inscripto a nombre del causante, también debe estudiarse si corresponde una [venta por tracto abreviado](/tracto-abreviado-cordoba/). Partición y tracto abreviado son figuras diferentes, aunque puedan conectarse dentro de una misma estrategia.
 
-### ¿Siempre hay que hacer partición?
-No necesariamente con la misma intensidad ni de la misma forma. Depende del caso, de los bienes y del objetivo práctico.
+## Bienes, deudas y formación de hijuelas
 
-### ¿Qué pasa si los herederos están de acuerdo?
-Cuando hay acuerdo, muchas veces el camino puede ordenarse con menos fricción. Igual conviene revisar bienes, documentación y estado del trámite.
+La masa partible no se reduce a una lista de activos. Deben considerarse, según corresponda:
 
-### ¿Qué pasa si no hay acuerdo?
-No conviene asumir una salida automática. La situación puede requerir más análisis según el tipo de bienes y el grado de conflicto.
+- bienes existentes y los que los hayan sustituido;
+- frutos y acrecimientos;
+- deudas y cargas pendientes;
+- créditos a favor de la herencia;
+- valores sujetos a colación o reducción;
+- gravámenes vinculados con bienes concretos;
+- gastos de conservación y administración;
+- diferencias de valuación entre los lotes.
 
-### ¿Se puede adjudicar un inmueble a uno de los herederos?
-En muchos casos esa es una de las preguntas centrales de esta etapa. La respuesta concreta depende del caso, del acuerdo y de cómo esté compuesta la herencia.
+Las hijuelas muestran qué recibe cada copartícipe y qué valores, cargas o compensaciones se imputan. Si no pueden formarse lotes del mismo valor, las diferencias pueden cubrirse con dinero dentro de los límites y garantías previstos por la ley.
 
-### ¿Cuándo aparece esta etapa dentro de la sucesión?
-Suele aparecer cuando el foco deja de estar sólo en quién hereda y pasa al reparto concreto de bienes.
+## Efectos registrales de la partición
 
-### ¿Qué documentación conviene ordenar?
-En términos generales, estado del expediente, datos de herederos, bienes, documentación disponible y objetivo real del caso.
+La partición tiene efecto declarativo: jurídicamente se considera que cada heredero sucede directamente al causante en los bienes que integran su hijuela. No se trata simplemente de una compraventa entre coherederos, aunque el acuerdo pueda incluir compensaciones.
 
-### ¿Qué hago si quiero avanzar con el reparto de bienes?
-Lo más útil suele ser revisar primero qué bienes hay, en qué etapa está la sucesión y si hay acuerdo suficiente para avanzar.
+Cuando hay bienes registrables, la adjudicación debe inscribirse para ser oponible a terceros. En determinados supuestos, el artículo 16 de la Ley 17.801 permite aplicar tracto abreviado a actos relativos a la partición, pero el documento debe relacionar correctamente todos los antecedentes.
 
-## CTA final
-Si querés, puedo ayudarte a revisar tu caso y explicarte qué opciones pueden encajar mejor según los bienes, el grado de acuerdo entre herederos y la etapa del trámite. Podés escribir por WhatsApp o completar el formulario, sin enviar documentación sensible en esta primera etapa.
+## Documentación para analizar una partición
 
-- [Pedir evaluación inicial](/abogado-sucesiones-cordoba/)
-- [Hablar por WhatsApp](/abogado-sucesiones-cordoba/)
-- [Consultar tu caso](/abogado-sucesiones-cordoba/)
+Según el caso, conviene reunir:
+
+- partida de defunción y partidas de vínculo;
+- declaratoria, testamento aprobado o título sucesorio correspondiente;
+- constancias relevantes del expediente;
+- inventario completo de bienes y deudas;
+- títulos, matrículas e informes registrales;
+- valuaciones actualizadas;
+- datos sobre ocupación, administración y frutos de los bienes;
+- donaciones, cesiones o acuerdos anteriores;
+- propuesta concreta de adjudicación y forma de compensar diferencias;
+- información sobre menores, personas con capacidad restringida, ausentes o terceros interesados.
+
+La guía de [documentación para una sucesión](/documentacion-sucesion-cordoba/) ayuda a preparar la base. Si faltan actas de nacimiento, matrimonio o defunción, también puede solicitarse asistencia para [buscar partidas en el Registro Civil](/partidas-para-sucesion-cordoba/).
+
+## Costos y organización práctica
+
+El costo depende de la forma elegida, la cantidad y el valor de los bienes, la necesidad de tasaciones, la existencia de conflicto, la intervención de partidor, los instrumentos notariales y los gastos de inscripción. Una partición privada de común acuerdo y una judicial controvertida no tienen la misma estructura de trabajo ni de gastos.
+
+Antes de generar erogaciones conviene definir:
+
+1. las cuotas correctas;
+2. la masa completa y su pasivo;
+3. las valuaciones;
+4. si existe unanimidad;
+5. qué resultado práctico busca cada copartícipe;
+6. qué instrumento e inscripciones serán necesarios.
+
+Podés revisar los componentes generales en [cuánto cuesta una sucesión en Córdoba](/cuanto-cuesta-sucesion-cordoba/). Para evaluar una propuesta concreta de adjudicación o una partición judicial, consultá con [abogados de sucesiones en Córdoba](/abogado-sucesiones-cordoba/) o enviá una consulta mediante el [formulario de contacto](/contacto/).
+
