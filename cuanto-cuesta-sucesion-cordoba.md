@@ -63,6 +63,8 @@ En Córdoba, los honorarios profesionales no deben pensarse como un “precio li
 - **Gestiones vinculadas a bienes** (según el caso): pedidos, coordinación, trámites posteriores.
 - **Etapas posteriores** si corresponden: bienes, adjudicación/partición, acuerdos, etc.
 
+Si el objetivo es distribuir bienes, los componentes pueden incluir una [partición de herencia privada o judicial](/particion-herencia-cordoba/). Si se proyecta vender un inmueble aún registrado a nombre del causante, también deben separarse los gastos de la sucesión, la escritura y la eventual [operación por tracto abreviado](/tracto-abreviado-cordoba/).
+
 ### 2) Gastos del proceso (gastos “vivos”)
 Estos gastos pueden variar mucho según el caso, el objetivo y los bienes involucrados. Pueden aparecer, por ejemplo:
 
@@ -136,4 +138,5 @@ Si querés una orientación sobre cómo se compone el costo según tu caso, pod�
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 
