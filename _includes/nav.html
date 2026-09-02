@@ -13,7 +13,7 @@
       <ul class="navbar-nav ms-auto my-2 my-lg-0">
         {%- if page.translation_key and page.lang != 'es-AR' -%}
         <li class="nav-item"><a class="nav-link" href="{{ page.url }}">{{ t.nav_service_abroad }}</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener">{{ t.nav_contacto }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="nav">{{ t.nav_contacto }}</a></li>
         {%- else -%}
         <li class="nav-item"><a class="nav-link" href="/declaratoria-de-herederos-cordoba/">{{ t.nav_declaratoria }}</a></li>
         <li class="nav-item"><a class="nav-link" href="/sucesiones-cordoba/">{{ t.nav_sucesion }}</a></li>

@@ -9,6 +9,7 @@ image:
   height: 630
   alt: "Sucesiones Córdoba: política de privacidad"
 quick: "Esta política explica qué datos se recolectan cuando nos contactás, para qué se usan y qué derechos podés ejercer sobre ellos."
+hide_floating_whatsapp: true
 noindex: true
 sitemap: false
 ---

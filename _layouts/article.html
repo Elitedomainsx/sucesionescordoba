@@ -15,11 +15,14 @@ layout: default
           </div>
         {% endif %}
         {% if page.schema_kind == 'Service' %}
-          {%- assign service_whatsapp_url = page.whatsapp_url | default: site.contact.whatsapp_entrevista_url -%}
+          {%- assign service_whatsapp_url = site.contact.whatsapp_entrevista_url -%}
+          {%- if page.whatsapp_message -%}
+            {%- capture service_whatsapp_url -%}{{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }}{%- endcapture -%}
+          {%- endif -%}
           <div class="service-primary-actions d-flex flex-wrap gap-2 mt-3" aria-label="{{ t.primary_actions_label }}">
-            <a class="btn btn-primary" href="{{ service_whatsapp_url }}" target="_blank" rel="noopener">{{ t.cta_whatsapp }}</a>
-            <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">{{ t.cta_call }}</a>
-            <a class="btn btn-outline-primary" href="/contacto/">{{ t.cta_contact }}</a>
+            <a class="btn btn-primary" href="{{ service_whatsapp_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="service-top">{{ t.cta_whatsapp }}</a>
+            <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}" data-cta-channel="phone" data-cta-location="service-top">{{ t.cta_call }}</a>
+            <a class="btn btn-outline-primary" href="/contacto/" data-cta-channel="contact" data-cta-location="service-top">{{ t.cta_contact }}</a>
           </div>
         {% endif %}
       </header>
@@ -52,12 +55,12 @@ layout: default
         <div class="fw-semibold">{{ t.cta_title }}</div>
         <div class="small text-muted">{{ t.cta_copy }}</div>
         <div class="d-flex flex-wrap gap-2 mt-2">
-          <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_consulta_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener">{{ t.cta_whatsapp }}</a>
-          <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}">{{ t.cta_call }}</a>
+          <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_consulta_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="article-bottom">{{ t.cta_whatsapp }}</a>
+          <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}" data-cta-channel="phone" data-cta-location="article-bottom">{{ t.cta_call }}</a>
           {%- if page.lang == 'es-AR' or page.lang == nil -%}
-          <a class="btn btn-outline-primary" href="/contacto/">{{ t.cta_contact }}</a>
+          <a class="btn btn-outline-primary" href="/contacto/" data-cta-channel="contact" data-cta-location="article-bottom">{{ t.cta_contact }}</a>
           {%- else -%}
-          <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}">Email</a>
+          <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}" data-cta-channel="email" data-cta-location="article-bottom">Email</a>
           {%- endif -%}
         </div>
       </div>

@@ -31,6 +31,7 @@
 
     <!-- Bootstrap reducido + estilos del sitio, purgados y minificados. -->
     <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260830b' }}" />
+    {% include floating-whatsapp-styles.html %}
     <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260830b' }}" defer></script>
   </head>
   <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
@@ -39,6 +40,10 @@
     {% include nav.html %}
 
     {{ content }}
+
+    {%- unless page.hide_floating_whatsapp == true -%}
+      {% include floating-whatsapp.html %}
+    {%- endunless -%}
 
     {% include footer.html %}
 

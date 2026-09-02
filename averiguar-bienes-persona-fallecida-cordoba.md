@@ -16,7 +16,7 @@ image:
 reviewed_by:
   - pablo
   - gustavo
-whatsapp_url: "https://wa.me/543518660334?text=Hola%2C%20necesito%20averiguar%20qu%C3%A9%20bienes%20ten%C3%ADa%20una%20persona%20fallecida%20en%20C%C3%B3rdoba.%20Los%20datos%20que%20conozco%20son%20____.%20%C2%BFPodemos%20coordinar%20una%20evaluaci%C3%B3n%3F"
+whatsapp_message: "Hola, necesito averiguar qué bienes tenía una persona fallecida en Córdoba. Los datos que conozco son ____. ¿Podemos coordinar una evaluación?"
 official_sources:
   - title: "Código Civil y Comercial de la Nación actualizado"
     url: "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"
@@ -171,7 +171,6 @@ Para el cálculo jurídico, consultá [cómo se reparte una herencia en Córdoba
 
 Para el primer contacto no hace falta enviar DNI, partidas completas, claves bancarias ni fotografías de documentación sensible. Alcanza con explicar qué datos conocés, qué bienes sospechás que existen y si ya hay una sucesión iniciada.
 
-👉 **[Consultar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20necesito%20averiguar%20qu%C3%A9%20bienes%20ten%C3%ADa%20una%20persona%20fallecida%20en%20C%C3%B3rdoba.%20Los%20datos%20que%20conozco%20son%20____.%20%C2%BFPodemos%20coordinar%20una%20evaluaci%C3%B3n%3F)**  
+👉 **[Consultar por WhatsApp]({{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }})**
 👉 **[Solicitar una evaluación profesional](/abogado-sucesiones-cordoba/)**  
 👉 **[Formulario de contacto](/contacto/)**
-

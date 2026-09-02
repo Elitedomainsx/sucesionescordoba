@@ -16,7 +16,7 @@ image:
 reviewed_by:
   - pablo
   - gustavo
-whatsapp_url: "https://wa.me/543518660334?text=Hola%2C%20necesito%20buscar%20o%20solicitar%20partidas%20para%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20La%20partida%20que%20falta%20es%20____%20y%20los%20datos%20que%20conozco%20son%20____.%20%C2%BFPueden%20ayudarme%3F"
+whatsapp_message: "Hola, necesito buscar o solicitar partidas para una sucesión en Córdoba. La partida que falta es ____ y los datos que conozco son ____. ¿Pueden ayudarme?"
 official_sources:
   - title: "Registro Civil Digital de Córdoba — solicitud de partidas"
     url: "https://miregistrocivil.cba.gov.ar/portal-ciudadano/"
@@ -179,7 +179,6 @@ Después se determina qué documentación resulta necesaria y por qué canal seg
 
 Este servicio puede contratarse por separado. También puede integrarse al armado completo de la [declaratoria de herederos](/declaratoria-de-herederos-cordoba/) cuando faltan documentos para acreditar los vínculos.
 
-👉 **[Consultar por WhatsApp](https://wa.me/543518660334?text=Hola%2C%20necesito%20buscar%20o%20solicitar%20partidas%20para%20una%20sucesi%C3%B3n%20en%20C%C3%B3rdoba.%20La%20partida%20que%20falta%20es%20____%20y%20los%20datos%20que%20conozco%20son%20____.%20%C2%BFPueden%20ayudarme%3F)**  
+👉 **[Consultar por WhatsApp]({{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }})**
 👉 **[Solicitar una evaluación profesional](/abogado-sucesiones-cordoba/)**  
 👉 **[Formulario de contacto](/contacto/)**
-
