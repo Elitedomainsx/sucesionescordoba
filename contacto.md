@@ -10,6 +10,7 @@ image:
   height: 630
   alt: "Contacto de Sucesiones Córdoba"
 quick: "Escribinos por WhatsApp o mail para coordinar una entrevista inicial (presencial u online)."
+hide_attorneys_trust_box: true
 ---
 
 ## Coordinar una entrevista inicial

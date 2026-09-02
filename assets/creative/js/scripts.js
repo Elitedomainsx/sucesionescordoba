@@ -79,6 +79,38 @@
     competingWhatsAppCtas.forEach((cta) => floatingObserver.observe(cta));
   }
 
+  const getTrafficSource = () => {
+    const campaignSource = new URLSearchParams(window.location.search).get('utm_source');
+    if (campaignSource) return campaignSource;
+    if (!document.referrer) return 'direct';
+    try {
+      return new URL(document.referrer).hostname || 'referral';
+    } catch (_error) {
+      return 'referral';
+    }
+  };
+
+  document.querySelectorAll('[data-cta-channel="whatsapp"]').forEach((cta) => {
+    cta.addEventListener('click', () => {
+      const eventParameters = {
+        page_topic: document.body.dataset.pageTopic || 'general',
+        cta_position: cta.dataset.ctaLocation || 'unknown',
+        cta_text: cta.textContent.trim(),
+        page_path: window.location.pathname,
+        traffic_source: getTrafficSource()
+      };
+
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'whatsapp_click', eventParameters);
+      } else {
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ event: 'whatsapp_click', ...eventParameters });
+      }
+
+      window.dispatchEvent(new CustomEvent('whatsapp_click', { detail: eventParameters }));
+    });
+  });
+
   navbarShrink();
   document.addEventListener('scroll', navbarShrink, { passive: true });
 })();

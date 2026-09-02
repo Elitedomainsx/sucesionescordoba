@@ -7,7 +7,12 @@
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
 
+    {%- if page.seo_title -%}
+    <title>{{ page.seo_title }}</title>
+    {% seo title=false %}
+    {%- else -%}
     {% seo %}
+    {%- endif -%}
     {% include schema.html %}
 
     {%- assign translations = site.data.translations[page.translation_key] -%}
@@ -30,11 +35,11 @@
     {%- endif -%}
 
     <!-- Bootstrap reducido + estilos del sitio, purgados y minificados. -->
-    <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260830b' }}" />
+    <link rel="stylesheet" href="/assets/css/site.min.css?v={{ site.github.build_revision | default: '20260902a' }}" />
     {% include floating-whatsapp-styles.html %}
-    <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260830b' }}" defer></script>
+    <script src="/assets/creative/js/scripts.js?v={{ site.github.build_revision | default: '20260902a' }}" defer></script>
   </head>
-  <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
+  <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}" data-page-topic="{{ page.page_topic | default: page.slug | default: 'general' }}">
     {%- assign ui = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
     <a class="skip-link" href="#main-content">{{ ui.skip_to_content }}</a>
     {% include nav.html %}

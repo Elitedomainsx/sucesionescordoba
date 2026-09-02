@@ -1,4 +1,8 @@
 {%- assign t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+{%- assign trust_whatsapp_url = site.contact.whatsapp_entrevista_url -%}
+{%- if page.whatsapp_message -%}
+  {%- capture trust_whatsapp_url -%}{{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }}{%- endcapture -%}
+{%- endif -%}
 <section class="attorneys-trust-box my-4" aria-label="{{ t.responsible_label }}">
   <div class="row g-4 align-items-center">
     <div class="col-12 col-lg-4">
@@ -29,7 +33,7 @@
         <li><strong>{{ t.attention_label }}:</strong> {{ t.attention_value }}</li>
       </ul>
       <div class="d-flex flex-wrap gap-2 attorneys-trust-actions">
-        <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ site.contact.whatsapp_entrevista_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="trust-box">{{ t.whatsapp_interview }}</a>
+        <a class="btn btn-primary" href="{% if page.lang == 'es-AR' or page.lang == nil %}{{ trust_whatsapp_url }}{% else %}{{ site.contact.whatsapp_url }}{% endif %}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="trust-box">{{ page.whatsapp_cta_label | default: t.whatsapp_interview }}</a>
         {%- if page.lang == 'es-AR' or page.lang == nil -%}
         <a class="btn btn-outline-primary" href="/sobre-nosotros/">{{ t.how_we_work }}</a>
         {%- endif -%}
