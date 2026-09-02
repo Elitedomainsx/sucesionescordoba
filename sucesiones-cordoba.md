@@ -95,7 +95,7 @@ En la sucesión intestada, una vez justificado el fallecimiento y denunciados lo
 Para la intestada, podés verlo en detalle acá: **[trámite de declaratoria: pasos](/declaratoria-de-herederos-cordoba/)**.
 
 ### 6) Lo que viene después (según el objetivo)
-La declaratoria o la resolución sobre el testamento **no siempre cierran el caso**. Después suelen venir gestiones sobre bienes: inscripciones registrales, oficios a bancos, tracto abreviado, adjudicación, partición, venta o acuerdos entre coherederos.
+La declaratoria o la resolución sobre el testamento **no siempre cierran el caso**. Después suelen venir gestiones sobre bienes: inscripciones registrales, oficios a bancos, [venta por tracto abreviado](/tracto-abreviado-cordoba/), adjudicación, [partición de la herencia](/particion-herencia-cordoba/) o acuerdos entre coherederos.
 
 ---
 
@@ -171,7 +171,7 @@ Cuando la duda no es quién hereda sino **qué porcentaje corresponde a cada per
 ---
 
 ## Casos típicos (ejemplos hipotéticos)
-- **“Somos dos hermanos y hay un inmueble”**: primero hay que identificar si la sucesión es intestada o testamentaria; luego el camino depende de si quieren conservar, adjudicar, alquilar, vender o hacer tracto abreviado.
+- **“Somos dos hermanos y hay un inmueble”**: primero hay que identificar si la sucesión es intestada o testamentaria; luego el camino depende de si quieren conservarlo, hacer una [partición y adjudicación](/particion-herencia-cordoba/), alquilarlo o analizar una [venta por tracto abreviado](/tracto-abreviado-cordoba/).
 - **“Hay un auto y necesitamos transferir”**: acreditar herederos es solo una parte; después viene la gestión específica sobre el automotor.
 - **“Hay cuentas o fondos”**: el proceso sucesorio suele ser la base para luego gestionar ante banco, organismo o entidad financiera.
 - **“Hay conflicto familiar”**: conviene definir estrategia desde el inicio para no convertir un trámite ordenable en un expediente innecesariamente largo.
@@ -192,5 +192,6 @@ Para una evaluación inicial orientativa, no hace falta que envíes documentaci�
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 
 
