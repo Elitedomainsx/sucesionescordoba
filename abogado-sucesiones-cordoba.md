@@ -110,7 +110,7 @@ Se inicia el trámite y se hace el seguimiento ordenado, respondiendo observacio
 Si no hay testamento, o si el testamento no dispone de todos los bienes, se analiza la vía intestada y la declaratoria. Si existe testamento, se evalúa la vía sucesoria correspondiente y, según el caso, la validez formal y/o la protocolización.
 
 ### 5) Bienes y cierre por objetivo
-Luego se trabaja el tramo sobre bienes (registros, bancos, transferencias, acuerdos/partición) según lo que busquen los herederos.
+Luego se trabaja el tramo sobre bienes según lo que busquen los herederos: registros, bancos, transferencias, [acuerdos o partición de la herencia](/particion-herencia-cordoba/). Si el objetivo es vender un inmueble todavía inscripto a nombre del causante, se revisan también los requisitos para una posible [venta por tracto abreviado](/tracto-abreviado-cordoba/).
 
 ---
 
@@ -156,4 +156,5 @@ Si querés una primera orientación sobre tu sucesión o declaratoria, podés es
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
+
 
