@@ -6,7 +6,11 @@
         <div class="text-white fw-semibold">Sucesiones Córdoba</div>
         <div class="text-white-50 small">
           {{ t.footer_attention }}<br>
-          {{ t.footer_professionals }}: <em>Pablo Jorge Arias Visconti (M.P. 1-43613)</em> · <em>Gustavo Javier Marchetti (M.P. 1-43760)</em><br>WhatsApp: <a class="link-light" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="footer"><em>{{ site.contact.phone_display }}</em></a> · {{ t.footer_call }}: <a class="link-light" href="tel:{{ site.contact.phone_tel }}" data-cta-channel="phone" data-cta-location="footer"><em>{{ site.contact.phone_display }}</em></a> · Email: <a class="link-light" href="{{ site.contact.email_url }}" data-cta-channel="email" data-cta-location="footer"><em>{{ site.contact.email }}</em></a>
+          {%- assign footer_whatsapp_url = site.contact.whatsapp_url -%}
+          {%- if page.whatsapp_message -%}
+            {%- capture footer_whatsapp_url -%}{{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }}{%- endcapture -%}
+          {%- endif -%}
+          {{ t.footer_professionals }}: <em>Pablo Jorge Arias Visconti (M.P. 1-43613)</em> · <em>Gustavo Javier Marchetti (M.P. 1-43760)</em><br>WhatsApp: <a class="link-light" href="{{ footer_whatsapp_url }}" target="_blank" rel="noopener" data-cta-channel="whatsapp" data-cta-location="footer"><em>{{ site.contact.phone_display }}</em></a> · {{ t.footer_call }}: <a class="link-light" href="tel:{{ site.contact.phone_tel }}" data-cta-channel="phone" data-cta-location="footer"><em>{{ site.contact.phone_display }}</em></a> · Email: <a class="link-light" href="{{ site.contact.email_url }}" data-cta-channel="email" data-cta-location="footer"><em>{{ site.contact.email }}</em></a>
         </div>
       </div>
       <div class="col-md-5 text-md-end">

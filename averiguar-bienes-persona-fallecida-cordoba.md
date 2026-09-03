@@ -112,6 +112,8 @@ Cuando se conoce la patente, puede pedirse información sobre ese dominio. Si no
 
 Después hay que revisar si el vehículo seguía inscripto a nombre del causante, si existían cotitulares y qué afectaciones registrales aparecían al momento del informe.
 
+Una vez localizado, la guía **[sucesión de un auto en Córdoba](/sucesion-auto-cordoba/)** explica cómo coordinar el expediente con la adjudicación, venta o transferencia registral.
+
 ### Participaciones, créditos y otros derechos
 
 Contratos, recibos, expedientes judiciales, documentación societaria o información de terceros pueden revelar participaciones, créditos, alquileres, juicios o derechos que merezcan verificación. No todo indicio integra automáticamente la herencia: debe analizarse su vigencia, titularidad y valor jurídico.
@@ -127,6 +129,8 @@ No existe una búsqueda pública que permita ingresar el nombre de una persona f
 Cuando hay una sucesión, datos concretos o antecedentes suficientes, puede estudiarse si resulta pertinente solicitar información mediante oficios o medidas judiciales. El pedido, su alcance y la respuesta dependen del expediente, del organismo o entidad y de la decisión que corresponda.
 
 Si conocés el nombre de un banco, una sucursal, un correo o un resumen antiguo, ese dato puede ayudar a formular un pedido más preciso.
+
+Cuando la entidad ya está identificada, consultá **[qué pasa con la cuenta bancaria o plazo fijo de una persona fallecida](/cuenta-bancaria-persona-fallecida/)** para ordenar la comunicación con el banco y el cobro dentro de la sucesión.
 
 ## Diferencia entre indicio, informe y prueba
 

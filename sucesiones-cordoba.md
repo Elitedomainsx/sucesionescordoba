@@ -46,6 +46,8 @@ La sucesión es el proceso judicial para **identificar a los sucesores**, determ
 
 Cuando la sucesión es **intestada** (es decir, si no hay testamento o si el testamento no dispone de todos los bienes), un paso central suele ser la **[declaratoria de herederos](/declaratoria-de-herederos-cordoba/)**. Después, según el objetivo del caso, pueden venir etapas vinculadas con inmuebles, automotores, cuentas, partición o venta.
 
+Si los demás familiares todavía no participan, revisá **[si un solo heredero puede iniciar la sucesión](/puede-un-heredero-iniciar-sucesion/)** y qué información debe aportar sobre los otros posibles herederos.
+
 Si vivís fuera del país, la residencia del heredero no impide por sí sola avanzar. La logística de poderes, partidas extranjeras, apostillas y traducciones se explica en **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
 
 > **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Los pasos concretos pueden variar según los herederos, el tipo de bienes, la existencia de testamento, la presencia de menores o incapaces, el tribunal y el grado de conflicto.
@@ -95,7 +97,7 @@ En la sucesión intestada, una vez justificado el fallecimiento y denunciados lo
 Para la intestada, podés verlo en detalle acá: **[trámite de declaratoria: pasos](/declaratoria-de-herederos-cordoba/)**.
 
 ### 6) Lo que viene después (según el objetivo)
-La declaratoria o la resolución sobre el testamento **no siempre cierran el caso**. Después suelen venir gestiones sobre bienes: inscripciones registrales, oficios a bancos, [venta por tracto abreviado](/tracto-abreviado-cordoba/), adjudicación, [partición de la herencia](/particion-herencia-cordoba/) o acuerdos entre coherederos.
+La declaratoria o la resolución sobre el testamento **no siempre cierran el caso**. Después suelen venir gestiones sobre bienes: inscripciones registrales, oficios a bancos, [venta por tracto abreviado](/tracto-abreviado-cordoba/), adjudicación, [partición de la herencia](/particion-herencia-cordoba/) o acuerdos entre coherederos. La guía **[qué sigue después de la declaratoria](/despues-declaratoria-herederos/)** ordena esas alternativas según el tipo de bien.
 
 ---
 
@@ -171,10 +173,10 @@ Cuando la duda no es quién hereda sino **qué porcentaje corresponde a cada per
 ---
 
 ## Casos típicos (ejemplos hipotéticos)
-- **“Somos dos hermanos y hay un inmueble”**: primero hay que identificar si la sucesión es intestada o testamentaria; luego el camino depende de si quieren conservarlo, hacer una [partición y adjudicación](/particion-herencia-cordoba/), alquilarlo o analizar una [venta por tracto abreviado](/tracto-abreviado-cordoba/).
-- **“Hay un auto y necesitamos transferir”**: acreditar herederos es solo una parte; después viene la gestión específica sobre el automotor.
-- **“Hay cuentas o fondos”**: el proceso sucesorio suele ser la base para luego gestionar ante banco, organismo o entidad financiera.
-- **“Hay conflicto familiar”**: conviene definir estrategia desde el inicio para no convertir un trámite ordenable en un expediente innecesariamente largo.
+- **“Somos dos hermanos y hay un inmueble”**: la guía de [sucesión de una casa](/sucesion-casa-cordoba/) compara conservación, adjudicación, alquiler, partición y venta.
+- **“Hay un auto y necesitamos transferir”**: acreditar herederos es solo una parte; después viene la [gestión específica sobre el automotor](/sucesion-auto-cordoba/).
+- **“Hay cuentas o fondos”**: el proceso sucesorio suele ser la base para luego [gestionar ante el banco](/cuenta-bancaria-persona-fallecida/).
+- **“Hay conflicto familiar”**: si el problema es una propiedad, revisá [qué hacer cuando un heredero no quiere vender](/heredero-no-quiere-vender/).
 
 ---
 

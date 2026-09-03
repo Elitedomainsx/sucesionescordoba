@@ -76,6 +76,8 @@ La misma norma exige que el documento relate los antecedentes del dominio o del 
 
 En el supuesto frecuente de una venta, el objetivo es evitar una inscripción previa exclusivamente a nombre de los herederos para luego inscribir otra transmisión a favor del comprador. La escritura por tracto abreviado reúne la operación y los antecedentes sucesorios y registrales necesarios.
 
+Si primero necesitás entender la operación completa —acuerdo, publicación, reserva, documentación, escribanía y gastos— consultá **[cómo vender un inmueble heredado en Córdoba](/vender-inmueble-heredado-cordoba/)**. Esta página mantiene el foco técnico en el mecanismo registral del tracto abreviado.
+
 Antes de asumir que la venta puede realizarse de este modo, conviene verificar:
 
 - que la sucesión corresponda y esté en una etapa suficiente;

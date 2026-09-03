@@ -91,6 +91,8 @@ La declaratoria muchas veces no es el final, sino el comienzo de la etapa útil 
 - venta,
 - cesión de derechos hereditarios.
 
+La guía **[después de la declaratoria de herederos: qué sigue](/despues-declaratoria-herederos/)** ordena cada alternativa y enlaza los requisitos específicos para casas, autos, cuentas, partición y venta.
+
 ---
 
 ## Documentación mínima (link al checklist)

@@ -122,6 +122,42 @@ image:
     <p class="text-muted text-center mx-auto mb-5" style="max-width: 760px;">Elegí el tema que más se parece a tu situación. Cada guía explica el alcance general y qué información conviene reunir antes de tomar una decisión.</p>
     <div class="row g-4">
       <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/puede-un-heredero-iniciar-sucesion/">¿Puede iniciar un solo heredero?</a></h3>
+        <p class="text-muted mb-0">Cómo comenzar aunque los demás no se presenten juntos.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/sucesion-casa-cordoba/">Sucesión de una casa</a></h3>
+        <p class="text-muted mb-0">Opciones para conservar, adjudicar, dividir o vender.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/despues-declaratoria-herederos/">Después de la declaratoria</a></h3>
+        <p class="text-muted mb-0">Qué hacer con inmuebles, autos, cuentas y partición.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/cuanto-cuesta-sucesion-cordoba/">Costos y honorarios</a></h3>
+        <p class="text-muted mb-0">Qué incluye un presupuesto y qué modifica el costo.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/vender-inmueble-heredado-cordoba/">Vender una casa heredada</a></h3>
+        <p class="text-muted mb-0">Inscripción, tracto abreviado, reserva y escritura.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/heredero-no-quiere-vender/">Un heredero no quiere vender</a></h3>
+        <p class="text-muted mb-0">Negociación, adjudicación, compensación y partición.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/sucesion-auto-cordoba/">Sucesión de un auto</a></h3>
+        <p class="text-muted mb-0">Cómo adjudicar, transferir o vender el vehículo.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/cuenta-bancaria-persona-fallecida/">Cuenta bancaria o plazo fijo</a></h3>
+        <p class="text-muted mb-0">Cómo identificar y cobrar fondos de forma correcta.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
+        <h3 class="h5"><a href="/cesion-derechos-hereditarios-cordoba/">Cesión de derechos hereditarios</a></h3>
+        <p class="text-muted mb-0">Alcance, escritura, costos y riesgos antes de firmar.</p>
+      </div>
+      <div class="col-md-6 col-lg-4">
         <h3 class="h5"><a href="/sucesion-sin-testamento-cordoba/">Sucesión sin testamento</a></h3>
         <p class="text-muted mb-0">Quiénes pueden heredar y cómo se conecta con la declaratoria.</p>
       </div>

@@ -138,6 +138,8 @@ La solución depende del valor del inmueble, las cuotas, la posibilidad real de 
 
 Si la decisión es vender directamente el inmueble todavía inscripto a nombre del causante, también debe estudiarse si corresponde una [venta por tracto abreviado](/tracto-abreviado-cordoba/). Partición y tracto abreviado son figuras diferentes, aunque puedan conectarse dentro de una misma estrategia.
 
+Cuando uno de los hermanos se opone a la operación, la guía **[qué hacer si un heredero no quiere vender](/heredero-no-quiere-vender/)** ayuda a distinguir tasación, adjudicación, compensación y eventual vía judicial. Si una persona pretende salir de la herencia transmitiendo su posición, debe analizarse por separado la **[cesión de derechos hereditarios](/cesion-derechos-hereditarios-cordoba/)**.
+
 ## Bienes, deudas y formación de hijuelas
 
 La masa partible no se reduce a una lista de activos. Deben considerarse, según corresponda:

@@ -52,7 +52,7 @@ faq:
       <div class="card-body">
         <h3 class="h5 card-title">Necesito iniciar la sucesión</h3>
         <p class="card-text">Revisamos el último domicilio de la persona fallecida, los posibles herederos, la existencia de testamento y los bienes principales. Después armamos un checklist priorizado para comenzar sin pedir documentación innecesaria.</p>
-        <a href="/sucesiones-cordoba/">Ver cómo se inicia una sucesión</a>
+        <a href="/puede-un-heredero-iniciar-sucesion/">Ver si puede iniciar un solo heredero</a>
       </div>
     </section>
   </div>
@@ -133,15 +133,15 @@ Cuando existe un testamento debe revisarse su forma, alcance y relación con los
 
 ### Inmuebles heredados
 
-Analizamos si el objetivo es conservar, adjudicar, inscribir o vender una casa, departamento, terreno u otro inmueble. Cuando se proyecta una venta, también puede resultar necesario estudiar la posibilidad de un **[tracto abreviado](/tracto-abreviado-cordoba/)**.
+Analizamos si el objetivo es conservar, adjudicar, inscribir o vender una casa, departamento, terreno u otro inmueble. Consultá la guía de **[sucesión de una casa en Córdoba](/sucesion-casa-cordoba/)** y, si se proyecta una operación, **[cómo vender un inmueble heredado](/vender-inmueble-heredado-cordoba/)**.
 
 ### Automotores
 
-La declaratoria puede ser una etapa del trámite, pero luego debe organizarse la adjudicación o transferencia ante el Registro Automotor.
+La declaratoria puede ser una etapa del trámite, pero luego debe organizarse la adjudicación o transferencia ante el Registro Automotor. Ver **[sucesión de un auto en Córdoba](/sucesion-auto-cordoba/)**.
 
 ### Cuentas, plazos fijos e inversiones
 
-Se evalúa qué información existe, qué acredita la calidad de heredero y qué actuación judicial o bancaria puede requerirse para disponer de los fondos.
+Se evalúa qué información existe, qué acredita la calidad de heredero y qué actuación judicial o bancaria puede requerirse para disponer de los fondos. Ver **[cuenta bancaria o plazo fijo de una persona fallecida](/cuenta-bancaria-persona-fallecida/)**.
 
 ### Partición y acuerdos entre herederos
 
@@ -149,7 +149,7 @@ Cuando ya se conoce quiénes heredan, puede ser necesario definir cómo se distr
 
 ### Conflictos sucesorios
 
-La estrategia cambia cuando un heredero no participa, se opone a una venta, ocupa un inmueble, cuestiona la distribución o existe desacuerdo sobre la administración de los bienes.
+La estrategia cambia cuando un heredero no participa, se opone a una venta, ocupa un inmueble, cuestiona la distribución o existe desacuerdo sobre la administración. Consultá **[qué hacer si un heredero no quiere vender](/heredero-no-quiere-vender/)** o, si alguien quiere transmitir su posición, la guía de **[cesión de derechos hereditarios](/cesion-derechos-hereditarios-cordoba/)**.
 
 ---
 
