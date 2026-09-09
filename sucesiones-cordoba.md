@@ -48,7 +48,7 @@ Cuando la sucesión es **intestada** (es decir, si no hay testamento o si el tes
 
 Si los demás familiares todavía no participan, revisá **[si un solo heredero puede iniciar la sucesión](/puede-un-heredero-iniciar-sucesion/)** y qué información debe aportar sobre los otros posibles herederos.
 
-Si vivís fuera del país, la residencia del heredero no impide por sí sola avanzar. La logística de poderes, partidas extranjeras, apostillas y traducciones se explica en **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+Si vivís fuera del país, la residencia del heredero no impide por sí sola avanzar. La logística de poderes, partidas extranjeras, apostillas y traducciones se explica en **[sucesión en Córdoba desde el exterior](/sucesion-cordoba-desde-el-exterior/)**.
 
 > **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Los pasos concretos pueden variar según los herederos, el tipo de bienes, la existencia de testamento, la presencia de menores o incapaces, el tribunal y el grado de conflicto.
 

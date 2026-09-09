@@ -113,7 +113,7 @@ Si no tenés la copia, faltan datos precisos o no sabés en qué oficina fue ins
 - **Vehículos:** con el dominio, se puede orientar la búsqueda en el **Registro del Automotor** que corresponda.
 - **Bancos/entidades:** cada entidad tiene políticas y requisitos; conviene primero encuadrar el caso y luego ordenar el pedido.
 
-Si vivís en otra provincia, consultá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís fuera de Argentina, revisá **[los requisitos de una sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+Si vivís en otra provincia, consultá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís fuera de Argentina, revisá **[los requisitos de una sucesión en Córdoba desde el exterior](/sucesion-cordoba-desde-el-exterior/)**.
 
 ---
 
@@ -143,7 +143,7 @@ Puede variar el circuito según tribunal y sede:
 - **“Hay un inmueble y somos herederos directos”**: defunción + partidas de vínculo + datos del inmueble (dirección y cualquier dato identificatorio).  
 - **“Hay auto y cuenta bancaria”**: dominio del auto + banco/entidad + datos básicos de herederos.  
 - **“Herederos en otra provincia”**: ordenar vínculos, domicilio del causante y datos de los herederos; luego revisar cómo instrumentar firmas, certificaciones y representación. Ver la guía de **[sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/)**.
-- **“Herederos en el exterior”**: además, revisar si los documentos requieren apostilla, legalización o traducción y si hace falta un poder. Ver la guía de **[sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+- **“Herederos en el exterior”**: además, revisar si los documentos requieren apostilla, legalización o traducción y si hace falta un poder. Ver la guía de **[sucesión desde el exterior](/sucesion-cordoba-desde-el-exterior/)**.
 
 ---
 

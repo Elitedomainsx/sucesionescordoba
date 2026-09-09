@@ -134,7 +134,7 @@ La gestión fuera de Córdoba se evalúa caso por caso. Los canales, tasas y req
 
 Una partida expedida por otra provincia argentina no requiere Apostilla de La Haya para utilizarse dentro del país. Puede corresponder otra formalidad o una copia actualizada según el organismo que deba recibirla.
 
-Si vivís fuera de Córdoba y el expediente tramita aquí, consultá [sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/). Para documentos emitidos en otro país, revisá la guía de [sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/).
+Si vivís fuera de Córdoba y el expediente tramita aquí, consultá [sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/). Para documentos emitidos en otro país, revisá la guía de [sucesión desde el exterior](/sucesion-cordoba-desde-el-exterior/).
 
 ## Solicitud y rectificación no son lo mismo
 

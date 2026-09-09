@@ -118,5 +118,5 @@ En una consulta breve (orientativa) buscamos:
 - Guía principal: [Declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/)
 - Checklist: [Documentación para sucesión en Córdoba](/documentacion-sucesion-cordoba/)
 - Transparencia: [Cuánto cuesta una sucesión en Córdoba](/cuanto-cuesta-sucesion-cordoba/)
-- Exterior: [Sucesión en Córdoba para herederos que viven en otro país](/declaratoria-de-herederos-online-cordoba/)
+- Exterior: [Sucesión en Córdoba para herederos que viven en otro país](/sucesion-cordoba-desde-el-exterior/)
 

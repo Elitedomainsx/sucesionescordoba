@@ -2,13 +2,13 @@
 layout: article
 lang: es-AR
 translation_key: succession_abroad
-permalink: /declaratoria-de-herederos-online-cordoba/
+permalink: /sucesion-cordoba-desde-el-exterior/
 title: "Sucesión en Córdoba desde el exterior"
 h1: "Sucesión en Córdoba desde el exterior: cómo avanzar a distancia"
 description: "Cómo tramitar una sucesión en Córdoba viviendo fuera de Argentina: competencia, documentos, poderes, búsqueda de bienes, costos y coordinación remota."
 primary_keyword: "sucesión en Córdoba desde el exterior"
 date: 2026-03-05
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-09
 schema_kind: Article
 show_toc: true
 image:

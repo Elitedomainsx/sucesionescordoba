@@ -162,7 +162,7 @@ La competencia sucesoria se determina, como regla general, a partir del último 
 
 Muchas reuniones, revisiones documentales y tareas de coordinación pueden realizarse a distancia. Si algún paso exige presencia, certificación o gestión material, se informa antes de avanzar.
 
-Si vivís en otra provincia, revisá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís en otro país, consultá la guía de **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**.
+Si vivís en otra provincia, revisá **[cómo tramitar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-otra-provincia/)**. Si residís en otro país, consultá la guía de **[sucesión en Córdoba desde el exterior](/sucesion-cordoba-desde-el-exterior/)**.
 
 ---
 

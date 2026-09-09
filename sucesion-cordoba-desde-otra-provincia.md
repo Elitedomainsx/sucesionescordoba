@@ -56,7 +56,7 @@ El dato jurídico central suele ser el **último domicilio del causante**, es de
 
 En el primer supuesto, la residencia del heredero fuera de Córdoba no impide actuar en el expediente. En el segundo, la sola ubicación de un bien en Córdoba no alcanza para prometer que el proceso deba iniciarse allí: la competencia requiere un análisis específico.
 
-Para conocer el circuito general, consultá la **[guía de sucesiones en Córdoba](/sucesiones-cordoba/)**. Si vivís fuera de Argentina, corresponde la guía separada sobre **[sucesión en Córdoba desde el exterior](/declaratoria-de-herederos-online-cordoba/)**, porque allí pueden intervenir apostillas, traducciones y formalidades internacionales que no se aplican entre provincias argentinas.
+Para conocer el circuito general, consultá la **[guía de sucesiones en Córdoba](/sucesiones-cordoba/)**. Si vivís fuera de Argentina, corresponde la guía separada sobre **[sucesión en Córdoba desde el exterior](/sucesion-cordoba-desde-el-exterior/)**, porque allí pueden intervenir apostillas, traducciones y formalidades internacionales que no se aplican entre provincias argentinas.
 
 > **Información general:** esta guía no reemplaza el análisis jurídico de un caso concreto. La competencia, la representación y las formalidades pueden variar según el último domicilio del causante, el tribunal, los bienes, la documentación y la existencia de conflicto.
 

@@ -156,7 +156,7 @@ El relevamiento inicial puede contratarse sin encargar la sucesión completa. Pa
 
 La distancia no impide contratar un relevamiento de bienes en Córdoba. La primera entrevista, la definición de búsquedas, la autorización de gastos y la entrega de informes pueden organizarse a distancia.
 
-Si además necesitás intervenir en el expediente, revisá [cómo tramitar una sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/) o la guía para una [sucesión desde el exterior](/declaratoria-de-herederos-online-cordoba/).
+Si además necesitás intervenir en el expediente, revisá [cómo tramitar una sucesión en Córdoba desde otra provincia](/sucesion-cordoba-desde-otra-provincia/) o la guía para una [sucesión desde el exterior](/sucesion-cordoba-desde-el-exterior/).
 
 ## Qué hacer después de identificar los bienes
 

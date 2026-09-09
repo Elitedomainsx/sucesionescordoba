@@ -101,7 +101,7 @@ El circuito puede variar según la sede y el tribunal competente. En la práctic
 
 > **Disclaimer:** los detalles concretos se confirman según localidad, último domicilio del causante, tipo de bienes y tribunal interviniente.
 
-Si estás en el interior o vivís fuera de Argentina: **[cómo organizar una sucesión en Córdoba a distancia](/declaratoria-de-herederos-online-cordoba/)**.
+Si estás en el interior o vivís fuera de Argentina: **[cómo organizar una sucesión en Córdoba a distancia](/sucesion-cordoba-desde-el-exterior/)**.
 
 ---
 

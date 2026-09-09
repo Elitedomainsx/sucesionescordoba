@@ -101,7 +101,7 @@ image:
           <h3 class="h4 mb-2">Desde otra provincia o país</h3>
           <p class="text-muted mb-2">Coordinación remota, diferenciando los requisitos dentro de Argentina de los trámites internacionales.</p>
           <a href="/sucesion-cordoba-desde-otra-provincia/">Si vivís en otra provincia</a><br>
-          <a href="/declaratoria-de-herederos-online-cordoba/">Si vivís fuera de Argentina</a>
+          <a href="/sucesion-cordoba-desde-el-exterior/">Si vivís fuera de Argentina</a>
         </div>
       </div>
     </div>
