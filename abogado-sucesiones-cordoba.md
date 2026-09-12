@@ -155,9 +155,7 @@ La estrategia cambia cuando un heredero no participa, se opone a una venta, ocup
 
 ## Atención en Córdoba Capital e interior
 
-Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
-
-
+Si vivís en Serrezuela, San Carlos Minas, Quilino, Sebastián Elcano u otro pueblo, podés iniciar la consulta online. En la página de [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/) encontrás orientación por localidad y cómo coordinar el trámite con nosotros.
 
 La competencia sucesoria se determina, como regla general, a partir del último domicilio de la persona fallecida.
 

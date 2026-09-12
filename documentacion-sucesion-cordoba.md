@@ -5,7 +5,7 @@ h1: "Documentación para iniciar una sucesión en Córdoba (checklist)"
 description: "Checklist de documentación para iniciar una sucesión en Córdoba: partidas, datos de herederos, bienes, testamento y errores que conviene detectar."
 primary_keyword: "documentación para sucesión en Córdoba"
 date: 2026-03-02
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-12
 schema_kind: Article
 show_toc: true
 image:
@@ -135,6 +135,8 @@ Puede variar el circuito según tribunal y sede:
 - **Córdoba Capital:** las nuevas declaratorias de herederos y demás procesos sucesorios se canalizan en la **[Oficina de Procesos Sucesorios (OPS)](/oficina-procesos-sucesorios-cordoba/)**, sin perjuicio del juez competente en cada expediente.
 - **Interior:** en términos generales, se tramita ante juzgados con competencia civil/comercial del distrito correspondiente.
 
+Si consultás desde un pueblo, podemos ayudarte a organizar los documentos a distancia. En la página de [sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/) encontrás orientación por localidad y cómo iniciar la consulta aunque todavía te falten papeles.
+
 > **Disclaimer:** los detalles operativos pueden variar según el tribunal, el tipo de bien y el caso. La verificación práctica siempre se hace con localidad + último domicilio del causante + bienes + existencia o no de testamento.
 
 ---
@@ -161,9 +163,3 @@ Si querés, te orientamos sobre qué documentación conviene priorizar sin que e
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
-
-
-
-
-Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
-

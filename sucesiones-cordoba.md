@@ -5,7 +5,7 @@ h1: "Sucesiones en Córdoba: guía clara para iniciar el trámite"
 description: "Guía clara: qué es la sucesión, pasos, documentación, tiempos y costos orientativos. Córdoba Capital e interior."
 primary_keyword: "sucesiones en Córdoba"
 date: 2026-03-05
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-12
 schema_kind: Article
 show_toc: true
 image:
@@ -153,6 +153,8 @@ La **competencia** se define, en principio, por el **último domicilio del causa
 
 - **Córdoba Capital:** funciona la **[Oficina de Procesos Sucesorios (OPS)](/oficina-procesos-sucesorios-cordoba/)**, que centraliza la tramitación de nuevos procesos sucesorios vinculados a declaratorias y actuaciones conexas, cada uno a cargo de su juez competente.
 - **Interior:** en términos generales, la tramitación sigue ante los **juzgados con competencia civil y comercial** que correspondan según la sede judicial.
+
+Si vivís en un pueblo, podés iniciar la consulta online y te ayudamos a definir cómo seguir. Encontrá orientación por localidad en la página de [sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/).
 
 > **Disclaimer:** La vía concreta y algunos recaudos operativos pueden variar según la sede, el tipo de bien, la existencia de testamento y las particularidades del expediente.
 

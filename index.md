@@ -201,7 +201,7 @@ image:
   <div class="container px-4 px-lg-5">
     <h2>¿Vivís en un pueblo del interior de Córdoba?</h2>
     <p>Podemos iniciar la consulta online desde tu localidad. Si el caso requiere un traslado profesional, lo coordinamos previamente.</p>
-    <p>Encontrá orientación específica para Serrezuela, San Carlos Minas, Quilino, Sebastián Elcano y su cobertura cercana.</p>
+    <p>Si vivís en <a href="/sucesiones-serrezuela-cordoba/">Serrezuela</a>, <a href="/sucesiones-san-carlos-minas-cordoba/">San Carlos Minas</a>, <a href="/sucesiones-quilino-cordoba/">Quilino</a> o <a href="/sucesiones-sebastian-elcano-cordoba/">Sebastián Elcano</a>, encontrá información para comenzar desde tu localidad. También atendemos consultas desde los pueblos cercanos.</p>
     <a class="btn btn-outline-primary" href="/sucesiones-interior-cordoba/">Ver atención en el interior</a>
   </div>
 </section>

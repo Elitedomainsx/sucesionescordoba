@@ -15,51 +15,51 @@ date: "2026-09-12"
 last_modified_at: "2026-09-12"
 schema_kind: "Service"
 show_toc: true
-quick: "Sucesiones y declaratorias para Quilino, Villa Quilino y San José de las Salinas. Primera evaluación online y coordinación de las actuaciones que requieran presencia."
+quick: "Podés consultar desde Quilino, Villa Quilino o San José de las Salinas. Te ayudamos a reunir los documentos, revisar si ya hay un trámite y entender cómo avanzar con la herencia."
 whatsapp_message: "Hola, llegué desde la página de Quilino de Sucesiones Córdoba. Quiero consultar por una herencia. Mi localidad actual es ___. El último domicilio de la persona fallecida fue ___. El trámite está ___."
 whatsapp_cta_label: "Consultar por una sucesión"
-cta_title: "Coordinemos el primer paso"
-cta_copy: "Contanos dónde vivís, cuál fue el último domicilio de la persona fallecida y qué necesitás resolver. Te indicamos cómo continuar."
+cta_title: "Hablemos de tu sucesión en Quilino"
+cta_copy: "Contanos qué necesitás resolver. Revisamos tu situación y te explicamos cómo podemos encargarnos del trámite y qué incluiría el presupuesto."
 official_sources: [{"title": "Código Civil y Comercial — artículo 2336", "url": "https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion"}, {"title": "Poder Judicial de Córdoba — buscador de competencia territorial", "url": "https://www.justiciacordoba.gob.ar/mapajudicial/pages/default.aspx"}, {"title": "Poder Judicial — nómina de magistrados y órganos judiciales", "url": "https://www.justiciacordoba.gob.ar/Estatico/justiciaCordoba/files/Contenido/OficinasJudiciales/magistradosFuncionarios/N%C3%B3mina%20de%20magistrados%20y%20funcionarios%20judiciales.pdf"}, {"title": "Poder Judicial — listado de juzgados de paz (consultado el 11/09/2026)", "url": "https://www.justiciacordoba.gob.ar/Estatico/justiciaCordoba/files/Contenido/OficinasJudiciales/juecesPaz/Listado%20de%20jueces%20de%20paz.pdf"}]
-faq: [{"q": "¿Quilino y Villa Quilino tienen distinta sede judicial?", "a": "Los registros consultados del mapa judicial oficial remiten ambas localidades a Deán Funes, Novena Circunscripción. La competencia de cada caso se comprueba con el último domicilio del causante y sus antecedentes."}, {"q": "¿Tengo que viajar a Capital para entregar las partidas?", "a": "La revisión inicial se coordina a distancia. Si luego se requiere un original, certificación o presencia, acordamos previamente cómo cumplir ese paso."}]
+faq: [{"q": "¿Quilino y Villa Quilino tienen distinta sede judicial?", "a": "Ambas localidades remiten a Deán Funes en el mapa judicial oficial. Para confirmar dónde tramitar tu sucesión, revisamos dónde vivía la persona fallecida y si hay un expediente anterior."}, {"q": "¿Tengo que viajar a Capital para entregar las partidas?", "a": "Podemos comenzar revisando copias a distancia. Si después hace falta un original o una certificación, te explicamos cómo entregarlo o realizar esa gestión."}]
 ---
 
 ## Una consulta desde Quilino o Villa Quilino
 
-Podés plantear una herencia sin desplazarte primero a Deán Funes o Córdoba Capital. La entrevista, el relevamiento familiar y la revisión inicial de documentos se organizan online. Si una actuación requiere nuestra presencia, acordamos el traslado según el caso. **No contamos con un estudio local ni anunciamos visitas periódicas.**
+Podemos empezar la sucesión por una consulta online desde Quilino o Villa Quilino. Conversamos sobre tu familia, los bienes y los documentos que tenés, y te explicamos cómo avanzar. Si hace falta nuestra presencia, coordinamos el traslado con vos.
 
-La atención también alcanza a San José de las Salinas. Al escribirnos, indicá tu localidad actual y dónde vivía la persona fallecida: esos datos pueden ser diferentes.
+También atendemos consultas desde San José de las Salinas. Al escribirnos, contanos dónde vivís y dónde vivía la persona fallecida; esos lugares pueden ser distintos y nos ayudan a orientar el caso.
 
-## Quilino, Villa Quilino y la referencia judicial de Deán Funes
+## ¿Por qué Deán Funes es la referencia judicial de la zona?
 
-El mapa judicial oficial contiene registros separados para **Quilino y Villa Quilino, departamento Ischilín**. Ambos remiten a **Deán Funes, Novena Circunscripción**. San José de las Salinas, en el departamento Tulumba, tiene la misma referencia de sede.
+El mapa judicial oficial registra por separado **Quilino y Villa Quilino, en el departamento Ischilín**, pero ambas localidades remiten a **Deán Funes, Novena Circunscripción**. San José de las Salinas, que pertenece al departamento Tulumba, tiene la misma referencia judicial.
 
-La nómina judicial identifica el Juzgado de Primera Instancia en lo Civil, Comercial, Conciliación y Familia de Deán Funes. Antes de presentar el asunto, comprobamos la radicación concreta y si ya existe un proceso iniciado.
+Allí figura el Juzgado de Primera Instancia en lo Civil, Comercial, Conciliación y Familia. Para orientar la sucesión revisamos qué juzgado debe intervenir y si ya hay un expediente que corresponda continuar.
 
-La competencia sucesoria se vincula, como regla, con el último domicilio del causante. Fallecer en un hospital de otra ciudad no permite equiparar sin más ese lugar con su domicilio. Si hubo una mudanza, residencia alternada o antecedentes en el exterior, necesitamos revisarlos.
+Como regla general, se toma el último domicilio de la persona fallecida. Fallecer en un hospital de otra ciudad no significa que haya vivido allí. Si hubo mudanzas, más de un lugar de residencia o antecedentes en el exterior, contanos esos detalles.
 
-## Buscar una partida no siempre exige viajar a la sede judicial
+## Cómo reunir las partidas que faltan
 
-La localidad donde está registrado un nacimiento, matrimonio o fallecimiento puede ser distinta de la que corresponde al expediente. Para pedir una partida conviene identificar primero dónde se inscribió el hecho, la fecha aproximada y los datos disponibles.
+Una partida es el acta que acredita un nacimiento, matrimonio o fallecimiento. Puede estar registrada en una localidad distinta de donde tramita la sucesión. Por eso, antes de organizar un viaje, conviene averiguar dónde se inscribió, la fecha aproximada y qué datos tenés para pedirla.
 
-Podés empezar con un listado de familiares y los documentos que ya tenés. Después te indicamos qué falta, qué copias sirven para la evaluación y qué documentos necesitan otro tratamiento. Consultá [cómo obtener partidas para una sucesión](/partidas-para-sucesion-cordoba/) y el [checklist de documentación](/documentacion-sucesion-cordoba/).
+Podés empezar con un listado de familiares y los documentos que conservás. Te ayudamos a identificar lo que falta y te indicamos qué copias enviar para la primera revisión. Las guías de [partidas para una sucesión](/partidas-para-sucesion-cordoba/) y [documentación necesaria](/documentacion-sucesion-cordoba/) te orientan en esa búsqueda.
 
-En el primer mensaje alcanza con datos generales. El envío de copias y la eventual entrega de originales se coordinan después; no necesitás compartir claves de acceso a trámites digitales.
+Para escribirnos por primera vez alcanza con un resumen. Después coordinamos el envío de copias y, si hace falta algún original, te explicamos cómo entregarlo.
 
-## Juzgado de paz: cómo aparece en el directorio oficial
+## Dónde consultar si hace falta una certificación local
 
-El listado de jueces de paz consultado el 11/09/2026 remite **“Quilino” a “Villa Quilino”** y consigna el domicilio **Sarmiento 360, Quilino**. Informa además una secretaría con funciones de autenticación de firmas y diligenciamiento de notificaciones.
+En el listado oficial de jueces de paz consultado el 11/09/2026, la entrada **“Quilino” remite a “Villa Quilino”** y figura la dirección **Sarmiento 360, Quilino**. También informa que la secretaría realiza autenticación de firmas y notificaciones.
 
-Esta referencia sirve para ubicar una eventual actuación local, cuya necesidad y disponibilidad deben confirmarse antes. No reemplaza la comprobación del juzgado sucesorio de Deán Funes. Si necesitás una certificación, primero definimos qué documento se requiere y ante quién corresponde realizarla.
+Este dato puede servir si el caso requiere una gestión local, como certificar una firma. Antes de que te acerques, te explicamos qué documento se necesita y confirmamos dónde corresponde hacerlo. Esa gestión es distinta del expediente sucesorio, cuyo juzgado debemos verificar en Deán Funes. Podés consultar la fuente oficial enlazada al final para comprobar la atención actual.
 
 ## Si parte de la familia vive fuera de Quilino
 
-Podemos organizar la consulta con familiares que residan en otros lugares, identificar quién tiene cada documento y reunir los antecedentes de una sucesión ya iniciada. Si existe expediente, informá su número y el tribunal si los conocés.
+Si los herederos viven en otros lugares, podemos organizar la comunicación a distancia y reunir la información que tenga cada uno. Si ya hay una sucesión iniciada, contanos el número de expediente y el juzgado, si los conocés; eso nos ayuda a revisar qué falta.
 
-La [declaratoria](/declaratoria-de-herederos-cordoba/) y la [partición de los bienes](/particion-herencia-cordoba/) son etapas que conviene distinguir al definir el objetivo. También contamos con una guía para [herederos que viven en otra provincia](/sucesion-cordoba-desde-otra-provincia/).
+La [declaratoria de herederos](/declaratoria-de-herederos-cordoba/) reconoce quiénes heredan; la [partición](/particion-herencia-cordoba/) permite repartir los bienes. Saber qué querés lograr nos ayuda a definir la etapa que necesitás. También podés consultar la guía para [herederos que viven en otra provincia](/sucesion-cordoba-desde-otra-provincia/).
 
-## Presencia, honorarios y próximos pasos
+## Qué acordamos antes de avanzar
 
-Una firma, una certificación o una diligencia puede requerir intervención presencial. Evaluamos cómo resolverla y acordamos por anticipado cualquier desplazamiento, incluido su costo. El [presupuesto de una sucesión](/cuanto-cuesta-sucesion-cordoba/) debe precisar la etapa incluida y los gastos externos.
+Algunas firmas, certificaciones o gestiones pueden requerir presencia. Si es necesario, te explicamos cómo resolver ese paso y acordamos previamente cualquier traslado y su costo. El [presupuesto](/cuanto-cuesta-sucesion-cordoba/) aclara qué etapa incluye, los honorarios y los gastos que se pagan aparte.
 
-Para empezar, contanos si querés iniciar el trámite, avanzar después de una declaratoria o resolver un conflicto sobre los bienes. Ver [otras localidades cubiertas](/sucesiones-interior-cordoba/).
+Para empezar, contanos si querés iniciar la sucesión, avanzar después de una declaratoria o resolver un desacuerdo sobre los bienes. Podés conocer [cómo podemos ayudarte con el trámite](/abogado-sucesiones-cordoba/) y la [atención en otras localidades del interior](/sucesiones-interior-cordoba/).

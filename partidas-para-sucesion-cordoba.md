@@ -5,7 +5,7 @@ h1: "¿Cómo conseguir las partidas para una sucesión en Córdoba?"
 description: "Ayuda para localizar y solicitar partidas de nacimiento, matrimonio y defunción para una sucesión en Córdoba, incluso si faltan datos."
 primary_keyword: "partidas para sucesión en Córdoba"
 date: 2026-09-01
-last_modified_at: 2026-09-01
+last_modified_at: 2026-09-12
 schema_kind: Service
 show_toc: true
 image:
@@ -120,6 +120,8 @@ Se controla la coherencia de nombres, fechas, localidades y filiación. Cuando d
 
 Las actas se solicitan, en principio, al registro de la jurisdicción donde fueron inscriptas. Para hechos registrados en Córdoba existe el canal de Registro Civil Digital. Otras provincias se analizan conforme a sus sistemas y requisitos.
 
+Si vivís en un pueblo, podemos empezar revisando qué partida falta y dónde buscarla. Consultá la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/) para conocer la orientación local y cómo coordinar con nosotros.
+
 ### 4. Informar tasas y alcance
 
 Antes de iniciar una gestión paga se explica qué documento se pedirá, qué datos se usarán y qué gasto de tercero genera. No se garantiza la emisión si el acta no puede individualizarse o no se encuentra en el registro consultado.
@@ -182,7 +184,3 @@ Este servicio puede contratarse por separado. También puede integrarse al armad
 👉 **[Consultar por WhatsApp]({{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }})**
 👉 **[Solicitar una evaluación profesional](/abogado-sucesiones-cordoba/)**  
 👉 **[Formulario de contacto](/contacto/)**
-
-
-Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
-

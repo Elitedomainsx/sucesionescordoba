@@ -8,7 +8,7 @@ description: "Cómo se calculan los honorarios y gastos de una sucesión en Cór
 primary_keyword: "cuánto cuesta una sucesión en Córdoba"
 page_topic: "costos_sucesion"
 date: 2026-03-02
-last_modified_at: 2026-09-02
+last_modified_at: 2026-09-12
 schema_kind: Article
 show_toc: true
 image:
@@ -91,6 +91,8 @@ No requiere el mismo trabajo una sucesión sin bienes registrables que otra con 
 ### Cantidad y ubicación de los herederos
 
 Más personas pueden implicar más documentación, comunicaciones, firmas y coordinación. Si un heredero vive en otra jurisdicción o se desconoce su domicilio, pueden aparecer gestiones específicas.
+
+Si consultás desde un pueblo, la primera evaluación puede hacerse online. En la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/) explicamos cómo coordinar el trabajo; cualquier traslado necesario y sus gastos se acuerdan previamente.
 
 ### Documentación disponible
 
@@ -186,4 +188,3 @@ La alternativa aparentemente más barata no siempre es la más eficiente. Por ej
 Para ubicar la etapa completa, consultá **[qué sigue después de la declaratoria de herederos](/despues-declaratoria-herederos/)**.
 
 > **Información jurídica general:** esta página es orientativa. Los honorarios se determinan dentro del marco normativo aplicable y según el trabajo concreto; los gastos dependen de cada expediente y de los organismos intervinientes. No se prometen precios finales, resultados ni plazos sin evaluación previa.
-

@@ -5,7 +5,7 @@ h1: "Declaratoria de herederos en Córdoba: qué es y cómo se tramita"
 description: "Qué es la declaratoria o declaración de herederos, cómo se tramita en Córdoba, qué documentación se necesita y qué ocurre después."
 primary_keyword: "declaratoria de herederos en Córdoba"
 date: 2026-03-01
-last_modified_at: 2026-08-30
+last_modified_at: 2026-09-12
 schema_kind: Article
 show_toc: true
 image:
@@ -140,6 +140,8 @@ Puede variar el circuito según la sede:
 
 La competencia debe analizarse principalmente a partir del **último domicilio del causante** y de las reglas procesales aplicables.
 
+Si vivís en un pueblo, podés empezar la consulta online. Revisá la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/) para conocer la orientación por localidad y cómo podemos ayudarte con la declaratoria.
+
 Si uno o varios herederos viven fuera de Argentina, mirá cómo se organizan **[documentos extranjeros, poderes y coordinación remota de la sucesión](/sucesion-cordoba-desde-el-exterior/)**.
 
 > **Disclaimer:** la práctica puede variar según el tribunal, la sede, el tipo de bien involucrado y si el caso es simple o conflictivo. La estrategia correcta depende de esos datos.
@@ -178,9 +180,3 @@ Si querés una orientación inicial sobre tu situación, podés escribir sin env
 Atención: Córdoba Capital e interior – modalidad presencial y online.  
 Más info: **[Sobre nosotros](/sobre-nosotros/)**  
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
-
-
-
-
-Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
-
