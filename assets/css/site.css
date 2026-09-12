@@ -1006,3 +1006,22 @@ header.masthead{
   .floating-whatsapp{transition:none;}
 }
 
+
+/* Social profiles and short video explanations */
+.social-icon { width:24px; height:24px; flex:0 0 24px; }
+.social-icon--instagram { color:#b52b79; }
+.social-icon--facebook { color:#1877f2; }
+.social-link { display:inline-flex; align-items:center; gap:.5rem; min-height:44px; padding:.4rem .8rem; margin:.2rem .35rem .2rem 0; border:1px solid #dce3eb; border-radius:999px; background:#f8fafc; color:#183650; font-weight:600; text-decoration:none; vertical-align:middle; }
+.social-link:hover { background:#edf2f8; border-color:#9cacc0; color:#0b2a4a; }
+.social-link:focus-visible, .social-reel-link:focus-visible { outline:3px solid #d09a28; outline-offset:3px; }
+.site-footer .social-link { background:rgba(255,255,255,.06); border-color:rgba(255,255,255,.25); color:#fff; }
+.site-footer .social-link:hover { background:rgba(255,255,255,.14); border-color:rgba(255,255,255,.6); }
+.site-footer .social-icon--instagram { color:#f5a4d1; }
+.site-footer .social-icon--facebook { color:#8abaff; }
+.social-reel-card { background:#fff; box-shadow:0 .3rem 1rem rgba(11,42,74,.06); }
+.social-reel-label { display:flex; align-items:center; gap:.5rem; margin-bottom:1rem; color:#92517a; font-size:.85rem; font-weight:600; }
+.social-reel-label .social-icon { width:20px; height:20px; flex-basis:20px; }
+.social-reel-link { display:inline-flex; align-items:center; gap:.55rem; min-height:44px; }
+.social-reel-link .social-icon { align-self:center; }
+.btn.social-reel-link .social-icon { color:currentColor; }
+@media (max-width:575.98px) { .social-reel-link { max-width:100%; } .social-reel-link span { overflow-wrap:anywhere; } }
