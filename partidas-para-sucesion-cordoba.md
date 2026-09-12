@@ -182,3 +182,7 @@ Este servicio puede contratarse por separado. También puede integrarse al armad
 👉 **[Consultar por WhatsApp]({{ site.contact.whatsapp_url }}?text={{ page.whatsapp_message | url_encode }})**
 👉 **[Solicitar una evaluación profesional](/abogado-sucesiones-cordoba/)**  
 👉 **[Formulario de contacto](/contacto/)**
+
+
+Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
+

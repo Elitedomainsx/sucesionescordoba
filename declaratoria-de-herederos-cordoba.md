@@ -180,3 +180,7 @@ Más info: **[Sobre nosotros](/sobre-nosotros/)**
 Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**
 
 
+
+
+Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
+

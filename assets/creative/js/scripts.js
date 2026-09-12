@@ -94,6 +94,8 @@
     cta.addEventListener('click', () => {
       const eventParameters = {
         page_topic: document.body.dataset.pageTopic || 'general',
+        page_locality: document.body.dataset.pageLocality || 'provincial',
+        page_zone: document.body.dataset.pageZone || 'cordoba',
         cta_position: cta.dataset.ctaLocation || 'unknown',
         cta_text: cta.textContent.trim(),
         page_path: window.location.pathname,

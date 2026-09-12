@@ -197,6 +197,15 @@ image:
   </div>
 </section>
 
+<section class="page-section" id="interior">
+  <div class="container px-4 px-lg-5">
+    <h2>¿Vivís en un pueblo del interior de Córdoba?</h2>
+    <p>Podemos iniciar la consulta online desde tu localidad. Si el caso requiere un traslado profesional, lo coordinamos previamente.</p>
+    <p>Encontrá orientación específica para Serrezuela, San Carlos Minas, Quilino, Sebastián Elcano y su cobertura cercana.</p>
+    <a class="btn btn-outline-primary" href="/sucesiones-interior-cordoba/">Ver atención en el interior</a>
+  </div>
+</section>
+
 <!-- Professional trust -->
 <section class="page-section bg-light" id="equipo">
   <div class="container px-4 px-lg-5">

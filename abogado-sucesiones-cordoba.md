@@ -8,7 +8,7 @@ description: "Abogados de sucesiones en Córdoba Capital e interior. Evaluamos h
 primary_keyword: "abogado de sucesiones en Córdoba"
 page_topic: "abogado_sucesiones"
 date: 2026-03-05
-last_modified_at: 2026-09-02
+last_modified_at: 2026-09-12
 schema_kind: Service
 show_toc: true
 image:
@@ -154,6 +154,10 @@ La estrategia cambia cuando un heredero no participa, se opone a una venta, ocup
 ---
 
 ## Atención en Córdoba Capital e interior
+
+Si consultás desde un pueblo, podés revisar la [atención de sucesiones en el interior de Córdoba](/sucesiones-interior-cordoba/), con orientación por localidad y coordinación online.
+
+
 
 La competencia sucesoria se determina, como regla general, a partir del último domicilio de la persona fallecida.
 
