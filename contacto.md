@@ -53,6 +53,12 @@ Escribinos a: **[{{ site.contact.email }}]({{ site.contact.email_url }})**
 Se puede coordinar atención para **Córdoba Capital** y también para el **interior de la provincia**.  
 Cuando el caso lo permite, gran parte de la organización inicial puede trabajarse a distancia, con claridad sobre eventuales pasos presenciales.
 
+## Conocenos en nuestras redes
+
+Podés encontrarnos en {% include social-links.html location="contact-body" %}. Compartimos explicaciones breves sobre herencias y dudas habituales. También reunimos [algunos de nuestros reels con sus guías](/sobre-nosotros/#videos) para que elijas el tema que necesitás entender.
+
+Para conversar sobre tu caso y coordinar una consulta, escribinos por WhatsApp o email desde los botones de esta página.
+
 ## Política de privacidad (resumen)
 
 Solo pedimos datos mínimos para coordinar una entrevista: nombre, teléfono o email, y ciudad.  

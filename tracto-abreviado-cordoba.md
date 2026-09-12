@@ -51,6 +51,8 @@ En una sucesión, el ejemplo más conocido es la venta de un inmueble todavía r
 
 Esto simplifica la **cadena registral**, pero no borra los pasos jurídicos anteriores. La [sucesión en Córdoba](/sucesiones-cordoba/) sigue siendo la base para determinar quiénes pueden intervenir y con qué alcance.
 
+{% include social-reel-callout.html reel="vender" %}
+
 ## Declaratoria, partición y tracto abreviado: tres cuestiones distintas
 
 Conviene separar conceptos que suelen confundirse:

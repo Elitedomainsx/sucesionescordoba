@@ -113,6 +113,28 @@
     });
   });
 
+  document.querySelectorAll('[data-social-channel]').forEach((link) => {
+    link.addEventListener('click', () => {
+      const eventParameters = {
+        social_network: link.dataset.socialChannel,
+        content_type: link.dataset.socialKind || 'profile',
+        content_topic: link.dataset.socialContent || 'profile',
+        cta_position: link.dataset.socialLocation || 'unknown',
+        page_topic: document.body.dataset.pageTopic || 'general',
+        page_locality: document.body.dataset.pageLocality || 'provincial',
+        page_zone: document.body.dataset.pageZone || 'cordoba',
+        page_path: window.location.pathname
+      };
+      if (typeof window.gtag === 'function') {
+        window.gtag('event', 'social_click', eventParameters);
+      } else {
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ event: 'social_click', ...eventParameters });
+      }
+      window.dispatchEvent(new CustomEvent('social_click', { detail: eventParameters }));
+    });
+  });
+
   navbarShrink();
   document.addEventListener('scroll', navbarShrink, { passive: true });
 })();

@@ -56,6 +56,8 @@ Este relevamiento puede contratarse como servicio independiente. Si después hac
 
 > **Alcance:** esta orientación se refiere a bienes y registros vinculados con la Provincia de Córdoba. No se garantiza la localización de todo el patrimonio ni el acceso a información reservada. Cada informe o medida se evalúa según los datos, el interés invocado y las reglas aplicables.
 
+{% include social-reel-callout.html reel="bienes" %}
+
 ## Cómo se organiza una búsqueda progresiva
 
 ### 1. Reunir los datos de partida

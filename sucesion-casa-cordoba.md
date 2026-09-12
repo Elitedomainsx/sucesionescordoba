@@ -141,6 +141,8 @@ Conviene documentar:
 
 Cuando la ocupación se combina con desacuerdo sobre la venta, revisá **[qué opciones existen si un heredero no quiere vender](/heredero-no-quiere-vender/)**.
 
+{% include social-reel-callout.html reel="vivienda" %}
+
 ## Documentación útil para analizar la casa
 
 - Escritura, título o antecedente de adquisición.

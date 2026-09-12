@@ -1,0 +1,14 @@
+{%- assign reel_keys = include.keys | default: 'comenzar,vender,vivienda,bienes' | split: ',' -%}
+<div class="row g-4">
+  {% for key in reel_keys %}
+  {% assign reel = site.data.social.reels[key] %}
+  <div class="col-md-6">
+    <div class="border rounded-3 p-4 h-100 bg-light">
+      <h3 class="h5">{{ reel.title }}</h3>
+      <p class="text-muted">{{ reel.summary }}</p>
+      <p><a class="btn btn-outline-primary" href="{{ reel.url }}" target="_blank" rel="noopener noreferrer" aria-label="Ver reel en Instagram: {{ reel.title }} — se abre en una pestaña nueva" data-social-channel="instagram" data-social-kind="reel" data-social-location="{{ include.location | default: 'body' }}" data-social-content="{{ key }}">Ver reel en Instagram</a></p>
+      <a href="{{ reel.guide_url }}">{{ reel.guide_label }}</a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

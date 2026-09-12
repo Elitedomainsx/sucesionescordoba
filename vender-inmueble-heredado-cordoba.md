@@ -88,6 +88,8 @@ En ciertos supuestos puede instrumentarse la transmisión al comprador sin una i
 
 No significa “vender sin sucesión” ni evita acreditar quiénes intervienen. La página **[tracto abreviado en Córdoba](/tracto-abreviado-cordoba/)** explica sus requisitos y límites técnicos.
 
+{% include social-reel-callout.html reel="vender" %}
+
 ## Quiénes deben estar de acuerdo
 
 Para vender el inmueble completo deben intervenir todas las personas cuya conformidad y firma resulten necesarias según el título, la sucesión y la operación. Haber iniciado el expediente, ocupar la casa o pagar impuestos no convierte a un coheredero en dueño exclusivo.

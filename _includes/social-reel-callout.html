@@ -1,0 +1,6 @@
+{% assign reel = site.data.social.reels[include.reel] %}
+<div class="border rounded-3 p-4 my-4 bg-light">
+  <p class="fw-semibold mb-2">¿Preferís una explicación en video?</p>
+  <p>{{ reel.summary }}</p>
+  <a href="{{ reel.url }}" target="_blank" rel="noopener noreferrer" aria-label="Ver reel en Instagram: {{ reel.title }} — se abre en una pestaña nueva" data-social-channel="instagram" data-social-kind="reel" data-social-location="guide" data-social-content="{{ include.reel }}">Ver nuestro reel: {{ reel.title }}</a>
+</div>

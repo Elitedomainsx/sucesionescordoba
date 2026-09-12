@@ -166,6 +166,8 @@ Si uno o varios herederos viven fuera de Argentina, mirá cómo se organizan **[
 
 ---
 
+{% include social-reel-callout.html reel="comenzar" %}
+
 ## Consultá tu caso (evaluación inicial)
 Si querés una orientación inicial sobre tu situación, podés escribir sin enviar documentación sensible en esta primera etapa.
 

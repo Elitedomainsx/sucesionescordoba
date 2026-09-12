@@ -28,6 +28,7 @@
       },
       "telephone": {{ site.contact.phone_tel | jsonify }},
       "email": {{ site.contact.email | jsonify }},
+      "sameAs": {{ site.data.social.profiles | map: 'url' | jsonify }},
       "areaServed": {
         "@type": "AdministrativeArea",
         "name": "Provincia de Córdoba, Argentina"

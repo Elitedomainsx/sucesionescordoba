@@ -114,6 +114,14 @@ En una consulta breve (orientativa) buscamos:
 
 ---
 
+<h2 id="videos">Conocenos también en video</h2>
+
+En nuestras redes compartimos explicaciones breves sobre dudas que aparecen al heredar. Podés ver cómo abordamos estos temas y seguir leyendo la guía que se relacione con tu situación.
+
+{% include social-reels.html location="about-videos" %}
+
+Seguinos en {% include social-links.html location="about-videos" %}. Si querés saber cómo podemos ayudarte con tu herencia, [escribinos para conversar sobre tu caso](/contacto/).
+
 ## Links útiles
 - Guía principal: [Declaratoria de herederos en Córdoba](/declaratoria-de-herederos-cordoba/)
 - Checklist: [Documentación para sucesión en Córdoba](/documentacion-sucesion-cordoba/)

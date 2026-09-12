@@ -14,6 +14,7 @@
         </div>
       </div>
       <div class="col-md-5 text-md-end">
+        <div class="small mb-2">{% include social-links.html link_class="link-light" location="footer" %}</div>
         {% if page.lang == nil or page.lang == 'es-AR' %}<a class="link-light small" href="/sucesiones-interior-cordoba/">Atención en el interior de Córdoba</a><br>{% endif %}
         <a class="link-light small" href="{% if page.translation_key %}{{ page.url }}{% else %}/sucesion-cordoba-desde-el-exterior/{% endif %}">{{ t.footer_exterior }}</a><br>
         <a class="link-light small" href="/politica-de-privacidad/">{{ t.footer_privacy }}</a><br>

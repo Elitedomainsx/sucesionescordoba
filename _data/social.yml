@@ -1,0 +1,33 @@
+profiles:
+  - name: Instagram
+    channel: instagram
+    url: "https://www.instagram.com/sucesionescordoba/"
+  - name: Facebook
+    channel: facebook
+    url: "https://www.facebook.com/people/Sucesiones-C%C3%B3rdoba/61572257741053/"
+
+reels:
+  comenzar:
+    title: "¿Heredaste y no sabés por dónde empezar?"
+    summary: "Te contamos para qué sirve la declaratoria y cómo se relaciona con los pasos para poner los bienes a nombre de los herederos."
+    url: "https://www.instagram.com/reel/DYTCIHRpcaj/"
+    guide_url: "/declaratoria-de-herederos-cordoba/"
+    guide_label: "Leer la guía sobre declaratoria"
+  vender:
+    title: "¿Querés vender una casa heredada?"
+    summary: "Explicamos qué es el tracto abreviado y por qué conviene revisar la documentación antes de elegir cómo hacer la venta."
+    url: "https://www.instagram.com/reel/DYnnyFoJDSO/"
+    guide_url: "/tracto-abreviado-cordoba/"
+    guide_label: "Entender el tracto abreviado"
+  vivienda:
+    title: "¿Un heredero vive solo en la casa?"
+    summary: "Conversamos sobre el uso de la vivienda heredada y qué situaciones conviene revisar si los demás herederos quieren reclamar una compensación."
+    url: "https://www.instagram.com/reel/DYilRZWJtwi/"
+    guide_url: "/sucesion-casa-cordoba/#uso-exclusivo-de-la-vivienda"
+    guide_label: "Leer sobre el uso de la casa heredada"
+  bienes:
+    title: "¿Hay bienes de la herencia que no aparecen?"
+    summary: "Te orientamos sobre cómo ordenar la información disponible y por qué es mejor reunir datos antes de actuar ante una sospecha."
+    url: "https://www.instagram.com/reel/DY-w6JApvDm/"
+    guide_url: "/averiguar-bienes-persona-fallecida-cordoba/"
+    guide_label: "Ver cómo averiguar los bienes"

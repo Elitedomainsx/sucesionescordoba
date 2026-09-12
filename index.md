@@ -206,6 +206,15 @@ image:
   </div>
 </section>
 
+<section class="page-section" id="videos">
+  <div class="container px-4 px-lg-5">
+    <h2>Te lo explicamos también en video</h2>
+    <p>Si estás dando tus primeros pasos con una herencia, estos reels pueden ayudarte a entender el trámite y conocernos antes de consultar.</p>
+    {% include social-reels.html keys="comenzar,vender" location="home-videos" %}
+    <p class="mt-4">Encontrá más explicaciones en <a href="/sobre-nosotros/#videos">nuestros videos sobre herencias</a> o seguinos en {% include social-links.html location="home-videos" %}.</p>
+  </div>
+</section>
+
 <!-- Professional trust -->
 <section class="page-section bg-light" id="equipo">
   <div class="container px-4 px-lg-5">

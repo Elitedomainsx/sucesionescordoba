@@ -1,0 +1,4 @@
+{%- assign social_t = site.data.i18n[page.lang] | default: site.data.i18n['es-AR'] -%}
+{%- for profile in site.data.social.profiles -%}
+{% unless forloop.first %} · {% endunless %}<a class="{{ include.link_class | default: '' }}" href="{{ profile.url }}" target="_blank" rel="noopener noreferrer" aria-label="Sucesiones Córdoba en {{ profile.name }} — {{ social_t.opens_new_window }}" data-social-channel="{{ profile.channel }}" data-social-kind="profile" data-social-location="{{ include.location | default: 'body' }}">{{ profile.name }}</a>
+{%- endfor -%}

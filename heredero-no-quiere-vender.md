@@ -104,6 +104,8 @@ La ocupación debe analizarse con precisión. Conviene reunir la fecha y motivo 
 
 No es prudente afirmar automáticamente que se debe un alquiler desde el fallecimiento ni que nunca corresponde compensación. Las comunicaciones y circunstancias concretas son relevantes.
 
+{% include social-reel-callout.html reel="vivienda" %}
+
 ## Gastos, mejoras y rendición de cuentas
 
 Quien pagó conceptos vinculados con el inmueble debería conservar comprobantes. Hay que diferenciar gastos necesarios, impuestos, consumos personales, mejoras e ingresos por alquiler u otros frutos.
