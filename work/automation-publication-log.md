@@ -35,3 +35,14 @@ Este archivo corresponde únicamente a sucesionescordoba.com.ar.
 - **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ .
 - **Publicación:** commit `998e2bd3d78cdeed69123cf09162135f4a5c0972` en main. GitHub Pages publicó la revisión; URL pública comprobada con HTTP 200, nueva sección visible y anterior sección eliminada.
 - **Próxima oportunidad:** mantener el contenido de edictos enfocado en nuevas consultas, sin dirigirse a trámites patrocinados por colegas.
+
+## 2026-09-29 — Ampliación y aclaración de la página de edictos
+
+- **URL:** https://sucesionescordoba.com.ar/edictos-declaratoria-herederos-cordoba/
+- **Keyword / clúster:** edictos de declaratoria de herederos en Córdoba / publicación hallada por un familiar.
+- **Intención:** comprender para qué se publica el aviso, qué datos guardar y cuándo consultar por el propio derecho.
+- **Acción:** reescritura de la URL existente a partir de la observación editorial del usuario. El cuerpo creció de unas 350 a 542 palabras: incorpora un ejemplo sencillo, los datos útiles del edicto, la consulta por vínculo y una explicación continua del paso posterior. Se reformularon resumen y preguntas frecuentes para que no repitan la diferencia entre edicto y declaratoria. Se mantiene el enfoque en nuevas consultas, sin referencia a abogados que ya llevan otros expedientes.
+- **Fuente legal verificada el 2026-09-29:** Código Civil y Comercial, art. 2340, https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion . También figura como fuente institucional el Poder Judicial de Córdoba, https://www.justiciacordoba.gob.ar/justiciacordoba/inicio/indexDetalle.aspx?codNovedad=33367 . Los datos SEO y fechas de extracción constan en la entrada original.
+- **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ .
+- **Publicación:** commit `48491d918e94e25c590ac2ba872c15227ba8c191` en main; comprobar despliegue público de GitHub Pages.
+- **Próxima oportunidad:** medir consultas reales y mejorar preguntas frecuentes sólo si surgen dudas recurrentes.
