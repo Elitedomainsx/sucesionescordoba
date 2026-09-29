@@ -1,7 +1,7 @@
 # Calendario comercial SEO — Sucesiones Córdoba
 
-Periodo: 28 de septiembre al 19 de noviembre de 2026  
-Cadencia: lunes y jueves, 05:00 (America/Argentina/Cordoba)  
+Periodo: 29 de septiembre al 20 de noviembre de 2026  
+Cadencia: martes 07:00 y viernes 05:00 (America/Argentina/Cordoba)  
 Fuentes: Search Console (28/90/480 días) + Ubersuggest Argentina, español, extraído 2026-09-24.
 
 ## Criterio de prioridad
@@ -24,22 +24,22 @@ Fuentes: Search Console (28/90/480 días) + Ubersuggest Argentina, español, ext
 
 | Fecha | Página propuesta | Keyword/intención principal | Señal |
 |---|---|---|---|
-| 2026-09-28 | Edictos en una sucesión: publicación y Boletín Oficial de Córdoba | edictos declaratoria herederos Córdoba | Ubersuggest: vol. 210, SD 16 |
-| 2026-10-01 | Inscripción de la declaratoria: cuándo hace falta y qué no resuelve por sí sola | inscripción declaratoria herederos | Ubersuggest: vol. 170, SD 12 |
-| 2026-10-05 | Cuándo queda firme una declaratoria de herederos | declaratoria de herederos firme | Autocomplete |
-| 2026-10-08 | ¿La declaratoria de herederos vence? | declaratoria tiene vencimiento | Ubersuggest: vol. 210, SD 6 |
-| 2026-10-12 | Renunciar a una herencia en Córdoba: efectos y documentación | renuncia de herencia Córdoba | Comercial/decisión |
-| 2026-10-15 | Aceptar una herencia con deudas: qué conviene revisar | herencia con deudas Argentina | Comercial/riesgo |
-| 2026-10-19 | Qué ocurre si un heredero fallece durante la sucesión | heredero fallecido durante sucesión | Long tail detectada |
-| 2026-10-22 | Herencia del cónyuge: bienes propios y gananciales | cónyuge hereda bienes gananciales | Comercial |
-| 2026-10-26 | ¿El conviviente hereda en Argentina? | conviviente hereda | Alta intención |
-| 2026-10-29 | Cuándo heredan los nietos por representación | nietos heredan representación | Informacional con consulta |
-| 2026-11-02 | Heredero ausente o imposible de localizar | heredero ausente sucesión | Problema comercial |
-| 2026-11-05 | Administrador de la sucesión: funciones y rendición de cuentas | administrador sucesión | Comercial/conflicto |
-| 2026-11-09 | Alquilar un inmueble heredado antes de terminar la sucesión | alquilar propiedad sin declaratoria | Ubersuggest: vol. 90, SD 11 |
-| 2026-11-12 | Boleto de compraventa sobre un inmueble de la herencia | vender inmueble sucesión boleto | Comercial/transaccional |
-| 2026-11-16 | Donaciones hechas en vida: colación y legítima hereditaria | donaciones en vida herencia legítima | Comercial/conflicto |
-| 2026-11-19 | Usufructo y herencia: qué recibe cada persona | usufructo en sucesión | Comercial/patrimonial |
+| 2026-09-29 | [Edictos en una sucesión: publicación y Boletín Oficial de Córdoba](https://sucesionescordoba.com.ar/edictos-declaratoria-herederos-cordoba/) — publicado | edictos declaratoria herederos Córdoba | GSC + Ubersuggest: vol. 210, SD 16 (24/09) |
+| 2026-10-02 | Inscripción de la declaratoria: cuándo hace falta y qué no resuelve por sí sola | inscripción declaratoria herederos | Ubersuggest: vol. 170, SD 12 |
+| 2026-10-06 | Cuándo queda firme una declaratoria de herederos | declaratoria de herederos firme | Autocomplete |
+| 2026-10-09 | ¿La declaratoria de herederos vence? | declaratoria tiene vencimiento | Ubersuggest: vol. 210, SD 6 |
+| 2026-10-13 | Renunciar a una herencia en Córdoba: efectos y documentación | renuncia de herencia Córdoba | Comercial/decisión |
+| 2026-10-16 | Aceptar una herencia con deudas: qué conviene revisar | herencia con deudas Argentina | Comercial/riesgo |
+| 2026-10-20 | Qué ocurre si un heredero fallece durante la sucesión | heredero fallecido durante sucesión | Long tail detectada |
+| 2026-10-23 | Herencia del cónyuge: bienes propios y gananciales | cónyuge hereda bienes gananciales | Comercial |
+| 2026-10-27 | ¿El conviviente hereda en Argentina? | conviviente hereda | Alta intención |
+| 2026-10-30 | Cuándo heredan los nietos por representación | nietos heredan representación | Informacional con consulta |
+| 2026-11-03 | Heredero ausente o imposible de localizar | heredero ausente sucesión | Problema comercial |
+| 2026-11-06 | Administrador de la sucesión: funciones y rendición de cuentas | administrador sucesión | Comercial/conflicto |
+| 2026-11-10 | Alquilar un inmueble heredado antes de terminar la sucesión | alquilar propiedad sin declaratoria | Ubersuggest: vol. 90, SD 11 |
+| 2026-11-13 | Boleto de compraventa sobre un inmueble de la herencia | vender inmueble sucesión boleto | Comercial/transaccional |
+| 2026-11-17 | Donaciones hechas en vida: colación y legítima hereditaria | donaciones en vida herencia legítima | Comercial/conflicto |
+| 2026-11-20 | Usufructo y herencia: qué recibe cada persona | usufructo en sucesión | Comercial/patrimonial |
 
 ## Reglas editoriales
 
