@@ -13,3 +13,14 @@ Este archivo corresponde únicamente a sucesionescordoba.com.ar.
 - **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ ; https://sucesionescordoba.com.ar/contacto/ .
 - **Publicación:** commit `72da28f07187ce14396deff0f8a9df7f9aab4b15`. GitHub Pages/Jekyll publicó correctamente. URL comprobada con HTTP 200; title, meta description, H1 único, canonical, FAQPage, WhatsApp y enlaces internos presentes. La URL también figura en sitemap.xml.
 - **Próxima oportunidad sugerida:** 2026-10-02, inscripción de la declaratoria: cuándo hace falta y qué no resuelve por sí sola. Evitar repetir “qué sigue” y concentrarse en la decisión de inscribir, adjudicar o vender.
+
+## 2026-09-29 — Revisión de claridad de la página de edictos
+
+- **URL:** https://sucesionescordoba.com.ar/edictos-declaratoria-herederos-cordoba/
+- **Keyword / clúster:** edictos de declaratoria de herederos en Córdoba / consulta de una citación sucesoria.
+- **Intención:** entender en lenguaje sencillo qué significa el edicto y decidir si conviene consultar por un expediente familiar.
+- **Acción:** reescritura sustancial de la URL existente tras la revisión editorial. Se redujo el archivo de 1.497 a 811 palabras (incluidos metadatos), se organizó en tres secciones y tres preguntas frecuentes, se adelantó el CTA de consulta y se unificó el hilo narrativo. Se conservó la URL y su intención específica para evitar canibalización.
+- **Fuentes verificadas el 2026-09-29:** Código Civil y Comercial, art. 2340, https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion ; Poder Judicial de Córdoba, Oficina de Procesos Sucesorios, https://www.justiciacordoba.gob.ar/justiciacordoba/inicio/indexDetalle.aspx?codNovedad=33367 . Los datos de Search Console y Ubersuggest usados para elegir la intención constan en la entrada anterior, con sus fechas y tamaño de muestra.
+- **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ ; https://sucesionescordoba.com.ar/contacto/ .
+- **Publicación:** commit `e4e27841d57fe274ae2a14d0406d7542269f20ea`. GitHub Pages/Jekyll publicado y URL comprobada con HTTP 200. Title, meta description, H1 único, canonical, datos FAQ, enlace a WhatsApp, enlaces internos y sitemap comprobados en la versión pública.
+- **Próxima oportunidad sugerida:** mantener la siguiente entrega sobre inscripción de la declaratoria; revisar la respuesta real de consultas antes de ampliar más la página de edictos.
