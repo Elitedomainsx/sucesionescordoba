@@ -42,7 +42,7 @@ Cuando se inicia una sucesión, el tribunal necesita dar a conocer el trámite p
 
 Por ejemplo, si se tramita la sucesión de una persona fallecida y aparece su nombre en un edicto, alguien que se considera heredero puede conocer la existencia del expediente y consultar cómo acreditar su vínculo. Después, con la documentación y los pasos del proceso, el tribunal decide sobre la declaratoria de herederos.
 
-El [Código Civil y Comercial, en su artículo 2340](https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion), prevé la publicación por un día en el diario de publicaciones oficiales y un plazo de treinta días para que quienes se consideren con derecho lo acrediten. Las personas identificadas como herederas en el expediente deben ser notificadas; la publicación no sustituye esa notificación.
+El [Código Civil y Comercial, en su artículo 2340](https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion) prevé la publicación por un día en el diario de publicaciones oficiales y un plazo de treinta días para que quienes se consideren con derecho lo acrediten. Las personas identificadas como herederas en el expediente deben ser notificadas; la publicación no sustituye esa notificación.
 
 ## ¿Qué datos conviene mirar en la publicación?
 
