@@ -24,3 +24,14 @@ Este archivo corresponde únicamente a sucesionescordoba.com.ar.
 - **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ ; https://sucesionescordoba.com.ar/contacto/ .
 - **Publicación:** commit `e4e27841d57fe274ae2a14d0406d7542269f20ea`. GitHub Pages/Jekyll publicado y URL comprobada con HTTP 200. Title, meta description, H1 único, canonical, datos FAQ, enlace a WhatsApp, enlaces internos y sitemap comprobados en la versión pública.
 - **Próxima oportunidad sugerida:** mantener la siguiente entrega sobre inscripción de la declaratoria; revisar la respuesta real de consultas antes de ampliar más la página de edictos.
+
+## 2026-09-29 — Ajuste de enfoque de la página de edictos
+
+- **URL:** https://sucesionescordoba.com.ar/edictos-declaratoria-herederos-cordoba/
+- **Keyword / clúster:** edictos de declaratoria de herederos en Córdoba / persona que encuentra una publicación familiar.
+- **Intención:** entender el edicto y consultar si corresponde presentarse a la sucesión.
+- **Acción:** eliminada la sección dirigida a quien ya inició un expediente y percibe que no avanza, junto con las invitaciones a revisar el trabajo pendiente. La página se centra en quien encontró el edicto: significado, datos a guardar, consulta sobre su eventual derecho y etapa posterior. CTA y mensaje de WhatsApp alineados con ese caso, sin alusiones al profesional que lleva otra sucesión.
+- **Fuentes:** artículo 2340 del Código Civil y Comercial, https://www.argentina.gob.ar/normativa/nacional/ley-26994-235975/actualizacion ; Poder Judicial de Córdoba, https://www.justiciacordoba.gob.ar/justiciacordoba/inicio/indexDetalle.aspx?codNovedad=33367 . Datos de Search Console y Ubersuggest con fechas en la primera entrada de esta página.
+- **Enlaces internos:** https://sucesionescordoba.com.ar/declaratoria-de-herederos-cordoba/ ; https://sucesionescordoba.com.ar/despues-declaratoria-herederos/ .
+- **Publicación:** commit `998e2bd3d78cdeed69123cf09162135f4a5c0972` en main. Verificación pública pendiente al registrar; comprobar tras la actualización de GitHub Pages.
+- **Próxima oportunidad:** mantener el contenido de edictos enfocado en nuevas consultas, sin dirigirse a trámites patrocinados por colegas.
