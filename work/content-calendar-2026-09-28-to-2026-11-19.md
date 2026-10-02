@@ -25,7 +25,7 @@ Fuentes: Search Console (28/90/480 días) + Ubersuggest Argentina, español, ext
 | Fecha | Página propuesta | Keyword/intención principal | Señal |
 |---|---|---|---|
 | 2026-09-29 | [Edictos en una sucesión: publicación y Boletín Oficial de Córdoba](https://sucesionescordoba.com.ar/edictos-declaratoria-herederos-cordoba/) — publicado | edictos declaratoria herederos Córdoba | GSC + Ubersuggest: vol. 210, SD 16 (24/09) |
-| 2026-10-02 | Inscripción de la declaratoria: cuándo hace falta y qué no resuelve por sí sola | inscripción declaratoria herederos | Ubersuggest: vol. 170, SD 12 |
+| 2026-10-02 | [Inscripción de la declaratoria de herederos en Córdoba](https://sucesionescordoba.com.ar/inscripcion-declaratoria-herederos-cordoba/) — publicado | inscripción declaratoria herederos | Ubersuggest: vol. 170, SD 13 (consulta 02/10) |
 | 2026-10-06 | Cuándo queda firme una declaratoria de herederos | declaratoria de herederos firme | Autocomplete |
 | 2026-10-09 | ¿La declaratoria de herederos vence? | declaratoria tiene vencimiento | Ubersuggest: vol. 210, SD 6 |
 | 2026-10-13 | Renunciar a una herencia en Córdoba: efectos y documentación | renuncia de herencia Córdoba | Comercial/decisión |
