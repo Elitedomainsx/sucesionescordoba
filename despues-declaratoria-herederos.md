@@ -107,6 +107,8 @@ Cuando el objetivo es vender un inmueble pueden aparecer dos rutas generales:
 
 Se completa la transmisión o adjudicación registral a los herederos y luego ellos venden como titulares. Puede ser conveniente si todavía no existe comprador o si se busca dejar ordenada la propiedad.
 
+Si la duda es si corresponde registrar ahora la situación de una casa o terreno, leé [cuándo inscribir la declaratoria de herederos en Córdoba](/inscripcion-declaratoria-herederos-cordoba/).
+
 ### Venta coordinada desde la sucesión
 
 En casos aptos puede analizarse el **[tracto abreviado](/tracto-abreviado-cordoba/)**. Exige coordinación entre expediente, abogados, herederos, escribanía y Registro; no es un atajo automático ni reemplaza los controles del caso.
